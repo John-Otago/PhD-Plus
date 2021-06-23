@@ -1,1 +1,252 @@
-# The-JW-Project
+# The JW Project: Resources and Advice for Graduate Students
+
+Version 0.0.7  
+Last update: 23 June 2021  
+
+## Table of Contents  
+upcoming  
+ 
+  ---
+    
+## Introduction
+
+### 0.1 Purpose
+This project is to help you prepare for your PhD/Graduate School.
+  
+Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training or career should benefit from this project.
+
+### 0.2 Terminology
+I use mixed terms from both the US and the UK/Commonwealth academic systems.
+
+For example, 'graduate school' seems to come from the US, while 'postgraduate student' appears more common in the UK system. I use 'graudate school' and 'graduate students' for consistency, or just 'PhD' as shorthand.
+
+Also, a book-length PhD research is called a 'dissertation' in the US, but a 'thesis' in the UK system. To add to the confusion, a shorter piece of research is called a 'thesis' in the former, but a 'dissertation' in the latter.
+
+Plus, 'dissertation committee' is mainly a US thing, and so is the expression of 'ABD' ('all but dissertation'). These terms may be confusing if you are not in the US or not familiar with its graduate training system.
+
+For research supervision, I use 'advisor' and 'supervsior' interchangeably. 
+
+For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permenant', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
+
+Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in the academe).
+
+### 0.3 Areas/Disciplines
+I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including the science, business, and other theoretical and applied areas.
+
+This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics) or STEAM (with 'Arts' added for humanities subjects).
+
+Overall, I draw insights from many areas and sectors of the academe and society, and this project is interdisciplinary in nature (the way I intended).
+
+### 0.4 Disclaimer
+This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
+  
+  ---
+    
+## 1. Before You Start
+
+### 1.1 The Goal
+Your Goal in Graduate School:  
+- **Complete your PhD (or other graduate degrees) on time.**
+
+'On time' may be interpreted differently depending on your field and career goal. Check with your supervisor. 
+
+### 1.2 Visions
+The purpose of graduate research and the 'big picture':
+
+- Push the boundary of knowledge
+- Benefit people, the nature, or society
+- Make the world a better place
+
+The vision is necessarily 'lofty'. Dream big. Aim high.
+Then work hard (and smart) to achieve it.
+
+### 1.3 Principles
+- **Communication**
+- **Strategy & Execution**
+- **Productivity**
+
+### 1.4 Methods
+Here's how you do it:
+- Communicate, communicate, communicate
+- Be strategic in your approach and ruthless in execution 
+- Improve your productivity (work hard and smart)
+
+**Communication:**  
+If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, say it and tell your advisor to work out a strategy.  
+
+**Strategy & Execution:**  
+(a) Keep a sharp focus on the most important things that help you achieve your goal (complete the PhD on time).  
+(b) Talk with your supervisor about the strategy: what you should read, what you should focus on, how to proceed with your research, and where to publish it.  
+(c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
+
+**Productivity:**  
+Productivity is essentially the ratio between the input and the output. Two ways to think about it:  
+(a) More input, more output (work hard).  
+(b) Less input, more output (work smart).  
+
+The former means you are 'productive' in the sense that you are producing more research outputs, but 'more input' means you are investing lots of hours and resources to achieve it. This is necessary when you first start, need to catch up, change your area, pursue your PhD in a different country using a different language, or want to achieve more (more than required).  
+
+The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
+
+In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
+ 
+  ---
+    
+## 2. The JW Philosophy of PhD Training
+### 2.1 Overview
+>[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating, because your brain’s standard for what counts as excitement has been raised, and indeed can never go back.
+>
+>  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
+
+You should read Oswald's part in that article, as I've quoted him out of context. 
+
+He's talking about workload for career academics, and what he hasn't spelled out is that, once you are used to working long hours and putting in the hard yard during your PhD, the heavy workload that is common in today's academia won't be a problem once you start your academic career.
+
+The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, the rest is a piece of cake and all other challenges will appear trivial.
+
+This is what I believe and expected from my PhD. Your mileage may vary. Your supervisor may think differently.
+
+Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
+
+I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose graduate school because you don't know what you do after college, I'd suggest two options: do something else, or figure our what you want during your PhD (it doens't need to be an academic career).
+
+You don't need to agree with me, but think about this before starting.
+
+### 2.2 Focus Areas
+- **Skill development (hard × soft) for work and life**
+- **Strong core knowledge × interdisciplinary methods**
+- **Structured training × individual discovery**
+- **Strategic thinking × dynamic balance**
+- **Sharp focus × broad periphery views**
+
+This section is a draft that may be revised later.
+
+### 2.3 Skill Development
+- **Research & Analysis**
+- **Critical, Creative, Strategic Thinking**
+- **Productivity & Project Management**
+- **Communication & Collaboration**
+- **Digital Skills & Data Skills**
+- **Qualitative & Quantitative Literacy**
+
+Details to be added later
+
+### 2.4 - 2.7 to be added later
+  
+  ---
+  
+## 3. Starting Graduate School
+
+### 3.1 Getting Ready for your PhD 
+- **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries.*
+- **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
+- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *Comments to be added later.*
+
+**Read these, ideally before graduate school.**
+  
+  ---
+  
+### 3.2 Work & Life Skills
+
+#### 3.2.1 Change how you work
+- **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *You may also want to consult his later book *Digital Minimalism* (2019) if you often find yourself distracted by social media.*
+- **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books - an imprint of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
+- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is an influential method. The book is rich and dense. Take your time to go through it and then try implementing the GTD method. I suggest that you purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
+
+**I require all my students to read these books on *productivity* and *time-management*. The goal is to get the most out of your graduate school for a fulfilling life and career. These books will help you achieve that if you implement the principles and methods described in them.**
+  
+  
+#### 3.2.2 Change how you think
+
+Books to be added soon.
+  
+  
+#### 3.2.3 Change how you use digital tools
+- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact checking and basic info gathering; Chapters 6 and 10 are particularly good.*
+  
+  ---
+  
+### 3.3 Basic Research Methods (in HASS)
+- [Optional] Handling Qualitative Data: A Practical Guide, 4th ed. (L Richards, 2021, Sage)
+
+**There are MANY books on research methods and some are disciplinary-specific; those included here are introductions and overviews of generic methods.**
+
+**Talk to your supervisor about the methods you should use for your project and to what degree you should engage methodological reasoning and justification. Personally, I don't think you need to focus too much on this unless your methods are highly complex, hybrid, or innovative (or your research itself is on methodology).**
+  
+  ---
+  
+### 3.4 Strategy & Execution
+
+Books to be added soon.
+  
+  ---
+  
+### 3.5 Academic Writing & Publication - *start from day one*
+
+#### 3.5.1 Generic Writing Skills
+- [Optional] **
+- [Optional] **
+  
+#### 3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
+- [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
+- [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
+  
+#### 3.5.3 Journal Articles (for everyone including 'PhD by Publication')
+- [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally). It can be quite helpful for beginners if you prefer a highly structured step-by-step instruction.*
+  
+#### 3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)
+- [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
+- [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
+  
+#### 3.5.5 Blogs on Academic Writing for Graduate Students
+- [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
+- [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
+  
+**Everything in this section is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
+
+**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guideline, although many students have completed their PhD and published their work without resorting to any of these resources.**
+
+**You need to keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
+
+**Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**
+
+**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.**
+  
+  ---
+  
+### 3.6 Job Search & Career Preparation - *start from day one*
+
+#### 3.6.1 Overview
+- [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
+
+**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
+
+**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market.**
+
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect for HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily on science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
+
+**Last note: networking is important for both academic and non-academic careers! Check out the books below in both 3.6.2 and 3.6.3, and start from day one!**
+  
+  
+#### 3.6.2 Academic Careers
+- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
+- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
+- [Optional] **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)  
+  
+**These books are mostly pertinet to the job search process in the US, although students in ohter countires will also benefit.**
+  
+  
+#### 3.6.3 Non-Academic Careers
+- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
+- **Going Alt-Ac: A Guide to Alternative Academic Careers** (Linder et al., 2020, Stylus Publishing)  
+- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
+- [Website] [The Versatile PhD](https://versatilephd.com/)
+
+**Again, mostly written in the US, but benefitial for others.**
+
+  ---
+  
+## Other sections will be added later
+  
+  ---
+  
