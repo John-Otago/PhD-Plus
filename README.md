@@ -1,4 +1,4 @@
-# The JW Project: Resources & Advice for Graduate Students
+# The JW Project: Resources and Advice for Graduate Students
 
 Version 0.0.7  
 Last update: 23 June 2021  
