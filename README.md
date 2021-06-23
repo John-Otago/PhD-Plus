@@ -18,7 +18,7 @@ Ideally you should read through the list and the books before you start graduate
 ### 0.2 Terminology
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
 
-For example, 'graduate school' seems to come from the US, while 'postgraduate student' appears more common in the UK system. I use 'graudate school' and 'graduate students' for consistency, or just 'PhD' as shorthand.
+For example, 'graduate school' seems to come from the US, while 'postgraduate student' appears more common in the UK system. I use 'graduate school' and 'graduate students' for consistency, or just 'PhD' as shorthand.
 
 Also, a book-length PhD research is called a 'dissertation' in the US, but a 'thesis' in the UK system. To add to the confusion, a shorter piece of research is called a 'thesis' in the former, but a 'dissertation' in the latter.
 
@@ -26,16 +26,16 @@ Plus, 'dissertation committee' is mainly a US thing, and so is the expression of
 
 For research supervision, I use 'advisor' and 'supervsior' interchangeably. 
 
-For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permenant', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
+For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
 Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in the academe).
 
 ### 0.3 Areas/Disciplines
-I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including the science, business, and other theoretical and applied areas.
+I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including science, business, and other theoretical and applied areas.
 
 This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics) or STEAM (with 'Arts' added for humanities subjects).
 
-Overall, I draw insights from many areas and sectors of the academe and society, and this project is interdisciplinary in nature (the way I intended).
+Overall, I draw insights from many areas and sectors of academe and society, and this project is interdisciplinary in nature (the way I intended).
 
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
@@ -54,7 +54,7 @@ Your Goal in Graduate School:
 The purpose of graduate research and the 'big picture':
 
 - Push the boundary of knowledge
-- Benefit people, the nature, or society
+- Benefit people and society
 - Make the world a better place
 
 The vision is necessarily 'lofty'. Dream big. Aim high.
@@ -108,7 +108,7 @@ This is what I believe and expected from my PhD. Your mileage may vary. Your sup
 
 Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
 
-I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose graduate school because you don't know what you do after college, I'd suggest two options: do something else, or figure our what you want during your PhD (it doens't need to be an academic career).
+I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
 
 You don't need to agree with me, but think about this before starting.
 
@@ -153,7 +153,7 @@ Details to be added later
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books - an imprint of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is an influential method. The book is rich and dense. Take your time to go through it and then try implementing the GTD method. I suggest that you purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
 
-**I require all my students to read these books on *productivity* and *time-management*. The goal is to help you get the most out of your graduate school for a fulfilling life and career, if you can implement the principles and methods described in these books.**
+**I require all my students to read these books on *productivity* and *time management*. The goal is to help you get the most out of your graduate school for a fulfilling life and career, if you can implement the principles and methods described in these books.**
   
   
 #### 3.2.2 Change how you think
@@ -162,7 +162,7 @@ Books to be added soon.
   
   
 #### 3.2.3 Change how you use digital tools
-- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact checking and basic info gathering; Chapters 6 and 10 are particularly good.*
+- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
   ---
   
@@ -204,7 +204,7 @@ Books to be added soon.
   
 **Everything in this section is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
 
-**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guideline, although many students have completed their PhD and published their work without resorting to any of these resources.**
+**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guidelines, although many students have completed their PhD and published their work without resorting to any of these resources.**
 
 **You need to keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
@@ -223,7 +223,7 @@ Books to be added soon.
 
 **Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market.**
 
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect for HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily on science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect for HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
 
 **Last note: networking is important for both academic and non-academic careers! Check out the books below in both 3.6.2 and 3.6.3, and start from day one!**
   
@@ -233,7 +233,7 @@ Books to be added soon.
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - [Optional] **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)  
   
-**These books are mostly pertinet to the job search process in the US, although students in ohter countires will also benefit.**
+**These books are most pertinent to the job search process in the US, although students in other countries will also benefit.**
   
   
 #### 3.6.3 Non-Academic Careers
@@ -242,7 +242,7 @@ Books to be added soon.
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - [Website] [The Versatile PhD](https://versatilephd.com/)
 
-**Again, mostly written in the US, but benefitial for others.**
+**Again, mostly written in the US, but beneficial for others.**
 
   ---
   
