@@ -165,8 +165,14 @@ Books to be added soon.
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
   ---
+    
+### 3.3 Strategy & Execution
+
+Books to be added soon.
   
-### 3.3 Basic Research Methods (in HASS)
+  ---
+  
+### 3.4 Basic Research Methods (in HASS)
 - [Optional] Handling Qualitative Data: A Practical Guide, 4th ed. (L Richards, 2021, Sage)
 
 **There are MANY books on research methods and some are disciplinary-specific; those included here are introductions and overviews of generic methods.**
@@ -174,13 +180,7 @@ Books to be added soon.
 **Talk to your supervisor about the methods you should use for your project and to what degree you should engage methodological reasoning and justification. Personally, I don't think you need to focus too much on this unless your methods are highly complex, hybrid, or innovative (or your research itself is on methodology).**
   
   ---
-  
-### 3.4 Strategy & Execution
 
-Books to be added soon.
-  
-  ---
-  
 ### 3.5 Academic Writing & Publication - *start from day one*
 
 #### 3.5.1 Generic Writing Skills
