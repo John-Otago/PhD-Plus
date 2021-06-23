@@ -223,7 +223,7 @@ Books to be added soon.
 
 **Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market.**
 
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect for HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
 
 **Last note: networking is important for both academic and non-academic careers! Check out the books below in both 3.6.2 and 3.6.3, and start from day one!**
   
