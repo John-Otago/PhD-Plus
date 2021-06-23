@@ -153,7 +153,7 @@ Details to be added later
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books - an imprint of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is an influential method. The book is rich and dense. Take your time to go through it and then try implementing the GTD method. I suggest that you purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
 
-**I require all my students to read these books on *productivity* and *time-management*. The goal is to get the most out of your graduate school for a fulfilling life and career, if you can implement the principles and methods described in these books.**
+**I require all my students to read these books on *productivity* and *time-management*. The goal is to help you get the most out of your graduate school for a fulfilling life and career, if you can implement the principles and methods described in these books.**
   
   
 #### 3.2.2 Change how you think
