@@ -1,7 +1,7 @@
 # The JW Project: Resources and Advice for Graduate Students
 
-Version 0.0.7  
-Last update: 23 June 2021  
+Version 0.0.8  
+Last update: 25 June 2021  
 
 ## Table of Contents  
 upcoming  
@@ -104,7 +104,7 @@ He's talking about workload for career academics, and what he hasn't spelled out
 
 The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, the rest is a piece of cake and all other challenges will appear trivial.
 
-This is what I believe and expected from my PhD. Your mileage may vary. Your supervisor may think differently.
+I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
 
 Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
 
@@ -173,11 +173,15 @@ Books to be added soon.
   ---
   
 ### 3.4 Basic Research Methods (in HASS)
-- [Optional] Handling Qualitative Data: A Practical Guide, 4th ed. (L Richards, 2021, Sage)
+- **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
+- [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
+- [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
+- [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin, C Olsson, and EÖ Atikcan, 2021, Oxford UP)
+- [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
 
 **There are MANY books on research methods and some are disciplinary-specific; those included here are introductions and overviews of generic methods.**
 
-**Talk to your supervisor about the methods you should use for your project and to what degree you should engage methodological reasoning and justification. Personally, I don't think you need to focus too much on this unless your methods are highly complex, hybrid, or innovative (or your research itself is on methodology).**
+**Talk to your supervisor about your research design. This is part of your training and you need to write about your methods in your thesis/dissertation, but I don't think you should focus too much on this unless your methods are complex, hybrid, or innovative (or your research itself is on methodology).**
   
   ---
 
