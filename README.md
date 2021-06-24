@@ -4,7 +4,40 @@ Version 0.0.8
 Last update: 25 June 2021  
 
 ## Table of Contents  
-upcoming  
+   
+&ensp;&ensp;[Introduction](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#introduction)  
+  &emsp;&emsp;[0.1 Purpose](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#01-purpose)  
+  &emsp;&emsp;[0.2 Terminology](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#02-terminology)  
+  &emsp;&emsp;[0.3 Areas/Disciplines](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#03-areasdisciplines)  
+  &emsp;&emsp;[0.4 Disclaimer](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#04-disclaimer)  
+  
+&ensp;&ensp;[1. Before You Start](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#1-before-you-start)  
+  &emsp;&emsp;[1.1 The Goal](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#11-the-goal)  
+  &emsp;&emsp;[1.2 Visions](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#12-visions)  
+  &emsp;&emsp;[1.3 Principles](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#13-principles)  
+  &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#14-methods)  
+  
+&ensp;&ensp;[2. The JW Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-the-jw-philosophy-of-phd-training)  
+  &emsp;&emsp;[2.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
+  &emsp;&emsp;[2.2 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#22-focus-areas)  
+  &emsp;&emsp;[2.3 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#23-skill-development)  
+  &emsp;&emsp;[2.4 - 2.7 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#24---27-to-be-added-later)  
+  
+&ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
+  &emsp;&emsp;[]()  
+  &emsp;&emsp;[]()  
+  &emsp;&emsp;[]()  
+  &emsp;&emsp;[]()  
+  &emsp;&emsp;[]()  
+  &emsp;&emsp;[]()  
+
+&ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#other-sections-will-be-added-later)  
+ 
+
+
+ 
+
+
  
   ---
     
