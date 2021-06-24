@@ -24,13 +24,33 @@ Last update: 25 June 2021
   &emsp;&emsp;[2.4 - 2.7 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#24---27-to-be-added-later)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
-  &emsp;&emsp;[]()  
-  &emsp;&emsp;[]()  
-  &emsp;&emsp;[]()  
-  &emsp;&emsp;[]()  
-  &emsp;&emsp;[]()  
-  &emsp;&emsp;[]()  
+  &emsp;&emsp;[3.1 Getting Ready for your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
+  
+  &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#32-work--life-skills)  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+  
+  &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#33-strategy--execution)  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+  
+  &emsp;&emsp;[3.4 Basic Research Methods (in HASS)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#34-basic-research-methods-in-hass)  
 
+  &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]() 
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]() 
+  
+  &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[]() 
+    
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#other-sections-will-be-added-later)  
  
 
