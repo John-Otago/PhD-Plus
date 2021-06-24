@@ -137,7 +137,9 @@ The former means you are 'productive' in the sense that you are producing more r
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
 In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
- 
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+  
   ---
     
 ## 2. The JW Philosophy of PhD Training
@@ -181,8 +183,10 @@ Details to be added later
 
 ### 2.4 - 2.7 to be added later
   
-  ---
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
+  ---
+    
 ## 3. Starting Graduate School
 
 ### 3.1 Getting Ready for your PhD 
@@ -298,11 +302,15 @@ Books to be added soon.
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - [Website] [The Versatile PhD](https://versatilephd.com/)
 
-**Again, mostly written in the US, but beneficial for others.**
-
-  ---
+**Again, mostly written in the US, but beneficial for others.**  
   
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+  
+  ---
+    
 ## Other sections will be added later
   
-  ---
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
+  ---
+    
