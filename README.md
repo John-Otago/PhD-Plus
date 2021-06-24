@@ -196,8 +196,10 @@ Details to be added later
 
 **Read these, ideally before graduate school.**
   
-  ---
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
+  ---
+    
 ### 3.2 Work & Life Skills
 
 #### 3.2.1 Change how you work
@@ -216,6 +218,8 @@ Books to be added soon.
 #### 3.2.3 Change how you use digital tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+  
   ---
     
 ### 3.3 Strategy & Execution
@@ -226,8 +230,10 @@ Books to be added soon.
 
 Books to be added soon.
   
-  ---
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
+  ---
+    
 ### 3.4 Basic Research Methods (in HASS)
 - **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
 - [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
@@ -239,8 +245,10 @@ Books to be added soon.
 
 **Talk to your supervisor about your research design. This is part of your training and you need to write about your methods in your thesis/dissertation, but I don't think you should focus too much on this unless your methods are complex, hybrid, or innovative (or your research itself is on methodology).**
   
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+  
   ---
-
+    
 ### 3.5 Academic Writing & Publication - *start from day one*
 
 #### 3.5.1 Generic Writing Skills
@@ -272,8 +280,10 @@ Books to be added soon.
 
 **Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.**
   
-  ---
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
+  ---
+    
 ### 3.6 Job Search & Career Preparation - *start from day one*
 
 #### 3.6.1 Overview
