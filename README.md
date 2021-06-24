@@ -25,11 +25,11 @@ Last update: 25 June 2021
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
-  
+
   &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#32-work--life-skills)  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#321-change-how-you-work)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.2 Change how you think](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#322-change-how-you-think)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#323-change-how-you-use-digital-tools)  
   
   &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#33-strategy--execution)  
     &emsp;&emsp;&emsp;&emsp;[]()  
@@ -39,25 +39,18 @@ Last update: 25 June 2021
   &emsp;&emsp;[3.4 Basic Research Methods (in HASS)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#34-basic-research-methods-in-hass)  
 
   &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]() 
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]() 
+    &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#351-generic-writing-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#352-the-phd-thesisdissertation-80000---100000-words)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#353-journal-articles-for-everyone-including-phd-by-publication)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--interpretive-social-sciences)   
+    &emsp;&emsp;&emsp;&emsp;[3.5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#355-blogs-on-academic-writing-for-graduate-students)  
   
   &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]() 
+    &emsp;&emsp;&emsp;&emsp;[3.6.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#361-overview)  
+    &emsp;&emsp;&emsp;&emsp;[3.6.2 Academic Careers](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#362-academic-careers)  
+    &emsp;&emsp;&emsp;&emsp;[3.6.3 Non-Academic Careers](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#363-non-academic-careers) 
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#other-sections-will-be-added-later)  
- 
-
-
- 
-
-
  
   ---
     
@@ -220,6 +213,10 @@ Books to be added soon.
   ---
     
 ### 3.3 Strategy & Execution
+  
+#### 3.3.1 Strategic Thinking  
+#### 3.3.2 Effective Decision-Making  
+#### 3.3.3 Execution  
 
 Books to be added soon.
   
