@@ -32,9 +32,9 @@ Last update: 25 June 2021
     &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#323-change-how-you-use-digital-tools)  
   
   &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#33-strategy--execution)  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
-    &emsp;&emsp;&emsp;&emsp;[]()  
+    &emsp;&emsp;&emsp;&emsp;[3.3.1 Strategic Thinking](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#331-strategic-thinking)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.2 Effective Decision-Making](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#332-effective-decision-making)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#333-execution)  
   
   &emsp;&emsp;[3.4 Basic Research Methods (in HASS)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#34-basic-research-methods-in-hass)  
 
@@ -85,6 +85,8 @@ Overall, I draw insights from many areas and sectors of academe and society, and
 
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
   ---
     
