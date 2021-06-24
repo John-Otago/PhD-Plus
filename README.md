@@ -24,7 +24,7 @@ Last update: 25 June 2021
   &emsp;&emsp;[2.4 - 2.7 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#24---27-to-be-added-later)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
-  &emsp;&emsp;[3.1 Getting Ready for your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
+  &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
 
   &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#32-work--life-skills)  
     &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#321-change-how-you-work)  
@@ -189,7 +189,7 @@ Details to be added later
     
 ## 3. Starting Graduate School
 
-### 3.1 Getting Ready for your PhD 
+### 3.1 Getting Ready for Your PhD 
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries.*
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *Comments to be added later.*
