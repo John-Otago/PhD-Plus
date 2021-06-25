@@ -272,7 +272,7 @@ Books to be added soon.
   
 **Everything in this section is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
 
-**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guidelines, although many students have completed their PhD and published their work without resorting to any of these resources.**
+**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guideline, although many students have completed their PhD and published their work without resorting to any of these resources.**
 
 **You need to keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
