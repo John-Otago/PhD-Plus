@@ -127,9 +127,9 @@ Here's how you do it:
 If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
 
 **Strategy & Execution:**  
-Keep a sharp focus on the most important things that will help you achieve your goal (complete the PhD on time).  
-Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
-Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
+(a) Keep a sharp focus on the most important things that will help you achieve your goal (complete the PhD on time).  
+(b) Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
+(c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
 
 Also check out the books in section 3.3 below.
 
@@ -144,12 +144,12 @@ The latter is to improve your productivity--in the long run, that's the only thi
 
 In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
   
-**Resilience:**
-Develop your ability to adapt to changes, losses, and adversities.
-Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.
-Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.
-Learn to work and perform under stress and time constraint.
-Flexibility, adaptability, and perseverance are the key.
+**Resilience:**  
+Develop your ability to adapt to changes, losses, and adversities.  
+Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
+Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
+Learn to work and perform under stress and time constraint.  
+Flexibility, adaptability, and perseverance are the key.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
