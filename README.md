@@ -145,11 +145,11 @@ The latter is to improve your productivity--in the long run, that's the only thi
 In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
   
 **Resilience:**  
-Develop your ability to adapt to changes, losses, and adversities.  
-Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
-Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
-Learn to work and perform under stress and time constraint.  
-Flexibility, adaptability, and perseverance are the key.  
+(a) Develop your ability to adapt to changes, losses, and adversities.  
+(b) Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
+(c) Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
+(d) Learn to work and perform under stress and time constraint.  
+(e) Flexibility, adaptability, and perseverance are the key.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
