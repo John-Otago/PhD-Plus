@@ -1,7 +1,7 @@
 # The JW Project: Resources and Advice for Graduate Students
 
 Version 0.0.8  
-Last update: 25 June 2021  
+Last update: 26 June 2021  
 
 ## Table of Contents  
    
@@ -142,7 +142,7 @@ In reality, most people need to balance the two: work hard to be productive, but
   
   ---
     
-## 2. The JW Philosophy of PhD Training
+## 2. Philosophy of PhD Training
 ### 2.1 Overview
 >[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating, because your brain’s standard for what counts as excitement has been raised, and indeed can never go back.
 >
@@ -150,7 +150,7 @@ In reality, most people need to balance the two: work hard to be productive, but
 
 You should read Oswald's part in that article, as I've quoted him out of context. 
 
-He's talking about workload for career academics, and what he hasn't spelled out is that, once you are used to working long hours and putting in the hard yard during your PhD, the heavy workload that is common in today's academia won't be a problem once you start your academic career.
+He's talking about workload for career academics, and what he hasn't spelled out is that, once you are used to working hard during your PhD, then the heavy workload that is common in today's academia won't be a problem once you start your academic career.
 
 The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, the rest is a piece of cake and all other challenges will appear trivial.
 
@@ -207,7 +207,7 @@ Details to be added later
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books - an imprint of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is an influential method. The book is rich and dense. Take your time to go through it and then try implementing the GTD method. I suggest that you purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
 
-**I require all my students to read these books on *productivity* and *time management*. The goal is to help you get the most out of your graduate school for a fulfilling life and career, if you can implement the principles and methods described in these books.**
+**I require all my students to read these books on *productivity* and *time management*. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (or develop your own based on these).**
   
   
 #### 3.2.2 Change how you think
