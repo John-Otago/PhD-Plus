@@ -337,7 +337,7 @@ Books to be added soon.
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - [Website] [The Versatile PhD](https://versatilephd.com/)
 
-**Again, mostly written and published in the US, but beneficial for students in other countries.**  
+**Again, mostly written and published in the US and useful for students in other countries.**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
