@@ -110,22 +110,28 @@ Then work hard (and smart) to achieve it.
 
 ### 1.3 Principles
 - **Communication**
-- **Strategy & Execution**
+- **Strategy**
+- **Execution**
 - **Productivity**
+- **Resilience**
 
 ### 1.4 Methods
 Here's how you do it:
 - Communicate, communicate, communicate
-- Be strategic in your approach and ruthless in execution 
-- Improve your productivity (work hard and smart)
+- Think strategically
+- Execute effectively
+- Produce more
+- Adapt to changes and mistakes
 
 **Communication:**  
-If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, say it and tell your advisor to work out a strategy.  
+If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
 
 **Strategy & Execution:**  
-(a) Keep a sharp focus on the most important things that help you achieve your goal (complete the PhD on time).  
-(b) Talk with your supervisor about the strategy: what you should read, what you should focus on, how to proceed with your research, and where to publish it.  
-(c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
+Keep a sharp focus on the most important things that will help you achieve your goal (complete the PhD on time).  
+Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
+Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
+
+Also check out the books in section 3.3 below.
 
 **Productivity:**  
 Productivity is essentially the ratio between the input and the output. Two ways to think about it:  
@@ -137,6 +143,13 @@ The former means you are 'productive' in the sense that you are producing more r
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
 In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
+  
+**Resilience:**
+Develop your ability to adapt to changes, losses, and adversities.
+Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.
+Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.
+Learn to work and perform under stress and time constraint.
+Flexibility, adaptability, and perseverance are the key.
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
@@ -167,7 +180,7 @@ You don't need to agree with me, but think about this before starting.
 - **Strong core knowledge × interdisciplinary methods**
 - **Structured training × individual discovery**
 - **Strategic thinking × dynamic balance**
-- **Sharp focus × broad periphery views**
+- **Sharp focus × broad periphery view**
 
 This section is a draft that may be revised later.
 
@@ -272,7 +285,7 @@ Books to be added soon.
   
 **Everything in this section is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
 
-**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you like some guideline, although many students have completed their PhD and published their work without resorting to any of these resources.**
+**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you need some guideline, although many students have completed their PhD and published their work without resorting to these resources.**
 
 **You need to keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
