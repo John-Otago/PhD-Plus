@@ -264,7 +264,7 @@ Books to be added soon.
 - **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
 - [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
 - [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
-- [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin, C Olsson, and EÖ Atikcan, 2021, Oxford UP)
+- [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin et al., 2021, Oxford UP)
 - [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
 
 **There are MANY books on research methods and some are disciplinary-specific; those included here are introductions and overviews of generic methods.**
