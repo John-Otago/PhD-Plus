@@ -20,8 +20,8 @@ Last update: 25 June 2021
 &ensp;&ensp;[2. The JW Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-the-jw-philosophy-of-phd-training)  
   &emsp;&emsp;[2.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
   &emsp;&emsp;[2.2 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#22-focus-areas)  
-  &emsp;&emsp;[2.3 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#23-skill-development)  
-  &emsp;&emsp;[2.4 - 2.7 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#24---27-to-be-added-later)  
+  &emsp;&emsp;&emsp;&emsp;[2.2.1 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#221-skill-development)  
+  &emsp;&emsp;&emsp;&emsp;[2.2.2 - 2.2.5 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#222---225-to-be-added-later)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
