@@ -93,10 +93,21 @@ This project is based on my personal philosophy and shaped by my experience. You
 ## 1. Before You Start
 
 ### 1.1 The Goal
-Your Goal in Graduate School:  
+There's only one goal:
+
 - **Complete your PhD (or other graduate degrees) on time.**
 
-'On time' may be interpreted differently depending on your field and career goal. Check with your supervisor. 
+'On time' should be interpreted differently and strategically depending on your field and career goal.
+
+(a) If you want an industry job and your PhD is in a field with a matching industry to work in, you should aim to finish your PhD as fast as possible.
+
+Set your own deadline much earlier than the standard one. Strive to achieve it. If anything went wrong and you couldn't finish your PhD earlier, you can still finish it 'on time'. If you follow the standard timeline and something went wrong, you won’t get it on time.
+
+(b) If you want an academic job, you should utilise the maximum funded time of your PhD to build up your publication and network.
+
+Still set your own deadline a bit earlier. If you can meet it and finish your PhD earlier, don't submit it and give up on your funding; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends. 
+
+Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.
 
 ### 1.2 Visions
 The purpose of graduate research and the 'big picture':
