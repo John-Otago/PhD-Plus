@@ -1,5 +1,7 @@
-# The JW Project: Resources and Advice for Graduate Students
+# PhD+: Resources and Advice for Graduate Students
 
+  
+A JW Project
 Version 0.0.8  
 Last update: 26 June 2021  
 
