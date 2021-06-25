@@ -295,7 +295,7 @@ Books to be added soon.
 
 **For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
 
-**Last note: networking is important for both academic and non-academic careers!  
+**Last note: networking is important for both academic and non-academic careers!**  
   
 #### 3.6.2 Academic Careers
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
@@ -311,7 +311,7 @@ Books to be added soon.
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - [Website] [The Versatile PhD](https://versatilephd.com/)
 
-**Again, mostly written and published in the US, but beneficial for others.**  
+**Again, mostly written and published in the US, but beneficial for students in other countries.**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
