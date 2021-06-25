@@ -171,7 +171,7 @@ You don't need to agree with me, but think about this before starting.
 
 This section is a draft that may be revised later.
 
-### 2.3 Skill Development
+#### 2.2.1 Skill Development
 - **Research & Analysis**
 - **Critical, Creative, Strategic Thinking**
 - **Productivity & Project Management**
@@ -180,8 +180,8 @@ This section is a draft that may be revised later.
 - **Qualitative & Quantitative Literacy**
 
 Details to be added later
-
-### 2.4 - 2.7 to be added later
+  
+#### 2.2.2 - 2.2.5 to be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
