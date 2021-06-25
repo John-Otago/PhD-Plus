@@ -59,7 +59,7 @@ Last update: 26 June 2021
 ### 0.1 Purpose
 This project is to help you prepare for your PhD/Graduate School.
   
-Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training or career should benefit from this project.
+Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) could benefit from this project.
 
 ### 0.2 Terminology
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
@@ -70,16 +70,18 @@ Also, a book-length PhD research is called a 'dissertation' in the US, but a 'th
 
 Plus, 'dissertation committee' is mainly a US thing, and so is the expression of 'ABD' ('all but dissertation'). These terms may be confusing if you are not in the US or not familiar with its graduate training system.
 
-For research supervision, I use 'advisor' and 'supervsior' interchangeably. 
+For research supervision, I use 'advisor' and 'supervsior' interchangeably.
+
+I also use 'academia' and 'academe' to mean the same thing--the academic world that we work in.
 
 For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
-Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in the academe).
+Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academe).
 
 ### 0.3 Areas/Disciplines
 I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including science, business, and other theoretical and applied areas.
 
-This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics) or STEAM (with 'Arts' added for humanities subjects).
+This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics).
 
 Overall, I draw insights from many areas and sectors of academe and society, and this project is interdisciplinary in nature (the way I intended).
 
