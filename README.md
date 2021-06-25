@@ -17,7 +17,7 @@ Last update: 26 June 2021
   &emsp;&emsp;[1.3 Principles](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#13-principles)  
   &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#14-methods)  
   
-&ensp;&ensp;[2. The JW Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-the-jw-philosophy-of-phd-training)  
+&ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-philosophy-of-phd-training)  
   &emsp;&emsp;[2.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
   &emsp;&emsp;[2.2 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#22-focus-areas)  
   &emsp;&emsp;&emsp;&emsp;[2.2.1 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#221-skill-development)  
