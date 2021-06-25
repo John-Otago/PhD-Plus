@@ -107,7 +107,7 @@ Set your own deadline much earlier than the standard one. Strive to achieve it. 
 
 (b) If you want an academic job, you should utilise the maximum funded time of your PhD to build up your publication and network.
 
-Still set your own deadline a bit earlier. If you can meet it and finish your PhD earlier, don't submit it and give up on your funding; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends. 
+Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends.
 
 Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.
 
