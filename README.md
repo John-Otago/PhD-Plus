@@ -36,7 +36,7 @@ Last update: 26 June 2021
     &emsp;&emsp;&emsp;&emsp;[3.3.2 Effective Decision-Making](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#332-effective-decision-making)  
     &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#333-execution)  
   
-  &emsp;&emsp;[3.4 Basic Research Methods (in HASS)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#34-basic-research-methods-in-hass)  
+  &emsp;&emsp;[3.4 Basic Research Methods (in Social Sciences)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#34-basic-research-methods-in-hass)  
 
   &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
     &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#351-generic-writing-skills)  
@@ -260,7 +260,7 @@ Books to be added soon.
   
   ---
     
-### 3.4 Basic Research Methods (in HASS)
+### 3.4 Basic Research Methods (in Social Sciences)
 - **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
 - [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
 - [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
