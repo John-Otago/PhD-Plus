@@ -234,8 +234,9 @@ Details to be added later
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *You may also want to consult his later book *Digital Minimalism* (2019) if you often find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books - an imprint of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is an influential method. The book is rich and dense. Take your time to go through it and then try implementing the GTD method. I suggest that you purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
+- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book laid the foundation for energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours every day and year-round, which may be typical during your PhD. Also search for more recent research and publications on this topic.*
 
-**I require all my students to read these books on *productivity* and *time management*. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (or develop your own based on these).**
+**I require all my students to read these books on *productivity* and *time/energy management*. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and develop your own system based on these).**
   
   
 #### 3.2.2 Change how you think
