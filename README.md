@@ -264,15 +264,15 @@ Books to be added soon.
   ---
     
 ### 3.4 Research Design & Research Methods (in Social Sciences)
-- **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
+- [Optional] **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage)
 - [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
 - [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
 - [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin et al., 2021, Oxford UP)
 - [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
 
-**There are MANY books on research methods and some are disciplinary-specific; those included here are introductions and overviews of generic methods.**
+**There are MANY books on research design and methods, and some are discipline-specific; those included here are introductions and overviews of generic methods.**
 
-**Talk to your supervisor about your research design. This is part of your training and you need to write about your methods in your thesis/dissertation, but I don't think you should focus too much on this unless your methods are complex, hybrid, or innovative (or your research itself is on methodology).**
+**Talk to your supervisor about your research design. This is part of your training and you need to write about your methods in your thesis/dissertation, but I don't think you should focus too much on this unless your methods are complex, hybrid, or innovative.**
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
