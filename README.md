@@ -180,7 +180,7 @@ You should read Oswald's part in that article, as I've quoted him out of context
 
 He's talking about workload for career academics, and what he hasn't spelled out is that, once you are used to working hard during your PhD, then the heavy workload that is common in today's academia won't be a problem once you start your academic career.
 
-The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, the rest is a piece of cake and all other challenges will appear trivial.
+The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, all other challenges will appear small and trivial.
 
 I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
 
