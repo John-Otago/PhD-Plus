@@ -1,4 +1,4 @@
-# PhD+: Resources and Advice for Graduate Students
+# PhD+ (Resources & Advice for Graduate Students)
 
   
 A J.W. Project  
