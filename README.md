@@ -3,7 +3,7 @@
   
 A J.W. Project  
 Version 0.0.8  
-Last update: 1 July 2021  
+Last update: 6 July 2021  
 
 ## Table of Contents  
    
@@ -240,8 +240,7 @@ Details to be added later
   
   
 #### 3.2.2 Change how you think
-
-Books to be added soon.
+- **Thinking in Systems: A Primer** (DH Meadows (author) and D Wright (editor), Chelsea Green Publishing)
   
   
 #### 3.2.3 Change how you use digital tools
