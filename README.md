@@ -135,7 +135,7 @@ Here's how you do it:
 - Communicate, communicate, communicate
 - Think strategically
 - Execute effectively
-- Produce more
+- Produce more (with less input)
 - Adapt to changes and mistakes
 
 **Communication:**  
@@ -157,7 +157,7 @@ The former means you are 'productive' in the sense that you are producing more r
 
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
-In reality, most people need to balance the two: work hard to be productive, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
+In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
   
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
