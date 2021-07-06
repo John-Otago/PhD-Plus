@@ -2,7 +2,7 @@
 
   
 A J.W. Project  
-Version 0.0.8  
+Version 0.0.9  
 Last update: 6 July 2021  
 
 ## Table of Contents  
@@ -157,14 +157,16 @@ The former means you are 'productive' in the sense that you are producing more r
 
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
-In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2 below would be helpful.  
+In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2.1 below would be helpful.  
   
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
 (b) Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
 (c) Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
 (d) Learn to work and perform under stress and time constraint.  
-(e) Flexibility, adaptability, and perseverance are the key.  
+(e) Flexibility, adaptability, and perseverance are the key.
+
+The books in section 3.2.2 may be helpful.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
