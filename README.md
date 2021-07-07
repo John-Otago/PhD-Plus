@@ -243,7 +243,7 @@ Details to be added later
   
   
 #### 3.2.2 Change how you think
-- **Thinking in Systems: A Primer** (DH Meadows (author) and D Wright (editor), Chelsea Green Publishing)  
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)  
 
 More books to be added later.
 
