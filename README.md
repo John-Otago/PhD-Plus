@@ -274,9 +274,7 @@ Books to be added soon.
 - [Optional] **The Oxford Handbook of Qualitative Research, 2nd ed.** (Edited by P Leavy, 2020, Oxford UP)
 - [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
 
-**There are MANY books on research design and methods, and some are discipline-specific. Those included here are introductions and overviews, mostly in social and behavioural sciences and to a less degree in interpretive social sciences (and irrelevant to humanities).**
-
-**Talk to your supervisor about your research design and method, but I don't think you should focus too much on this unless your methods are complex, hybrid, or innovative.**
+**There are MANY books on research design and methods, and some are discipline-specific. Those included here are introductions and overviews, mostly in social and behavioural sciences and to a less degree in interpretive social sciences (and irrelevant to humanities).**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
