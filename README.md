@@ -164,7 +164,8 @@ In reality, most people need to balance the two: work hard to produce, but alway
 (b) Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
 (c) Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
 (d) Learn to work and perform under stress and time constraint.  
-(e) Flexibility, adaptability, and perseverance are the key.
+(e) Flexibility, adaptability, and perseverance are the key.  
+(f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars and focus areas to support work and life, don't rely exclusively on that 'one shot' that may or may not be successful, expect and live with ups and downs, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
 
 The books in section 3.2.2 may be helpful.  
   
