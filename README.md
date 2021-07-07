@@ -243,8 +243,10 @@ Details to be added later
   
   
 #### 3.2.2 Change how you think
-- **Thinking in Systems: A Primer** (DH Meadows (author) and D Wright (editor), Chelsea Green Publishing)
-  
+- **Thinking in Systems: A Primer** (DH Meadows (author) and D Wright (editor), Chelsea Green Publishing)  
+
+More books to be added later.
+
   
 #### 3.2.3 Change how you use digital tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press || *It's only useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
