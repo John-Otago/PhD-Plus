@@ -271,6 +271,7 @@ Books to be added soon.
 - [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
 - [Optional] **The Content Analysis Guidebook, 2nd ed.** (KA Neuendorf, 2017, Sage)
 - [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin et al., 2021, Oxford UP)
+- [Optional] **The Oxford Handbook of Qualitative Research, 2nd ed.** (Edited by P Leavy, 2020, Oxford UP)
 - [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
 
 **There are MANY books on research design and methods, and some are discipline-specific. Those included here are introductions and overviews, mostly in social and behavioural sciences and to a less degree in interpretive social sciences (and irrelevant to humanities).**
