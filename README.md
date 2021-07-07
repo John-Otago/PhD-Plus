@@ -2,8 +2,8 @@
 
   
 A J.W. Project  
-Version 0.0.9  
-Last update: 6 July 2021  
+Version 0.0.10  
+Last update: 7 July 2021  
 
 ## Table of Contents  
    
@@ -142,7 +142,7 @@ Here's how you do it:
 If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
 
 **Strategy & Execution:**  
-(a) Keep a sharp focus on the most important things that will help you achieve your goal (complete the PhD on time).  
+(a) Focus on the things that will help you achieve your goal (complete the PhD on time), while developing useful skills.  
 (b) Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
 (c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
 
