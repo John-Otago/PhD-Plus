@@ -339,8 +339,9 @@ Books to be added soon.
 #### 3.6.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (Linder et al., 2020, Stylus Publishing)  
+- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
-- [Website] [The Versatile PhD](https://versatilephd.com/)
+- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 
 **Again, mostly written and published in the US and useful for students in other countries.**  
   
