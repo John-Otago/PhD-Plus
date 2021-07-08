@@ -3,7 +3,7 @@
   
 A J.W. Project  
 Version 0.0.10  
-Last update: 7 July 2021  
+Last update: 8 July 2021  
 
 ## Table of Contents  
    
@@ -59,7 +59,7 @@ Last update: 7 July 2021
 ## Introduction
 
 ### 0.1 Purpose
-This project is to help you prepare for your PhD/Graduate School.
+This project is to help students prepare for their PhD/Graduate School. Supervisors may also find it useful.
   
 Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) could benefit from this project.
 
@@ -78,7 +78,7 @@ Plus, 'dissertation committee' is mainly a US thing, and so is the expression of
 
 For research supervision, I use 'advisor' and 'supervsior' interchangeably.
 
-I also use 'academia' and 'academe' to mean the same thing--the academic world that we work in.
+I also use 'academia' and 'academe/academy' to mean the same thing--the academic world that we work in.
 
 For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
@@ -93,6 +93,12 @@ Overall, I draw insights from many areas and sectors of academe and society, and
 
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
+
+This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly think about these issues and constantly re-evaluate my approaches to make changes and updates regularly.  
+  
+Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). Covid-19 has signaled an epochal shift (and I returned to academia during the pandemic) so let’s take this opportunity and do something good.  
+  
+I welcome feedback and input from students, advisors, and everyone else.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
