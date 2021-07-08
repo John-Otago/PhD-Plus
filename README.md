@@ -152,7 +152,7 @@ Here's how you do it:
 If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
 
 **Strategy & Execution:**  
-(a) Focus on the things that will help you achieve your goal (complete the PhD on time), while developing useful skills.  
+(a) Focus on the things that will help you achieve your goal (complete the PhD on time) while developing useful skills.  
 (b) Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
 (c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
 
@@ -177,7 +177,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 (e) Flexibility, adaptability, and perseverance are the key.  
 (f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars and focus areas to support work and life, don't rely exclusively on that 'one shot' that may or may not be successful, expect and live with ups and downs, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
 
-The books in section 3.2.2 may be helpful.  
+The books in Sections 3.2.2 and 3.3 may be helpful.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
