@@ -89,8 +89,10 @@ I was trained across the social science and the arts and humanities, with a long
 
 This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics).
 
-Overall, I draw insights from many areas and sectors of academe and society, and this project is interdisciplinary in nature (the way I intended).
-
+Overall, I draw insights from many areas and sectors of academe and society, and this project is interdisciplinary (the way I intended).  
+  
+All the so-called ‘disciplines’ and ‘boundaries’ are man-made and artificial in nature, albeit not arbitrary. Think in systems, not in disciplines.  
+  
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
 
