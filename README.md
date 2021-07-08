@@ -63,6 +63,10 @@ This project is to help you prepare for your PhD/Graduate School.
   
 Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) could benefit from this project.
 
+Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research and an academic career (increasingly impossible for many).  
+  
+This project aims to offset this unfortunate tendency by developing and offering a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
+  
 ### 0.2 Terminology
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
 
