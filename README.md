@@ -7,54 +7,54 @@ Last update: 10 July 2021
 
 ## Table of Contents  
    
-&ensp;&ensp;[Introduction](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#introduction)  
-  &emsp;&emsp;[0.1 Purpose](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#01-purpose)  
-  &emsp;&emsp;[0.2 Terminology](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#02-terminology)  
-  &emsp;&emsp;[0.3 Areas/Disciplines](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#03-areasdisciplines)  
-  &emsp;&emsp;[0.4 Disclaimer](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#04-disclaimer)  
+&ensp;&ensp;[Introduction](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#introduction)  
+  &emsp;&emsp;[0.1 Purpose](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#01-purpose)  
+  &emsp;&emsp;[0.2 Terminology](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#02-terminology)  
+  &emsp;&emsp;[0.3 Areas/Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#03-areasdisciplines)  
+  &emsp;&emsp;[0.4 Disclaimer](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#04-disclaimer)  
   
-&ensp;&ensp;[1. Before You Start](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#1-before-you-start)  
-  &emsp;&emsp;[1.1 The Goal](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#11-the-goal)  
-  &emsp;&emsp;[1.2 Visions](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#12-visions)  
-  &emsp;&emsp;[1.3 Principles](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#13-principles)  
-  &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#14-methods)  
+&ensp;&ensp;[1. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#1-before-you-start)  
+  &emsp;&emsp;[1.1 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#11-the-goal)  
+  &emsp;&emsp;[1.2 Visions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-visions)  
+  &emsp;&emsp;[1.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-principles)  
+  &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-methods)  
   
-&ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-philosophy-of-phd-training)  
-  &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
-  &emsp;&emsp;[2.2 What to expect from your PhD?]
-  &emsp;&emsp;[2.3 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#23-focus-areas)  
-  &emsp;&emsp;&emsp;&emsp;[2.3.1 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#231-skill-development)  
-  &emsp;&emsp;&emsp;&emsp;[2.3.2 - 2.3.5 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#232---235-to-be-added-later)  
+&ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-philosophy-of-phd-training)  
+  &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-what-is-a-phd)  
+  &emsp;&emsp;[2.2 What to expect from your PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-what-to-expect-from-your-phd)  
+  &emsp;&emsp;[2.3 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-focus-areas)  
+  &emsp;&emsp;&emsp;&emsp;[2.3.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#231-skill-development)  
+  &emsp;&emsp;&emsp;&emsp;[2.3.2 - 2.3.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#232---235-to-be-added-later)  
   
-&ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
-  &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
+&ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-starting-graduate-school)  
+  &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-your-phd)  
 
-  &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#32-work--life-skills)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#321-change-how-you-work)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.2 Change how you think](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#322-change-how-you-think)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#323-change-how-you-use-digital-tools)  
+  &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work--life-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-change-how-you-work)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-change-how-you-think)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-change-how-you-use-digital-tools)  
   
-  &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#33-strategy--execution)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.1 Strategic Thinking](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#331-strategic-thinking)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.2 Effective Decision-Making](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#332-effective-decision-making)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#333-execution)  
+  &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-strategy--execution)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-strategic-thinking)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.2 Effective Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-effective-decision-making)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-execution)  
   
   &emsp;&emsp;[3.4 Research Design & Research Methods (in Social Sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#34-research-design--research-methods-in-social-sciences)  
 
-  &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#351-generic-writing-skills)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#352-the-phd-thesisdissertation-80000---100000-words)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#353-journal-articles-for-everyone-including-phd-by-publication)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--interpretive-social-sciences)   
-    &emsp;&emsp;&emsp;&emsp;[3.5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#355-blogs-on-academic-writing-for-graduate-students)  
+  &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#351-generic-writing-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#352-the-phd-thesisdissertation-80000---100000-words)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#353-journal-articles-for-everyone-including-phd-by-publication)  
+    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--interpretive-social-sciences)   
+    &emsp;&emsp;&emsp;&emsp;[3.5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#355-blogs-on-academic-writing-for-graduate-students)  
   
-  &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#361-overview)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.2 Academic Careers](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#362-academic-careers)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.3 Non-Academic Careers](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#363-non-academic-careers) 
+  &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.6.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#361-overview)  
+    &emsp;&emsp;&emsp;&emsp;[3.6.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#362-academic-careers)  
+    &emsp;&emsp;&emsp;&emsp;[3.6.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#363-non-academic-careers) 
     
-&ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#other-sections-will-be-added-later)  
- 
+&ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
+  
   ---
     
 ## Introduction
