@@ -203,15 +203,13 @@ Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What it's like to b
   
 Consider this quote:
   
->[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating, because your brain’s standard for what counts as excitement has been raised, and indeed can never go back.
+>[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating [...].
 >
 >  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
 
-You should read Oswald's part in that article, as I've quoted him out of context. 
-
-He's talking about workload for career academics, and what he hasn't spelled out is that, once you are used to working hard during your PhD, then the heavy workload that is common in today's academia won't be a problem once you start your academic career.
-
-The workload issue is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've gone through it, all other challenges will appear small and trivial.
+You should read Oswald's part in that article, as I've quoted him out of context (he's talking about academics' heavy workload).
+  
+The workload is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've passed through it, all other challenges will appear small and trivial.
 
 I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
 
