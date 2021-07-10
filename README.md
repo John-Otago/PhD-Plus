@@ -103,7 +103,7 @@ Keep in mind that this project is to inspire new ways of thinking and explore ne
   
 I welcome feedback and input from students, advisors, and everyone else.  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -182,7 +182,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 
 The books in Sections 3.2.2 and 3.3 may be helpful.  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -242,7 +242,7 @@ Details to be added later
   
 #### 2.3.2 - 2.3.5 to be added later
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -255,7 +255,7 @@ Details to be added later
 
 **Read these, ideally before graduate school.**
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -279,7 +279,7 @@ More books to be added later.
 #### 3.2.3 Change how you use digital tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -291,7 +291,7 @@ More books to be added later.
 
 Books to be added soon.
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -306,7 +306,7 @@ Books to be added soon.
 
 **There are MANY books on research design and methods, and some are discipline-specific. Those included here are introductions and overviews, mostly in social and behavioural sciences and to a less degree in interpretive social sciences (and irrelevant to humanities).**  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -341,7 +341,7 @@ Books to be added soon.
 
 **Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.**
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -375,13 +375,13 @@ Books to be added soon.
 
 **Again, mostly written and published in the US and useful for students in other countries.**  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
 ## Other sections will be added later
   
-[**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
