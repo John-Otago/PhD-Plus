@@ -199,7 +199,7 @@ I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked
 Every mountain is unclimbable until someone climbs it. Keep pushing.  
   
 ### 2.2 What to expect from your PhD?
-Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What it's like to be a PhD student? What you can and should expect from your PhD?
+Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What it's like to be a PhD student? What you should expect from your PhD?
   
 Consider this quote:
   
