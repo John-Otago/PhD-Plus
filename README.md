@@ -2,8 +2,8 @@
 
   
 A J.W. Project  
-Version 0.0.10  
-Last update: 8 July 2021  
+Version 0.0.11  
+Last update: 10 July 2021  
 
 ## Table of Contents  
    
@@ -20,10 +20,11 @@ Last update: 8 July 2021
   &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#14-methods)  
   
 &ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#2-philosophy-of-phd-training)  
-  &emsp;&emsp;[2.1 Overview](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
-  &emsp;&emsp;[2.2 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#22-focus-areas)  
-  &emsp;&emsp;&emsp;&emsp;[2.2.1 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#221-skill-development)  
-  &emsp;&emsp;&emsp;&emsp;[2.2.2 - 2.2.5 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#222---225-to-be-added-later)  
+  &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#21-overview)  
+  &emsp;&emsp;[2.2 What to expect from your PhD?]
+  &emsp;&emsp;[2.3 Focus Areas](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#23-focus-areas)  
+  &emsp;&emsp;&emsp;&emsp;[2.3.1 Skill Development](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#231-skill-development)  
+  &emsp;&emsp;&emsp;&emsp;[2.3.2 - 2.3.5 to be added later](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#232---235-to-be-added-later)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#31-getting-ready-for-your-phd)  
@@ -186,7 +187,22 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
   ---
     
 ## 2. Philosophy of PhD Training
-### 2.1 Overview
+### 2.1 What is a PhD?
+So, *qu'est-ce que le PhD* (what is the PhD)?
+
+Check out [The Illustrated Guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](https://matt.might.net).
+
+There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Oud2tbtO2z8)). Here's the [blog post](https://matt.might.net/articles/my-sons-killer/). Here's a [longer video](https://www.youtube.com/watch?v=LTZoJLHofBE). The story is well-known in the research community.
+
+I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked up something from this incredible story.
+
+Every mountain is unclimbable until someone climbs it. Keep pushing.  
+  
+### 2.2 What to expect from your PhD?
+Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What it's like to be a PhD student? What you can and should expect from your PhD?
+  
+Consider this quote:
+  
 >[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating, because your brain’s standard for what counts as excitement has been raised, and indeed can never go back.
 >
 >  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
@@ -204,8 +220,8 @@ Nonetheless, good PhD training should help students develop transferable skills 
 I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
 
 You don't need to agree with me, but think about this before starting.
-
-### 2.2 Focus Areas
+  
+### 2.3 Focus Areas
 - **Skill development (hard × soft) for work and life**
 - **Strong core knowledge × interdisciplinary methods**
 - **Structured training × individual discovery**
@@ -214,7 +230,7 @@ You don't need to agree with me, but think about this before starting.
 
 This section is a draft that may be revised later.
 
-#### 2.2.1 Skill Development
+#### 2.3.1 Skill Development
 - **Research & Analysis**
 - **Critical, Creative, Strategic Thinking**
 - **Productivity & Project Management**
@@ -224,7 +240,7 @@ This section is a draft that may be revised later.
 
 Details to be added later
   
-#### 2.2.2 - 2.2.5 to be added later
+#### 2.3.2 - 2.3.5 to be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/The-JW-Project/blob/main/README.md#table-of-contents)  
   
