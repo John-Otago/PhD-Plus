@@ -97,7 +97,7 @@ All the so-called ‘disciplines’ and ‘boundaries’ are man-made and artifi
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
 
-This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly think about these issues and constantly re-evaluate my approaches to make changes and updates regularly.  
+This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly think about these issues and constantly re-evaluate my approaches to make changes and updates regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
   
 Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). Covid-19 has signaled an epochal shift (and I returned to academia during the pandemic) so let’s take this opportunity and do something good.  
   
