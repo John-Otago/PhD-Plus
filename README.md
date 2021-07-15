@@ -1,4 +1,4 @@
-# PhD+ (Resources & Advice for Graduate Students and Early-Career Researchers)
+# PhD+ (Resources & Advice for Graduate Students & Early-Career Researchers)
 
   
 A J.W. Project  
