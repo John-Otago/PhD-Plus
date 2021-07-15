@@ -21,7 +21,7 @@ Last update: 15 July 2021
   
 &ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-philosophy-of-phd-training)  
   &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-what-is-a-phd)  
-  &emsp;&emsp;[2.2 Making use of your PhD training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-what-to-expect-from-your-phd)  
+  &emsp;&emsp;[2.2 Making use of your PhD training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-making-use-of-your-phd-training)  
   &emsp;&emsp;[2.3 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-focus-areas)  
   &emsp;&emsp;&emsp;&emsp;[2.3.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#231-skill-development)  
   &emsp;&emsp;&emsp;&emsp;[2.3.2 - 2.3.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#232---235-to-be-added-later)  
