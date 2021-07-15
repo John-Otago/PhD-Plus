@@ -1,9 +1,9 @@
-# PhD+ (Resources & Advice for Graduate Students)
+# PhD+ (Resources & Advice for Graduate Students and Early-Career Researchers)
 
   
 A J.W. Project  
-Version 0.0.11  
-Last update: 15 July 2021  
+Version 0.0.12  
+Last update: 16 July 2021  
 
 ## Table of Contents  
    
