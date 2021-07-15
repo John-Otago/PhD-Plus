@@ -21,7 +21,7 @@ Last update: 15 July 2021
   
 &ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-philosophy-of-phd-training)  
   &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-what-is-a-phd)  
-  &emsp;&emsp;[2.2 What to expect from your PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-what-to-expect-from-your-phd)  
+  &emsp;&emsp;[2.2 Making use of your PhD training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-what-to-expect-from-your-phd)  
   &emsp;&emsp;[2.3 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-focus-areas)  
   &emsp;&emsp;&emsp;&emsp;[2.3.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#231-skill-development)  
   &emsp;&emsp;&emsp;&emsp;[2.3.2 - 2.3.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#232---235-to-be-added-later)  
@@ -200,7 +200,7 @@ I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked
 
 Every mountain is unclimbable until someone climbs it. Keep pushing.  
   
-### 2.2 What to expect from your PhD?
+### 2.2 Making use of your PhD training
 Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What it's like to be a PhD student? What you should expect from your PhD?
   
 Consider this quote:
@@ -211,7 +211,7 @@ Consider this quote:
 
 You should read Oswald's part in that article, as I've quoted him out of context (he's talking about academics' heavy workload).
   
-The workload is another topic. My focus is on his point that doing a PhD is like going through training in the special force--once you've passed through it, all other challenges will appear small and trivial.
+My focus is on his point that doing a PhD is like going through training in the special force--once you've passed through it, all other challenges will appear small and trivial.
 
 I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
 
