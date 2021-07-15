@@ -328,7 +328,7 @@ Books to be added soon.
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
 #### 3.5.3 Journal Articles (for everyone including 'PhD by Publication')
-- [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally). It can be quite helpful for beginners if you prefer a highly structured step-by-step instruction.*
+- [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
 #### 3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
