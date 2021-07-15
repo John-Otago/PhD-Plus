@@ -33,11 +33,13 @@ Last update: 15 July 2021
     &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-change-how-you-work)  
     &emsp;&emsp;&emsp;&emsp;[3.2.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-change-how-you-think)  
     &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-change-how-you-use-digital-tools)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#324-change-how-you-deal-with-emotions)  
   
   &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-strategy--execution)  
     &emsp;&emsp;&emsp;&emsp;[3.3.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-strategic-thinking)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.2 Effective Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-effective-decision-making)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-decision-making)  
     &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-execution)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#334-problem-solving)  
   
   &emsp;&emsp;[3.4 Research Design & Research Methods (in Social Sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#34-research-design--research-methods-in-social-sciences)  
 
@@ -290,7 +292,7 @@ Books to be added later.
 ### 3.3 Strategy & Execution
   
 #### 3.3.1 Strategic Thinking  
-#### 3.3.2 Effective Decision-Making  
+#### 3.3.2 Decision-Making  
 #### 3.3.3 Execution  
 #### 3.3.4 Problem-Solving
 
