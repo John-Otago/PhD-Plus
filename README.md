@@ -3,7 +3,7 @@
   
 A J.W. Project  
 Version 0.0.11  
-Last update: 10 July 2021  
+Last update: 15 July 2021  
 
 ## Table of Contents  
    
@@ -247,9 +247,9 @@ Details to be added later
 ## 3. Starting Graduate School
 
 ### 3.1 Getting Ready for Your PhD 
-- **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries.*
+- **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries. For those in North America, see the third book below.*
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
-- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *Comments to be added later.*
+- [Optional] **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A very useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors (Chapter 2) as you shouldn’t rely on one person (your supervisor) for all your mentoring needs, learn US academic jargons (Chap 3), basic types and ‘politics’ of publication (Chap 8), presentations and conferences (9-10), and the job market (11).*
 
 **Read these, ideally before graduate school.**
   
