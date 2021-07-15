@@ -226,7 +226,7 @@ You don't need to agree with me, but think about this before starting.
 - **Strong core knowledge × interdisciplinary methods**
 - **Structured training × individual discovery**
 - **Strategic thinking × dynamic balance**
-- **Sharp focus × broad periphery view**
+- **Sharp focus × broad periphery views**
 
 This section is a draft that may be revised later.
 
