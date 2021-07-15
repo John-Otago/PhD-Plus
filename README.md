@@ -321,7 +321,7 @@ Books to be added soon.
 
 #### 3.5.1 Generic Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
-- [Optional] **
+- [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
 #### 3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
@@ -338,15 +338,15 @@ Books to be added soon.
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
-**Everything in this section is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
+**Everything here is optional. The best way to learn about writing and publication is to start writing and trying to get your work published FROM DAY ONE if not earlier.**
 
-**It is important to read other people's work in your field and see how they have done it. Everything listed here can be helpful if you need some guideline, although many students have completed their PhD and published their work without resorting to these resources.**
+**It is important to read other people's work and see how they have done it. Everything listed here can be helpful if you need some guideline, although many students have completed their PhD and published their work without resorting to these resources.**
 
 **You need to keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
 **Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**
 
-**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.**
+**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career. Also consult my collection of relevant news and discussions: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication**
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
