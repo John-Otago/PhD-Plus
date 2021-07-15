@@ -269,13 +269,19 @@ Details to be added later
   
   
 #### 3.2.2 Change how you think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)  
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Comments to be added later.*  
 
 More books to be added later.
 
   
 #### 3.2.3 Change how you use digital tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
+  
+  
+#### 3.2.4 Change how you deal with emotions
+  
+Books to be added later.  
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -286,6 +292,7 @@ More books to be added later.
 #### 3.3.1 Strategic Thinking  
 #### 3.3.2 Effective Decision-Making  
 #### 3.3.3 Execution  
+#### 3.3.4 Problem-Solving
 
 Books to be added soon.
   
