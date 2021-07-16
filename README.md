@@ -365,10 +365,10 @@ Books to be added soon.
   
 #### 3.6.2 Academic Careers 
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
-- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave) 
+- [Optional] **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave) 
 - [Optional] **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)  
   
-**These books are most pertinent to the job search process in the US, although students in other countries will also benefit.**
+**Keep in mind that these books are written in the US, and you need to tailor the advice to your own (sometimes drastically different) environment.**
     
 #### 3.6.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
