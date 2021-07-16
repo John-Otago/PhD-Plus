@@ -330,7 +330,7 @@ Books to be added soon.
 #### 3.5.3 Journal Articles (for everyone including 'PhD by Publication')
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
-#### 3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)
+#### 3.5.4 Publish your PhD as a Book (humanities & mostly interpretive social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
   
