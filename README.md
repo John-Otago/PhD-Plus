@@ -377,7 +377,7 @@ Books to be added soon.
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 
-**Again, mostly written and published in the US and useful for students in other countries.**  
+**Again, mostly written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
