@@ -1,9 +1,8 @@
 # PhD+ (Resources & Advice for Graduate Students & Early-Career Researchers)
-
   
 A J.W. Project  
 Version 0.0.12  
-Last update: 16 July 2021  
+Last update: 23 July 2021  
 
 ## Table of Contents  
    
@@ -103,7 +102,7 @@ This is an ongoing project that will take years to develop. It is time-consuming
   
 Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). Covid-19 has signaled an epochal shift (and I returned to academia during the pandemic) so let’s take this opportunity and do something good.  
   
-I welcome feedback and input from students, advisors, and everyone else.  
+I welcome feedback and input from students, advisors, and everyone else. I'd like to keep this project in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta). It is a Porject as Service (PAS) that I (and hopefully my students and others) can keep updating.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
