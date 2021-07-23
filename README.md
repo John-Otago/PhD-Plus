@@ -337,7 +337,7 @@ Books to be added soon.
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
-**Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it*. The best strategy is to *start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
+**Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
 
 **Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
@@ -345,7 +345,7 @@ Books to be added soon.
 
 **I agree with Howard S. Becker that, for native-speakers, the skills required to write well are already taught in entry-level English composition classes. As Becker remarks following C. Wright Mills in *Writing for Social Scientists* (2020, pp. 5-6):**  
 
->Sociologists habitually use twenty words where two will do [...] With my pencil poised over a word or clause, I asked, "Does this need to be here? If not, I'm taking it out." [...] I changed passive to active constructions, combined sentences, took long sentences apart—all the things [that] students might well have once learned [...] in freshman composition. 
+>Sociologists habitually use twenty words where two will do [...] With my pencil poised over a word or clause, I asked, "Does this need to be here? If not, I'm taking it out." [...] I changed passive to active constructions, combined sentences, took long sentences apart—all the things [that] students might well have once learned to do in freshman composition. 
   
 **Result?**  
 >At the end of three hours, we had reduced four pages to three-quarters of a page without losing nuance or essential details.
