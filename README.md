@@ -46,7 +46,7 @@ Last update: 23 July 2021
     &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#351-generic-writing-skills)  
     &emsp;&emsp;&emsp;&emsp;[3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#352-the-phd-thesisdissertation-80000---100000-words)  
     &emsp;&emsp;&emsp;&emsp;[3.5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#353-journal-articles-for-everyone-including-phd-by-publication)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & interpretive social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--interpretive-social-sciences)   
+    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
     &emsp;&emsp;&emsp;&emsp;[3.5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#355-blogs-on-academic-writing-for-graduate-students)  
   
   &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
