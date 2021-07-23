@@ -1,7 +1,7 @@
 # PhD+ (Resources & Advice for Graduate Students & Early-Career Researchers)
   
 A J.W. Project  
-Version 0.0.12  
+Version 0.1.1  
 Last update: 23 July 2021  
 
 ## Table of Contents  
@@ -329,7 +329,7 @@ Books to be added soon.
 #### 3.5.3 Journal Articles (for everyone including 'PhD by Publication')
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
-#### 3.5.4 Publish your PhD as a Book (humanities & mostly interpretive social sciences)
+#### 3.5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
   
@@ -337,6 +337,7 @@ Books to be added soon.
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
+---
 **Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
 
 **Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
@@ -364,14 +365,6 @@ Books to be added soon.
 
 #### 3.6.1 Overview
 - [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
-
-**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
-
-**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
-
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
-
-**Last note: networking is important for both academic and non-academic careers!**  
   
 #### 3.6.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
@@ -388,6 +381,15 @@ Books to be added soon.
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 
 **Again, mostly written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
+  
+---
+**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
+
+**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
+
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
+
+**Last note: networking is important for both academic and non-academic careers!**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
