@@ -358,7 +358,11 @@ Books to be added soon.
   
 **For non-native-speakers, read good papers and books from native speakers and make your writing like theirs. Pay attention to wording and phrasing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
   
-**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career. Also consult my collection of relevant news and discussions: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication**  
+**Last tip:** 
+
+**Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.** 
+
+**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Feel free to check out my collection of relevant news and discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) and another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Key-Journals-in-HASS).**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
