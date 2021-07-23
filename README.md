@@ -102,7 +102,7 @@ This is an ongoing project that will take years to develop. It is time-consuming
   
 Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). Covid-19 has signaled an epochal shift (and I returned to academia during the pandemic) so let’s take this opportunity and do something good.  
   
-I welcome feedback and input from students, advisors, and everyone else. I'd like to keep this project in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta). It is a Porject as Service (PAS) that I (and hopefully my students and others) can keep updating.  
+I welcome feedback and input from students, advisors, and everyone else. I'd like to keep this project in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta). It is a Project as Service (PAS) that I (and hopefully my students and others) can keep updating.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -337,13 +337,24 @@ Books to be added soon.
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
-**Everything here is optional. The best way to learn about writing and publication is to read other people's work and see how they have done it, and start writing and trying to get your work published FROM DAY ONE if not earlier. The books listed here can be helpful if you need some guideline.**
+**Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it*. The best strategy is to *start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
 
 **Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
 
-**Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**
+**Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**  
 
-**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career. Also consult my collection of relevant news and discussions: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication**
+**I agree with Howard S. Becker that, for native-speakers, the skills required to write well are already taught in entry-level English composition classes. As Becker remarks following C. Wright Mills in *Writing for Social Scientists* (2020, pp. 5-6):**  
+
+>Sociologists habitually use twenty words where two will do [...] With my pencil poised over a word or clause, I asked, "Does this need to be here? If not, I'm taking it out." [...] I changed passive to active constructions, combined sentences, took long sentences apart—all the things [that] students might well have once learned [...] in freshman composition. 
+  
+**Result?**  
+>At the end of three hours, we had reduced four pages to three-quarters of a page without losing nuance or essential details.
+  
+**Think about this.**  
+  
+**For non-native-speakers, read good papers and books from native speakers and make your writing like theirs. Pay attention to wording and phrasing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
+  
+**Last tip: always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career. Also consult my collection of relevant news and discussions: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
