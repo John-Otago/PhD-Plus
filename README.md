@@ -2,7 +2,7 @@
   
 A J.W. Project  
 Version 0.1.1  
-Last update: 23 July 2021  
+Last update: 24 July 2021  
 
 ## Table of Contents  
    
@@ -291,8 +291,12 @@ Books to be added later.
 ### 3.3 Strategy & Execution
   
 #### 3.3.1 Strategic Thinking  
+  
 #### 3.3.2 Decision-Making  
+- **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
+  
 #### 3.3.3 Execution  
+  
 #### 3.3.4 Problem-Solving
 
 Books to be added soon.
