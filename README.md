@@ -377,23 +377,6 @@ Books to be added soon.
 #### 3.6.1 Overview
 - [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
   
-#### 3.6.2 Academic Careers 
-- **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
-- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
-- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
-  
-**Keep in mind that these books are written in the US, and you need to tailor the advice to your own environment.**
-    
-#### 3.6.3 Non-Academic Careers
-- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
-- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
-- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
-- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
-- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
-
-**Again, mostly written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
-  
----
 **Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
 
 **Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
@@ -401,6 +384,26 @@ Books to be added soon.
 **For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
 
 **Last note: networking is important for both academic and non-academic careers!**  
+  
+#### 3.6.2 Academic Careers 
+- **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
+- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
+- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
+  
+**Keep in mind that these books were written in the US, and you need to tailor the advice to your own environment.**  
+
+**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s market). The next two demonstrate what it is like ‘out there’ on the market and how intense it can be, while offering practical advice.**  
+
+**All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
+  
+#### 3.6.3 Non-Academic Careers
+- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
+- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
+- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
+- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
+- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
+
+**Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
