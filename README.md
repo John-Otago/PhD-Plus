@@ -366,7 +366,7 @@ Books to be added soon.
 
 **Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.** 
 
-**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Feel free to check out my collection of relevant news and discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) and another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Key-Journals-in-HASS).**  
+**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Feel free to check out my collection of relevant news and discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) and another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS).**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
