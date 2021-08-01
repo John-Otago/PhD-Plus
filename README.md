@@ -12,19 +12,19 @@ Last update: 01 Aug 2021
   &emsp;&emsp;[0.3 Areas/Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#03-areasdisciplines)  
   &emsp;&emsp;[0.4 Disclaimer](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#04-disclaimer)  
   
-&ensp;&ensp;[1. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#1-before-you-start)  
-  &emsp;&emsp;[1.1 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#11-the-goal)  
-  &emsp;&emsp;[1.2 Visions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-visions)  
-  &emsp;&emsp;[1.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-principles)  
-  &emsp;&emsp;[1.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-methods)  
+&ensp;&ensp;[1. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#1-philosophy-of-phd-training)  
+  &emsp;&emsp;[1.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#11-what-is-a-phd)  
+  &emsp;&emsp;[1.2 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-what-is-phd-training)  
+  &emsp;&emsp;[1.3 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-the-philosophy-sort-of)  
+  &emsp;&emsp;[1.4 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-focus-areas)  
+  &emsp;&emsp;&emsp;&emsp;[1.4.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#141-skill-development)  
+  &emsp;&emsp;&emsp;&emsp;[1.4.2 - 1.4.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#142---145-to-be-added-later)  
   
-&ensp;&ensp;[2. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-philosophy-of-phd-training)  
-  &emsp;&emsp;[2.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-what-is-a-phd)  
-  &emsp;&emsp;[2.2 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-what-is-phd-training)  
-  &emsp;&emsp;[2.3 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-the-philosophy-sort-of)  
-  &emsp;&emsp;[2.4 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#24-focus-areas)  
-  &emsp;&emsp;&emsp;&emsp;[2.4.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#241-skill-development)  
-  &emsp;&emsp;&emsp;&emsp;[2.4.2 - 2.4.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#242---245-to-be-added-later)  
+&ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
+  &emsp;&emsp;[2.1 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-goal)  
+  &emsp;&emsp;[2.2 Visions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-visions)  
+  &emsp;&emsp;[2.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-principles)  
+  &emsp;&emsp;[2.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#24-methods)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-your-phd)  
@@ -109,9 +109,72 @@ I welcome feedback and input from students, advisors, and everyone else. I'd lik
   
   ---
     
-## 1. Before You Start
+## 1. Philosophy of PhD Training
+### 1.1 What is a PhD?
+So, *qu'est-ce que le PhD* (what is the PhD)?
 
-### 1.1 The Goal
+Check out [The Illustrated Guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](https://matt.might.net).
+
+There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Oud2tbtO2z8)). Here's the [blog post](https://matt.might.net/articles/my-sons-killer/). Here's a [longer video](https://www.youtube.com/watch?v=LTZoJLHofBE). The story is well-known in the research community.
+
+I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked up something from this incredible story.
+
+Every mountain is unclimbable until someone climbs it. Keep pushing.  
+  
+### 1.2 What is PhD Training?
+Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What is it like to go through PhD training?
+  
+Consider this quote:
+  
+>[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating [...].
+>
+>  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
+
+You should read Oswald's part in that article, as I've quoted him out of context (he's talking about academics' heavy workload).
+  
+My focus is on his point that doing a PhD is like going through training in the special force--once you've passed through it, all other challenges will appear small and trivial.
+
+I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
+
+Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
+
+I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
+
+You don't need to agree with me, but think about this before starting.
+  
+### 1.3 The Philosophy (sort of)
+The philosophy of PhD training is to help students develop the mindset and the skillset to become an informed and effective lifelong learner and doer who is self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (independent and free).  
+  
+The philosophy is lofty and may be hard to achieve in graduate school, but nonetheless should serve as the goal of graduate training.  
+  
+### 1.4 Focus Areas
+- **Skill development (hard × soft) for work and life**
+- **Strong core knowledge × interdisciplinary methods**
+- **Structured training × individual discovery**
+- **Strategic thinking × dynamic balance**
+- **Sharp focus × broad periphery views**
+
+This section is a draft that may be revised later.
+
+#### 1.4.1 Skill Development
+- **Research & Analysis**
+- **Critical, Creative, Strategic Thinking**
+- **Productivity & Project Management**
+- **Communication & Collaboration**
+- **Digital Skills & Data Skills**
+- **Qualitative & Quantitative Literacy**
+
+Details to be added later
+  
+#### 1.4.2 - 1.4.5 to be added later
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+    
+## 2. Before You Start
+
+### 2.1 The Goal
 There's only one goal:
 
 - **Complete your PhD (or other graduate degrees) on time.**
@@ -128,7 +191,7 @@ Still set your own deadline a bit earlier. If you can meet it, don't submit your
 
 Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.
 
-### 1.2 Visions
+### 2.2 Visions
 The purpose of graduate research and the 'big picture':
 
 - Push the boundary of knowledge
@@ -138,19 +201,19 @@ The purpose of graduate research and the 'big picture':
 The vision is necessarily 'lofty'. Dream big. Aim high.
 Then work hard (and smart) to achieve it.
 
-### 1.3 Principles
+### 2.3 Principles
 - **Communication**
 - **Strategy**
 - **Execution**
 - **Productivity**
 - **Resilience**
 
-### 1.4 Methods
+### 2.4 Methods
 Here's how you do it:
 - Communicate, communicate, communicate
 - Think strategically
 - Execute effectively
-- Produce more (with less input)
+- Produce more
 - Adapt to changes and mistakes
 
 **Communication:**  
@@ -186,71 +249,8 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
-  ---
-    
-## 2. Philosophy of PhD Training
-### 2.1 What is a PhD?
-So, *qu'est-ce que le PhD* (what is the PhD)?
-
-Check out [The Illustrated Guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](https://matt.might.net).
-
-There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Oud2tbtO2z8)). Here's the [blog post](https://matt.might.net/articles/my-sons-killer/). Here's a [longer video](https://www.youtube.com/watch?v=LTZoJLHofBE). The story is well-known in the research community.
-
-I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked up something from this incredible story.
-
-Every mountain is unclimbable until someone climbs it. Keep pushing.  
+  ---  
   
-### 2.2 What is PhD Training?
-Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What is it like to go through PhD training?
-  
-Consider this quote:
-  
->[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating [...].
->
->  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
-
-You should read Oswald's part in that article, as I've quoted him out of context (he's talking about academics' heavy workload).
-  
-My focus is on his point that doing a PhD is like going through training in the special force--once you've passed through it, all other challenges will appear small and trivial.
-
-I consider this an ideal outcome and what we should aim for in PhD training. Your mileage may vary. Your supervisor may think differently.
-
-Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
-
-I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
-
-You don't need to agree with me, but think about this before starting.
-  
-### 2.3 The Philosophy (sort of)
-The philosophy of PhD training is to help students develop the mindset and the skillset to become an informed and effective lifelong learner and doer who is self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (independent and free).  
-  
-The philosophy is lofty and may be hard to achieve in graduate school, but nonetheless should serve as the goal of graduate training.  
-  
-### 2.4 Focus Areas
-- **Skill development (hard × soft) for work and life**
-- **Strong core knowledge × interdisciplinary methods**
-- **Structured training × individual discovery**
-- **Strategic thinking × dynamic balance**
-- **Sharp focus × broad periphery views**
-
-This section is a draft that may be revised later.
-
-#### 2.4.1 Skill Development
-- **Research & Analysis**
-- **Critical, Creative, Strategic Thinking**
-- **Productivity & Project Management**
-- **Communication & Collaboration**
-- **Digital Skills & Data Skills**
-- **Qualitative & Quantitative Literacy**
-
-Details to be added later
-  
-#### 2.4.2 - 2.4.5 to be added later
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-    
 ## 3. Starting Graduate School
 
 ### 3.1 Getting Ready for Your PhD 
