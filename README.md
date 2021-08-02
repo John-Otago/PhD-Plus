@@ -2,7 +2,7 @@
   
 A J.W. Project  
 Version 0.1.2  
-Last update: 01 Aug 2021  
+Last update: 03 Aug 2021  
 
 ## Table of Contents  
    
@@ -145,7 +145,7 @@ You don't need to agree with me, but think about this before starting.
 ### 1.3 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become an informed and effective lifelong learner and doer who is self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (independent and free).  
   
-The philosophy is lofty and may be hard to achieve in graduate school, but nonetheless should serve as the goal of graduate training.  
+It's a lifelong goal that may not be achieved purely through graduate training, but nonetheless a desirable outcome to aim for.  
   
 ### 1.4 Focus Areas
 - **Skill development (hard × soft) for work and life**
