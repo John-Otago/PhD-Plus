@@ -1,4 +1,4 @@
-# PhD+ | Resources & Advice for Graduate Students and Advisors (and perhaps Early-Career Researchers)
+# PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
 Version 0.1.2  
