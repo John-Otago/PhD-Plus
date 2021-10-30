@@ -191,7 +191,7 @@ The purpose of graduate research and the 'big picture':
 - Benefit people and society
 - Make the world a better place
 
-The vision is necessarily 'lofty'. Dream big. Aim high.
+The vision is necessarily 'lofty'. Dream big. Aim high.  
 Then work hard (and smart) every day to achieve it.
 
 ### 2.3 Principles
