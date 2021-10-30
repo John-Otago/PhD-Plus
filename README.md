@@ -68,7 +68,7 @@ Ideally you should read through the list and the books before you start graduate
 
 Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research.  
   
-This project aims to offset this unfortunate tendency by developing and offering a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
+This project aims to develop and offer a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
   
 ### 0.2 Terminology
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
