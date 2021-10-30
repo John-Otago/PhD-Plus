@@ -112,7 +112,7 @@ There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Ou
 
 I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked up something from this incredible story.
 
-Every mountain is unclimbable until someone climbs it. Keep pushing.  
+Keep pushing.  
   
 ### 1.2 What is PhD Training?
 Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What is it like to go through PhD training?
