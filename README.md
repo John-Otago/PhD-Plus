@@ -71,21 +71,17 @@ Many students (including me years ago) came to graduate school underprepared, an
 This project aims to develop and offer a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
   
 ### 0.2 Terminology
+I use 'graduate school' and 'graduate students' for consistency, or just 'PhD' as shorthand. For research supervision, I use 'advisor' and 'supervisor' interchangeably.
+
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
 
-For example, 'graduate school' seems to come from the US, while 'postgraduate student' appears more common in the UK system. I use 'graduate school' and 'graduate students' for consistency, or just 'PhD' as shorthand.
-
-Also, a book-length PhD research is called a 'dissertation' in the US, but a 'thesis' in the UK system. To add to the confusion, a shorter piece of research is called a 'thesis' in the former, but a 'dissertation' in the latter.
+For instance, a book-length PhD research is called a 'dissertation' in the US, but a 'thesis' in the UK system. To add to the confusion, a shorter piece of research is called a 'thesis' in the former, but a 'dissertation' in the latter.
 
 Plus, 'dissertation committee' is mainly a US thing, and so is the expression of 'ABD' ('all but dissertation'). These terms may be confusing if you are not in the US or not familiar with its graduate training system.
 
-For research supervision, I use 'advisor' and 'supervsior' interchangeably.
-
-I also use 'academia' and 'academe/academy' to mean the same thing--the academic world that we work in.
-
 For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
-Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academe).
+Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academia).
 
 ### 0.3 Areas/Disciplines
 I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including science, business, and other theoretical and applied areas.
