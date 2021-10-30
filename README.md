@@ -2,7 +2,7 @@
   
 A J.W. Project  
 Version 0.1.2  
-Last update: 03 Aug 2021  
+Last update: 31 Oct 2021  
 
 ## Table of Contents  
    
@@ -64,7 +64,7 @@ Last update: 03 Aug 2021
 ### 0.1 Purpose
 This project is to help students prepare for their PhD/Graduate School. Supervisors may also find it useful.
   
-Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) could benefit from this project.
+Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) can benefit from this project.
 
 Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research and an academic career (increasingly impossible for many).  
   
