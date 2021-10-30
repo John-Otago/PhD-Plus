@@ -265,7 +265,7 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
 - [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
 
-**These books are important. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
+**I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
   
 #### 3.2.2 Change how you think
@@ -365,7 +365,7 @@ Books to be added soon.
 
 **Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.** 
 
-**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Feel free to check out my collection of relevant news and discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) and another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS).**  
+**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
