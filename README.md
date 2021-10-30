@@ -91,10 +91,12 @@ I draw insights from many areas and sectors, and this project is interdisciplina
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
 
-This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly re-think and re-evaluate my approaches to make changes regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
+This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. I also constantly re-think and re-evaluate my approaches to make changes regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
   
-Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). The Covid-19 pandemic has signaled an epochal shift and let’s take this opportunity to drive change and innovation.  
-I welcome feedback and input from students, advisors, and everyone else. This is a Project as a Service (PaaS) that I would like to keep in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) that can be constantly updated.  
+Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). The Covid-19 pandemic has signalled an epochal shift and let’s take the opportunity to drive changes and innovation.  
+
+I welcome feedback and input from students, advisors, and everyone else. This is a Project as a Service (PaaS) that I would like to keep in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) that can be constantly tested and updated.  
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
