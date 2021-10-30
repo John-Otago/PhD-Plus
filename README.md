@@ -84,22 +84,17 @@ For job search, the conventions, processes, and terminology also differ in the U
 Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academia).
 
 ### 0.3 Areas/Disciplines
-I was trained across the social science and the arts and humanities, with a long-term interest in other subjects including science, business, and other theoretical and applied areas.
+This project is developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics) and other fields.
 
-This project was developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics).
-
-Overall, I draw insights from many areas and sectors of academe and society, and this project is interdisciplinary (the way I intended).  
-  
-All the so-called ‘disciplines’ and ‘boundaries’ are man-made and artificial in nature, albeit not arbitrary. Think in systems, not in disciplines.  
+I draw insights from many areas and sectors, and this project is interdisciplinary in nature (the way I intended). The so-called ‘disciplines’ and ‘boundaries’ are artificial (albeit not arbitrary). Think in systems, not in disciplines.  
   
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
 
-This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly think about these issues and constantly re-evaluate my approaches to make changes and updates regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
+This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. Some of these books and resources are no longer useful for me but will be for the students. I also constantly re-think and re-evaluate my approaches to make changes regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
   
-Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). Covid-19 has signaled an epochal shift (and I returned to academia during the pandemic) so let’s take this opportunity and do something good.  
-  
-I welcome feedback and input from students, advisors, and everyone else. I'd like to keep this project in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta). It is a Project as a Service (PaaS) that I (and hopefully my students and others) can keep updating.  
+Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities). The Covid-19 pandemic has signaled an epochal shift and let’s take this opportunity to drive change and innovation.  
+I welcome feedback and input from students, advisors, and everyone else. This is a Project as a Service (PaaS) that I would like to keep in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) that can be constantly updated.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
