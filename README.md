@@ -115,7 +115,7 @@ I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked
 Keep pushing.  
   
 ### 1.2 What is PhD Training?
-Now, *qu'est-ce qu'être doctorant* (what is a PhD student)? What is it like to go through PhD training?
+Now, what is it like to go through PhD training?
   
 Consider this quote:
   
@@ -131,7 +131,7 @@ I consider this an ideal outcome and what we should aim for in PhD training. You
 
 Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
 
-I also believe that PhD is not for the faint-hearted (if it's easy, everyone would be doing it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
+I also believe that PhD is not for the faint-hearted (if it's easy, everyone would do it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
 
 You don't need to agree with me, but think about this before starting.
   
