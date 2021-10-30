@@ -66,7 +66,7 @@ This project is to help students prepare for their PhD/Graduate School. Supervis
   
 Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) can benefit from this project.
 
-Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research and an academic career (increasingly impossible for many).  
+Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research.  
   
 This project aims to offset this unfortunate tendency by developing and offering a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
   
