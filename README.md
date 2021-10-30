@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.1.2  
+Version 0.1.3  
 Last update: 31 Oct 2021  
 
 ## Table of Contents  
@@ -136,13 +136,13 @@ I also believe that PhD is not for the faint-hearted (if it's easy, everyone wou
 You don't need to agree with me, but think about this before starting.
   
 ### 1.3 The Philosophy (sort of)
-The philosophy of PhD training is to help students develop the mindset and the skillset to become an informed and effective lifelong learner and doer who is self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (independent and free).  
+The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
-It's a lifelong goal that may not be achieved purely through graduate training, but nonetheless a desirable outcome to aim for.  
+Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
 ### 1.4 Focus Areas
 - **Skill development (hard × soft) for work and life**
-- **Strong core knowledge × interdisciplinary methods**
+- **Strong core knowledge × interdisciplinary coverage**
 - **Structured training × individual discovery**
 - **Strategic thinking × dynamic balance**
 - **Sharp focus × broad periphery views**
@@ -168,17 +168,17 @@ Details to be added later
 ## 2. Before You Start
 
 ### 2.1 The Goal
-There's only one goal:
+There's only one goal when you are in graduate school:
 
 - **Complete your PhD (or other graduate degrees) on time.**
 
-'On time' should be interpreted differently and strategically depending on your field and career goal.
+'On time' should be interpreted strategically depending on your field and career goal.
 
-(a) If you want an industry job and your PhD is in a field with a matching industry to work in, you should aim to finish your PhD as fast as possible.
+(a) If you want an industry job, and your PhD is in a field with a matching industry to work in, you should aim to finish your PhD as fast as possible.
 
 Set your own deadline much earlier than the standard one. Strive to achieve it. If anything went wrong and you couldn't finish your PhD earlier, you can still finish it 'on time'. If you follow the standard timeline and something went wrong, you won’t get it on time.
 
-(b) If you want an academic job, you should utilise the maximum funded time of your PhD to build up your publication and network.
+(b) If you want an academic job, and/or your PhD is in a field of purely intellectual knowledge without an applied industry to work in, you should utilise the maximum funded time of your PhD to build up your publication and network.  
 
 Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends.
 
@@ -192,7 +192,7 @@ The purpose of graduate research and the 'big picture':
 - Make the world a better place
 
 The vision is necessarily 'lofty'. Dream big. Aim high.
-Then work hard (and smart) to achieve it.
+Then work hard (and smart) every day to achieve it.
 
 ### 2.3 Principles
 - **Communication**
@@ -206,16 +206,16 @@ Here's how you do it:
 - Communicate, communicate, communicate
 - Think strategically
 - Execute effectively
-- Produce more
+- Work productively
 - Adapt to changes and mistakes
 
 **Communication:**  
-If you have a question, ask. If you're unsure about something, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
+If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
 
 **Strategy & Execution:**  
 (a) Focus on the things that will help you achieve your goal (complete the PhD on time) while developing useful skills.  
 (b) Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
-(c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve.  
+(c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve it.  
 
 Also check out the books in section 3.3 below.
 
@@ -224,7 +224,7 @@ Productivity is essentially the ratio between the input and the output. Two ways
 (a) More input, more output (work hard).  
 (b) Less input, more output (work smart).  
 
-The former means you are 'productive' in the sense that you are producing more research outputs, but 'more input' means you are investing lots of hours and resources to achieve it. This is necessary when you first start, need to catch up, change your area, pursue your PhD in a different country using a different language, or want to achieve more (more than required).  
+The former means you are 'productive' in the sense that you are producing more research outputs, but 'more input' means you are investing lots of hours and resources to achieve it. This is necessary when you first start, need to catch up, change your area, pursue your PhD in a different country using a different language, or simply want to achieve more (more than required).  
 
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
@@ -233,10 +233,10 @@ In reality, most people need to balance the two: work hard to produce, but alway
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
 (b) Learn to deal with setbacks, blunders, and downright failures and mistakes. Embrace them. That's how you learn.  
-(c) Bounce back after minor and major fallouts and everything in between. They are part of life and part of your PhD.  
+(c) Bounce back after minor and major fallouts (and everything in between). They are part of life and part of your PhD.  
 (d) Learn to work and perform under stress and time constraint.  
 (e) Flexibility, adaptability, and perseverance are the key.  
-(f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars and focus areas to support work and life, don't rely exclusively on that 'one shot' that may or may not be successful, expect and live with ups and downs, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
+(f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars to support work and life, expect and live with ups and downs, don't rely exclusively on that 'one shot' that may or may not work, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
 
 The books in Sections 3.2.2 and 3.3 may be helpful.  
   
@@ -249,7 +249,7 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
 ### 3.1 Getting Ready for Your PhD 
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries. For those in North America, see the third book below.*
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
-- [Optional] **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A very useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors (Chapter 2) as you shouldn’t rely on one person (your supervisor) for all your mentoring needs, learn US academic jargons (Chap 3), basic types and ‘politics’ of publication (Chap 8), presentations and conferences (9-10), and the job market (11).*
+- [Optional] **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A very useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), learn US academic jargon (Chap 3), basic types and ‘politics’ of publication (Chap 8), presentations and conferences (9-10), and the job market (11).*
 
 **Read these, ideally before graduate school.**
   
@@ -262,14 +262,14 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
 #### 3.2.1 Change how you work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
-- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many websites and blogs devoted to GTD.*
-- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours every day and year-round, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
+- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
+- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
 
-**I require all my students to read these books on *productivity* and *time/energy management*. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and develop your own system based on these).**
+**These books are important. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
   
 #### 3.2.2 Change how you think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Comments to be added later.*  
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
 
 More books to be added later.
 
@@ -321,7 +321,7 @@ Books to be added soon.
     
 ### 3.5 Academic Writing & Publication - *start from day one*
 
-#### 3.5.1 Generic Writing Skills
+#### 3.5.1 General Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
@@ -389,9 +389,9 @@ Books to be added soon.
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
   
-**Keep in mind that these books were written in the US, and you need to tailor the advice to your own environment.**  
+**Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.**  
 
-**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s market). The next two demonstrate what it is like ‘out there’ on the market and how intense it can be, while offering practical advice.**  
+**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is like ‘out there’ and how difficult it can be, while offering practical advice.**  
 
 **All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
   
