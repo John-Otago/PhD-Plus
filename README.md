@@ -79,7 +79,7 @@ For instance, a book-length PhD research is called a 'dissertation' in the US, b
 
 Plus, 'dissertation committee' is mainly a US thing, and so is the expression of 'ABD' ('all but dissertation'). These terms may be confusing if you are not in the US or not familiar with its graduate training system.
 
-For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by an increasing number of universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
+For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by many universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
 Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academia).
 
