@@ -30,7 +30,7 @@ Last update: 31 Oct 2021
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-your-phd)  
   
   &emsp;&emsp;[3.2 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-academic-writing--publication---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.1 Generic Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-generic-writing-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-writing-skills)  
     &emsp;&emsp;&emsp;&emsp;[3.2.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-the-phd-thesisdissertation-80000---100000-words)  
     &emsp;&emsp;&emsp;&emsp;[3.2.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-journal-articles-for-everyone-including-phd-by-publication)  
     &emsp;&emsp;&emsp;&emsp;[3.2.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#324-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
@@ -254,7 +254,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
         
 ### 3.2 Academic Writing & Publication - *start from day one*
 
-#### 3.2.1 General Writing Skills
+#### 3.2.1 Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
