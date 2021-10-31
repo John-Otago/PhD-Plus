@@ -28,19 +28,19 @@ Last update: 31 Oct 2021
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-your-phd)  
+
+  &emsp;&emsp;[3.2 Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-career-preparation---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-overview)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-academic-careers)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-non-academic-careers) 
+      
+  &emsp;&emsp;[3.3 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-academic-writing--publication---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-writing-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-the-phd-thesisdissertation-80000---100000-words)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-journal-articles-for-everyone-including-phd-by-publication)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#334-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
+    &emsp;&emsp;&emsp;&emsp;[3.3.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#335-blogs-on-academic-writing-for-graduate-students)  
   
-  &emsp;&emsp;[3.2 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-academic-writing--publication---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-writing-skills)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-the-phd-thesisdissertation-80000---100000-words)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-journal-articles-for-everyone-including-phd-by-publication)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#324-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
-    &emsp;&emsp;&emsp;&emsp;[3.2.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#325-blogs-on-academic-writing-for-graduate-students)  
-  
-  &emsp;&emsp;[3.3 Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-career-preparation---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-overview)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-academic-careers)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-non-academic-careers) 
-    
 &ensp;&ensp;[4 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-academia)  
 
 &ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-essential-skills-for-work--life)  
@@ -255,25 +255,62 @@ In reality, most people need to balance the two: work hard to produce, but alway
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
-        
-### 3.2 Academic Writing & Publication - *start from day one*
+  
+### 3.2 Career Preparation - *start from day one*
 
-#### 3.2.1 Writing Skills
+#### 3.2.1 Overview
+- [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
+  
+**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
+
+**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
+
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
+
+**Last note: networking is important for both academic and non-academic careers!**  
+  
+#### 3.2.2 Academic Careers 
+- **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
+- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
+- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
+  
+**Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.**  
+
+**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is like ‘out there’ and how difficult it can be, while offering practical advice.**  
+
+**All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
+  
+#### 3.2.3 Non-Academic Careers
+- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
+- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
+- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
+- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
+- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
+
+**Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
+### 3.3 Academic Writing & Publication - *start from day one*
+
+#### 3.3.1 Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
-#### 3.2.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
+#### 3.3.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
-#### 3.2.3 Journal Articles (for everyone including 'PhD by Publication')
+#### 3.3.3 Journal Articles (for everyone including 'PhD by Publication')
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
-#### 3.2.4 Publish your PhD as a Book (humanities & humanistic social sciences)
+#### 3.3.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
   
-#### 3.2.5 Blogs on Academic Writing for Graduate Students
+#### 3.3.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
@@ -308,43 +345,6 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
   ---
     
-### 3.3 Career Preparation - *start from day one*
-
-#### 3.3.1 Overview
-- [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
-  
-**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
-
-**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
-
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
-
-**Last note: networking is important for both academic and non-academic careers!**  
-  
-#### 3.3.2 Academic Careers 
-- **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
-- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
-- **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
-  
-**Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.**  
-
-**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is like ‘out there’ and how difficult it can be, while offering practical advice.**  
-
-**All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
-  
-#### 3.3.3 Non-Academic Careers
-- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
-- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
-- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
-- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
-- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
-
-**Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-  
 ## 4 Work in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 
