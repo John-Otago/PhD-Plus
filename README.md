@@ -41,16 +41,21 @@ Last update: 31 Oct 2021
     &emsp;&emsp;&emsp;&emsp;[3.3.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-academic-careers)  
     &emsp;&emsp;&emsp;&emsp;[3.3.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-non-academic-careers) 
     
-&ensp;&ensp;[4 Work in Graduate School (and Beyond): Essential Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
-    &emsp;&emsp;&emsp;&emsp;[4.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-change-how-you-work)  
-    &emsp;&emsp;&emsp;&emsp;[4.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-change-how-you-think)  
-    &emsp;&emsp;&emsp;&emsp;[4.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-change-how-you-use-digital-tools)  
-    &emsp;&emsp;&emsp;&emsp;[4.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#44-change-how-you-deal-with-emotions)   
-    &emsp;&emsp;&emsp;&emsp;[4.5 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-strategic-thinking)  
-    &emsp;&emsp;&emsp;&emsp;[4.6 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#46-decision-making)  
-    &emsp;&emsp;&emsp;&emsp;[4.7 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#47-execution)  
-    &emsp;&emsp;&emsp;&emsp;[4.8 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#48-problem-solving)  
+&ensp;&ensp;[4 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4)  
 
+&ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
+    &emsp;&emsp;&emsp;&emsp;[5.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-change-how-you-work)  
+    &emsp;&emsp;&emsp;&emsp;[5.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-change-how-you-think)  
+    &emsp;&emsp;&emsp;&emsp;[5.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-change-how-you-use-digital-tools)  
+    &emsp;&emsp;&emsp;&emsp;[5.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-change-how-you-deal-with-emotions)   
+    
+&ensp;&ensp;[6 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
+    &emsp;&emsp;&emsp;&emsp;[6.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-strategic-thinking)  
+    &emsp;&emsp;&emsp;&emsp;[6.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-decision-making)  
+    &emsp;&emsp;&emsp;&emsp;[6.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-execution)  
+    &emsp;&emsp;&emsp;&emsp;[6.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-problem-solving)  
+
+&ensp;&ensp;[7 Beyond Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
   
@@ -244,9 +249,8 @@ In reality, most people need to balance the two: work hard to produce, but alway
 ### 3.1 Getting Ready for Your PhD 
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries. For those in North America, see the next book below.*
-- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 
-**Read these, ideally before graduate school.**
+**Read these books, ideally before graduate school.**
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -341,9 +345,17 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
   ---
   
-## 4 Work in Graduate School (and Beyond): Essential Skills
+## 4 Work in Graduate School (and Academia)
+- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 
-### 4.1 Change how you work
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
+## 5 Essential Skills for Work & Life
+
+### 5.1 Change how you work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
@@ -352,17 +364,17 @@ In reality, most people need to balance the two: work hard to produce, but alway
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
   
-### 4.2 Change how you think
+### 5.2 Change how you think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
 
 More books to be added later.
 
   
-### 4.3 Change how you use digital tools
+### 5.3 Change how you use digital tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
   
-### 4.4 Change how you deal with emotions
+### 5.4 Change how you deal with emotions
   
 Books to be added later.  
   
@@ -372,14 +384,16 @@ Books to be added later.
   ---
     
   
-### 4.5 Strategic Thinking  
+## 6 Strategy & Execution
+
+### 6.1 Strategic Thinking  
   
-### 4.6 Decision-Making  
+### 6.2 Decision-Making  
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
-### 4.7 Execution  
+### 6.3 Execution  
   
-### 4.8 Problem-Solving
+### 6.4 Problem-Solving
 
 Books to be added soon.
   
@@ -387,6 +401,14 @@ Books to be added soon.
   
   ---
   
+  
+## 7 Beyond Graduate School
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
+
 ## Other sections will be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
