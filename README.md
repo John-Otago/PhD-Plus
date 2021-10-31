@@ -41,7 +41,7 @@ Last update: 31 Oct 2021
     &emsp;&emsp;&emsp;&emsp;[3.3.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-academic-careers)  
     &emsp;&emsp;&emsp;&emsp;[3.3.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-non-academic-careers) 
     
-&ensp;&ensp;[4 Work & Life Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work--life-skills)  
+&ensp;&ensp;[4 Work & Life Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
     &emsp;&emsp;&emsp;&emsp;[4.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-change-how-you-work)  
     &emsp;&emsp;&emsp;&emsp;[4.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-change-how-you-think)  
     &emsp;&emsp;&emsp;&emsp;[4.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-change-how-you-use-digital-tools)  
