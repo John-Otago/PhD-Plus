@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.1.3  
+Version 0.2.0  
 Last update: 31 Oct 2021  
 
 ## Table of Contents  
@@ -21,39 +21,36 @@ Last update: 31 Oct 2021
   &emsp;&emsp;&emsp;&emsp;[1.4.2 - 1.4.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#142---145-to-be-added-later)  
   
 &ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
-  &emsp;&emsp;[2.1 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-goal)  
-  &emsp;&emsp;[2.2 Visions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-visions)  
+  &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision) 
+  &emsp;&emsp;[2.2 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-the-goal)  
   &emsp;&emsp;[2.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-principles)  
   &emsp;&emsp;[2.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#24-methods)  
   
 &ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-starting-graduate-school)  
   &emsp;&emsp;[3.1 Getting Ready for Your PhD](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-your-phd)  
+  
+  &emsp;&emsp;[3.2 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-academic-writing--publication---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.1 Generic Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-generic-writing-skills)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-the-phd-thesisdissertation-80000---100000-words)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-journal-articles-for-everyone-including-phd-by-publication)  
+    &emsp;&emsp;&emsp;&emsp;[3.2.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#324-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
+    &emsp;&emsp;&emsp;&emsp;[3.2.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#325-blogs-on-academic-writing-for-graduate-students)  
+  
+  &emsp;&emsp;[3.3 Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-career-preparation---start-from-day-one)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-overview)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-academic-careers)  
+    &emsp;&emsp;&emsp;&emsp;[3.3.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-non-academic-careers) 
+    
+&ensp;&ensp;[4 Work & Life Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work--life-skills)  
+    &emsp;&emsp;&emsp;&emsp;[4.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-change-how-you-work)  
+    &emsp;&emsp;&emsp;&emsp;[4.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-change-how-you-think)  
+    &emsp;&emsp;&emsp;&emsp;[4.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-change-how-you-use-digital-tools)  
+    &emsp;&emsp;&emsp;&emsp;[4.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#44-change-how-you-deal-with-emotions)   
+    &emsp;&emsp;&emsp;&emsp;[4.5 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-strategic-thinking)  
+    &emsp;&emsp;&emsp;&emsp;[4.6 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#46-decision-making)  
+    &emsp;&emsp;&emsp;&emsp;[4.7 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#47-execution)  
+    &emsp;&emsp;&emsp;&emsp;[4.8 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#48-problem-solving)  
 
-  &emsp;&emsp;[3.2 Work & Life Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work--life-skills)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#321-change-how-you-work)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#322-change-how-you-think)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#323-change-how-you-use-digital-tools)  
-    &emsp;&emsp;&emsp;&emsp;[3.2.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#324-change-how-you-deal-with-emotions)  
-  
-  &emsp;&emsp;[3.3 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-strategy--execution)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#331-strategic-thinking)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-decision-making)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-execution)  
-    &emsp;&emsp;&emsp;&emsp;[3.3.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#334-problem-solving)  
-  
-  &emsp;&emsp;[3.4 Research Design & Research Methods (in Social Sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#34-research-design--research-methods-in-social-sciences)  
-
-  &emsp;&emsp;[3.5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#35-academic-writing--publication---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.1 Generic Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#351-generic-writing-skills)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#352-the-phd-thesisdissertation-80000---100000-words)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#353-journal-articles-for-everyone-including-phd-by-publication)  
-    &emsp;&emsp;&emsp;&emsp;[3.5.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#354-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
-    &emsp;&emsp;&emsp;&emsp;[3.5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#355-blogs-on-academic-writing-for-graduate-students)  
-  
-  &emsp;&emsp;[3.6 Job Search & Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#36-job-search--career-preparation---start-from-day-one)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#361-overview)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#362-academic-careers)  
-    &emsp;&emsp;&emsp;&emsp;[3.6.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#363-non-academic-careers) 
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
   
@@ -167,10 +164,22 @@ Details to be added later
     
 ## 2. Before You Start
 
-### 2.1 The Goal
+### 2.1 The Vision
+The purpose of graduate research and the 'big picture':
+
+- Push the boundary of knowledge
+- Benefit people and society
+- Make the world a better place
+
+The vision is necessarily 'lofty'. Dream big. Aim high.  
+Then work hard (and smart) every day to achieve it.  
+
+### 2.2 The Goal
 There's only one goal when you are in graduate school:
 
 - **Complete your PhD (or other graduate degrees) on time.**
+
+The goal is necessarily specific and 'down to earth'.  
 
 'On time' should be interpreted strategically depending on your field and career goal.
 
@@ -182,17 +191,7 @@ Set your own deadline much earlier than the standard one. Strive to achieve it. 
 
 Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends.
 
-Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.
-
-### 2.2 Visions
-The purpose of graduate research and the 'big picture':
-
-- Push the boundary of knowledge
-- Benefit people and society
-- Make the world a better place
-
-The vision is necessarily 'lofty'. Dream big. Aim high.  
-Then work hard (and smart) every day to achieve it.
+Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.  
 
 ### 2.3 Principles
 - **Communication**
@@ -211,14 +210,12 @@ Here's how you do it:
 
 **Communication:**  
 If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
-
+  
 **Strategy & Execution:**  
 (a) Focus on the things that will help you achieve your goal (complete the PhD on time) while developing useful skills.  
 (b) Talk with your supervisor about strategy: what you should focus on, how to proceed with your research, and where to publish it.  
 (c) Once you have a strategy, do it. Start now and carry on. Review and reflect regularly on both your strategy and execution. Figure out what works, what doesn't, and how to improve it.  
-
-Also check out the books in section 3.3 below.
-
+  
 **Productivity:**  
 Productivity is essentially the ratio between the input and the output. Two ways to think about it:  
 (a) More input, more output (work hard).  
@@ -228,7 +225,7 @@ The former means you are 'productive' in the sense that you are producing more r
 
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
-In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. Section 3.2.1 below would be helpful.  
+In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. 
   
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
@@ -237,8 +234,6 @@ In reality, most people need to balance the two: work hard to produce, but alway
 (d) Learn to work and perform under stress and time constraint.  
 (e) Flexibility, adaptability, and perseverance are the key.  
 (f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars to support work and life, expect and live with ups and downs, don't rely exclusively on that 'one shot' that may or may not work, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
-
-The books in Sections 3.2.2 and 3.3 may be helpful.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -256,87 +251,25 @@ The books in Sections 3.2.2 and 3.3 may be helpful.
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
-    
-### 3.2 Work & Life Skills
+        
+### 3.2 Academic Writing & Publication - *start from day one*
 
-#### 3.2.1 Change how you work
-- **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
-- **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
-- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
-- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
-
-**I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
-  
-  
-#### 3.2.2 Change how you think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
-
-More books to be added later.
-
-  
-#### 3.2.3 Change how you use digital tools
-- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
-  
-  
-#### 3.2.4 Change how you deal with emotions
-  
-Books to be added later.  
-  
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-    
-### 3.3 Strategy & Execution
-  
-#### 3.3.1 Strategic Thinking  
-  
-#### 3.3.2 Decision-Making  
-- **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
-  
-#### 3.3.3 Execution  
-  
-#### 3.3.4 Problem-Solving
-
-Books to be added soon.
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-    
-### 3.4 Research Design & Research Methods (in Social Sciences)
-- [Optional] **Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 5th ed.** (JW Creswell & JD Creswell, 2017, Sage) || *Web resources are also available for this book: https://edge.sagepub.com/creswellrd5e*
-- [Optional] **Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences, 2nd ed.** (A Tashakkori et al., 2020, Sage)
-- [Optional] **Case Study Research and Applications: Design and Methods, 6th ed.** (RK Yin, 2018, Sage)
-- [Optional] **The Content Analysis Guidebook, 2nd ed.** (KA Neuendorf, 2017, Sage)
-- [Optional] **Research Methods in the Social Sciences: An A-Z of Key Concepts** (Edited by J-F Morin et al., 2021, Oxford UP)
-- [Optional] **The Oxford Handbook of Qualitative Research, 2nd ed.** (Edited by P Leavy, 2020, Oxford UP)
-- [Optional] **Handling Qualitative Data: A Practical Guide, 4th ed.** (L Richards, 2021, Sage)
-
-**There are MANY books on research design and methods, and some are discipline-specific. Those included here are introductions and overviews, mostly in social and behavioural sciences and to a less degree in interpretive social sciences (and irrelevant to humanities).**  
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-    
-### 3.5 Academic Writing & Publication - *start from day one*
-
-#### 3.5.1 General Writing Skills
+#### 3.2.1 General Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
-#### 3.5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
+#### 3.2.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
-#### 3.5.3 Journal Articles (for everyone including 'PhD by Publication')
+#### 3.2.3 Journal Articles (for everyone including 'PhD by Publication')
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
-#### 3.5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
+#### 3.2.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
   
-#### 3.5.5 Blogs on Academic Writing for Graduate Students
+#### 3.2.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
@@ -371,9 +304,9 @@ Books to be added soon.
   
   ---
     
-### 3.6 Job Search & Career Preparation - *start from day one*
+### 3.3 Career Preparation - *start from day one*
 
-#### 3.6.1 Overview
+#### 3.3.1 Overview
 - [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
   
 **Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
@@ -384,7 +317,7 @@ Books to be added soon.
 
 **Last note: networking is important for both academic and non-academic careers!**  
   
-#### 3.6.2 Academic Careers 
+#### 3.3.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
@@ -395,7 +328,7 @@ Books to be added soon.
 
 **All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
   
-#### 3.6.3 Non-Academic Careers
+#### 3.3.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
@@ -407,7 +340,53 @@ Books to be added soon.
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
+  
+## 4 Work in Graduate School (and Beyond): Essential Skills
+
+### 4.1 Change how you work
+- **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
+- **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
+- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
+- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
+
+**I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
+  
+  
+### 4.2 Change how you think
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
+
+More books to be added later.
+
+  
+### 4.3 Change how you use digital tools
+- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
+  
+  
+### 4.4 Change how you deal with emotions
+  
+Books to be added later.  
+  
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
     
+  
+### 4.5 Strategic Thinking  
+  
+### 4.6 Decision-Making  
+- **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
+  
+### 4.7 Execution  
+  
+### 4.8 Problem-Solving
+
+Books to be added soon.
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
 ## Other sections will be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
