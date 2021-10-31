@@ -41,21 +41,21 @@ Last update: 31 Oct 2021
     &emsp;&emsp;&emsp;&emsp;[3.3.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#332-academic-careers)  
     &emsp;&emsp;&emsp;&emsp;[3.3.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#333-non-academic-careers) 
     
-&ensp;&ensp;[4 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4)  
+&ensp;&ensp;[4 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-academia)  
 
-&ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
+&ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-essential-skills-for-work--life)  
     &emsp;&emsp;&emsp;&emsp;[5.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-change-how-you-work)  
     &emsp;&emsp;&emsp;&emsp;[5.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-change-how-you-think)  
     &emsp;&emsp;&emsp;&emsp;[5.3 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-change-how-you-use-digital-tools)  
     &emsp;&emsp;&emsp;&emsp;[5.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-change-how-you-deal-with-emotions)   
     
-&ensp;&ensp;[6 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
+&ensp;&ensp;[6 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-strategy--execution)  
     &emsp;&emsp;&emsp;&emsp;[6.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-strategic-thinking)  
     &emsp;&emsp;&emsp;&emsp;[6.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-decision-making)  
     &emsp;&emsp;&emsp;&emsp;[6.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-execution)  
     &emsp;&emsp;&emsp;&emsp;[6.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-problem-solving)  
 
-&ensp;&ensp;[7 Beyond Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-beyond-essential-skills)  
+&ensp;&ensp;[7 Beyond Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-beyond-graduate-school)  
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
   
