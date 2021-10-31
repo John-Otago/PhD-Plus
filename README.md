@@ -21,7 +21,7 @@ Last update: 31 Oct 2021
   &emsp;&emsp;&emsp;&emsp;[1.4.2 - 1.4.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#142---145-to-be-added-later)  
   
 &ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
-  &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision) 
+  &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision)  
   &emsp;&emsp;[2.2 The Goal](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#22-the-goal)  
   &emsp;&emsp;[2.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-principles)  
   &emsp;&emsp;[2.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#24-methods)  
