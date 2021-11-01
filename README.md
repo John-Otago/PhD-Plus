@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.2.0  
+Version 0.2.1  
 Last update: 1 Nov 2021  
 
 ## Table of Contents  
@@ -17,8 +17,6 @@ Last update: 1 Nov 2021
   &emsp;&emsp;[1.2 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-what-is-phd-training)  
   &emsp;&emsp;[1.3 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-the-philosophy-sort-of)  
   &emsp;&emsp;[1.4 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-focus-areas)  
-  &emsp;&emsp;&emsp;&emsp;[1.4.1 Skill Development](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#141-skill-development)  
-  &emsp;&emsp;&emsp;&emsp;[1.4.2 - 1.4.5 to be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#142---145-to-be-added-later)  
   
 &ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
   &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision)  
@@ -149,19 +147,7 @@ Graduate training is not the only way to achieve this goal, and this process ent
 - **Strategic thinking × dynamic balance**
 - **Sharp focus × broad periphery views**
 
-This section is a draft that may be revised later.
-
-#### 1.4.1 Skill Development
-- **Research & Analysis**
-- **Critical, Creative, Strategic Thinking**
-- **Productivity & Project Management**
-- **Communication & Collaboration**
-- **Digital Skills & Data Skills**
-- **Qualitative & Quantitative Literacy**
-
 Details to be added later
-  
-#### 1.4.2 - 1.4.5 to be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
