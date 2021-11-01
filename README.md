@@ -2,7 +2,7 @@
   
 A J.W. Project  
 Version 0.2.0  
-Last update: 31 Oct 2021  
+Last update: 1 Nov 2021  
 
 ## Table of Contents  
    
@@ -403,6 +403,10 @@ Books to be added soon.
   
   
 ## 7 Beyond Graduate School
+  
+### 7.1 Change your habits
+**The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House Trade Paperbacks) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
+
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
