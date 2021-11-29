@@ -51,7 +51,7 @@ Last update: 29 Nov 2021
 &ensp;&ensp;[6 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-strategy--execution)  
     &emsp;&emsp;&emsp;&emsp;[6.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-strategic-thinking)  
     &emsp;&emsp;&emsp;&emsp;[6.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-decision-making)  
-    &emsp;&emsp;&emsp;&emsp;[6.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-execution)  
+    &emsp;&emsp;&emsp;&emsp;[6.3 Effective Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-effective-execution)  
     &emsp;&emsp;&emsp;&emsp;[6.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-problem-solving)  
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
@@ -379,7 +379,7 @@ Books to be added later.
 ### 6.2 Decision-Making  
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
-### 6.3 Execution  
+### 6.3 Effective Execution  
   
 ### 6.4 Problem-Solving
 
