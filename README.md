@@ -239,16 +239,15 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
 ### 3.2 Work in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
-- [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.  
+- [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || *This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.*  
   
 ### 3.3 Academic Newspapers (Periodicals)
 - [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
 - [**The Chronicle of Higher Education**](https://www.chronicle.com/) || *US-based, mainly local coverage*
 - [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
   
----
-
-**Read the books above when you start graduate school. The two newspapers are trade publications to help you understand the current issues in academia, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below).**  
+  
+Read the books above when you start graduate school. The two newspapers are trade publications to help you understand the current issues in academia, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below).  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -257,30 +256,30 @@ In reality, most people need to balance the two: work hard to produce, but alway
 ### 4 Career Preparation - *start from day one*
 
 #### 4.1 Overview
-**It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply-and-demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.**  
+It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply-and-demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
   
-**Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**  
+Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.  
   
-**If you come from a typical middle-class family or from a culture that highly values education, you may 'naturally' believe that more education will lead to more opportunities--that's not necessarily true.**  
+If you come from a typical middle-class family or from a culture that highly values education, you may 'naturally' believe that more education will lead to more opportunities--that's not necessarily true.  
   
-**In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies for post-docs.**  
+In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies for post-docs.  
   
-**International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).**  
+International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).  
   
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**  
+For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.  
 
-**Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.**  
+Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.  
   
 #### 4.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
   
-**Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.**  
+Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.  
 
-**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is really like ‘out there’ and how difficult it can be, while offering practical advice.**  
+The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is really like ‘out there’ and how difficult it can be, while offering practical advice.  
 
-**All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
+All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.  
   
 #### 4.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
@@ -290,9 +289,9 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 - [**The Versatile PhD (web-based service)**](https://versatilephd.com/)
 
-**Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
+Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.  
   
-**Last note: networking is important for both academic and non-academic careers!**  
+Last note: networking is important for both academic and non-academic careers!  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
