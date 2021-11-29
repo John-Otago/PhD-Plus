@@ -244,15 +244,19 @@ In reality, most people need to balance the two: work hard to produce, but alway
 ### 3.2 Career Preparation - *start from day one*
 
 #### 3.2.1 Overview
-- [Optional] **The New PhD: How to Build a Better Graduate Education** (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP) || *Perhaps read the *Introduction* to understand the big picture.*
+**It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply-and-demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.**  
   
-**Most PhD graduates (especially in HASS) will not get a career-track academic job. In a small country like ours, even those who can often spend 2-5 years on the market before they land a job. I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.** 
+**Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**  
+  
+**If you come from a typical middle-class family or from a culture that highly values education, you may 'naturally' believe that more education will lead to more opportunities--that's not necessarily true.**  
+  
+**In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies for post-docs.**  
+  
+**International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).**  
+  
+**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**  
 
-**Check out this list to understand the academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.**
-
-**For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.**
-
-**Last note: networking is important for both academic and non-academic careers!**  
+**Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.**  
   
 #### 3.2.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
@@ -261,7 +265,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
 **Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.**  
 
-**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is like ‘out there’ and how difficult it can be, while offering practical advice.**  
+**The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is really like ‘out there’ and how difficult it can be, while offering practical advice.**  
 
 **All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.**  
   
@@ -273,6 +277,8 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 
 **Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.**  
+  
+**Last note: networking is important for both academic and non-academic careers!**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
