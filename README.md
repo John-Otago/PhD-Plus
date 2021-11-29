@@ -120,7 +120,7 @@ Consider this quote:
   
 >[Doing a PhD] is like to be in the SAS. Once you have passed through extreme training, most normal activities are no longer stimulating [...].
 >
->  Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
+>  -- Andrew Oswald, Professor of Economics & Behavioural Science, University of Warwick (cited [here](https://www.timeshighereducation.com/features/workload-survival-guide-for-academics))
 
 You should read Oswald's part in that article, as I've quoted him out of context (he's talking about academics' heavy workload).
   
