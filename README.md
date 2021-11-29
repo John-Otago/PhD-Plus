@@ -240,9 +240,11 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.  
   
 ### 3.3 Academic Newspapers (Periodicals)
-- **Times Higher Education** || *UK-based with global coverage*
-- **The Chronicle of Higher Education** || *US-based with mainly local coverage*
-- **Inside Higher Ed** || *Online publication/website, US-based*
+- [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
+- [**The Chronicle of Higher Education**](https://www.chronicle.com/) || *US-based, mainly local coverage*
+- [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
+  
+---
 
 **Read the books above when you start graduate school. The two newspapers are trade publications to help you understand the current issues in academia, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below).**  
   
