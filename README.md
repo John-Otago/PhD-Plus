@@ -44,7 +44,7 @@ Last update: 29 Nov 2021
 &ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-essential-skills-for-work--life)  
     &emsp;&emsp;&emsp;&emsp;[5.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-change-how-you-work)  
     &emsp;&emsp;&emsp;&emsp;[5.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-change-how-you-think)  
-    &emsp;&emsp;&emsp;&emsp;[5.3 Change your habits](ttps://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-change-your-habits)  
+    &emsp;&emsp;&emsp;&emsp;[5.3 Change your habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-change-your-habits)  
     &emsp;&emsp;&emsp;&emsp;[5.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-change-how-you-deal-with-emotions)  
     &emsp;&emsp;&emsp;&emsp;[5.5 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-change-how-you-use-digital-tools)  
       
