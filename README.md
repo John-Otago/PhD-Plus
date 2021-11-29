@@ -137,6 +137,8 @@ You don't need to agree with me, but think about this before starting.
 ### 1.3 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
+Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, and risk-taking. It is hard work, and the graduate school offers a good opportunity for training.  
+
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
 ### 1.4 Focus Areas
