@@ -42,8 +42,8 @@ Last update: 29 Nov 2021
   &emsp;&emsp;[5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing-for-graduate-students)  
   
 &ensp;&ensp;[6 Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
-  &emsp;&emsp;[6.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-work)  
-  &emsp;&emsp;[6.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-think)  
+  &emsp;&emsp;[6.1 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
+  &emsp;&emsp;[6.2 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
   &emsp;&emsp;[6.3 Change your habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-your-habits)  
   &emsp;&emsp;[6.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-how-you-deal-with-emotions)  
   &emsp;&emsp;[6.5 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-use-digital-tools)  
@@ -351,19 +351,18 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
 ## 6 Become Self-Owned
 
-### 6.1 Change how you work
+### 6.1 Change how you think
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
+  
+More books to be added later.  
+  
+### 6.2 Change how you work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
 - [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
 
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
-  
-  
-### 6.2 Change how you think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
-
-More books to be added later.
   
 ### 6.3 Change your habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C. Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
