@@ -53,8 +53,6 @@ Last update: 29 Nov 2021
     &emsp;&emsp;&emsp;&emsp;[6.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-decision-making)  
     &emsp;&emsp;&emsp;&emsp;[6.3 Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-execution)  
     &emsp;&emsp;&emsp;&emsp;[6.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-problem-solving)  
-
-&ensp;&ensp;[7 Beyond Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-beyond-graduate-school)  
     
 &ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
   
@@ -357,7 +355,11 @@ In reality, most people need to balance the two: work hard to produce, but alway
 More books to be added later.
   
 ### 5.3 Change your habits  
-  
+- **The Power of Habit: Why We Do What We Do in Life and Business** (C. Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
+- [Optional] **Atomic Habits** (J. Clear, 2018, Random House) || *This one is completely optional.*  
+
+These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
+   
 ### 5.4 Change how you deal with emotions
   
 Books to be added later.  
@@ -382,17 +384,6 @@ Books to be added later.
 ### 6.4 Problem-Solving
 
 Books to be added soon.
-  
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
-  
-  ---
-  
-  
-## 7 Beyond Graduate School
-  
-### 7.1 Change your habits
-**The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House Trade Paperbacks) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
-
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
