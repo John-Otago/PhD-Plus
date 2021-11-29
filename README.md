@@ -338,13 +338,13 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
 **Think about this.**  
   
-**For non-native-speakers, read good papers and books from native speakers and make your writing like theirs. Pay attention to wording and phrasing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
+**For non-native-speakers, read good papers/books and make your writing like the authors'. Pay attention to wording and phrasing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
   
 **Last tip:** 
 
 **Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.** 
 
-**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).**  
+**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news reports and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).**  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
