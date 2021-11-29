@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.2.2  
+Version 0.3.1  
 Last update: 29 Nov 2021  
 
 ## Table of Contents  
@@ -41,14 +41,14 @@ Last update: 29 Nov 2021
   
 &ensp;&ensp;[4 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-work-in-graduate-school-and-academia)  
 
-&ensp;&ensp;[5 Essential Skills for Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-essential-skills-for-work--life)  
+&ensp;&ensp;[5 Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-become-self--owned)  
     &emsp;&emsp;&emsp;&emsp;[5.1 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-change-how-you-work)  
     &emsp;&emsp;&emsp;&emsp;[5.2 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-change-how-you-think)  
     &emsp;&emsp;&emsp;&emsp;[5.3 Change your habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-change-your-habits)  
     &emsp;&emsp;&emsp;&emsp;[5.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-change-how-you-deal-with-emotions)  
     &emsp;&emsp;&emsp;&emsp;[5.5 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-change-how-you-use-digital-tools)  
       
-&ensp;&ensp;[6 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-strategy--execution)  
+&ensp;&ensp;[6 Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self--owned-continued)  
     &emsp;&emsp;&emsp;&emsp;[6.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-strategic-thinking)  
     &emsp;&emsp;&emsp;&emsp;[6.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-decision-making)  
     &emsp;&emsp;&emsp;&emsp;[6.3 Effective Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-effective-execution)  
@@ -344,7 +344,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
   ---
   
-## 5 Essential Skills for Work & Life
+## 5 Become Self-Owned
 
 ### 5.1 Change how you work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
@@ -378,7 +378,7 @@ Books to be added later.
   ---
     
   
-## 6 Strategy & Execution
+## 6 Become Self-Owned (continued)
 
 ### 6.1 Strategic Thinking  
   
