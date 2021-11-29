@@ -322,7 +322,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 ---
 **Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
 
-**Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work (see 3.6 below), it is still good to have some publication from your PhD.**
+**Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work, it is still good to have some publication from your PhD.**
 
 **Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**  
 
