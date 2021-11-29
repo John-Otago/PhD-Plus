@@ -233,7 +233,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 
 ### 3.1 Getting Ready for Your PhD 
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
-- **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in many other countries. For those in North America, see the next book below.*
+- **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in other countries.*
 
 **Read these books, ideally before graduate school.**
   
