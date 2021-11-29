@@ -247,7 +247,8 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
   
   
-Read the books above when you start graduate school. The two newspapers are trade publications to help you understand the current issues in academia, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below).  
+Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues in academia/higher education, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md).  
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
