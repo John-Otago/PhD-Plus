@@ -238,7 +238,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in other countries.*
   
 ### 3.2 Work in Graduate School (and Academia)
-- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for those in the US. Students elsewhere may skim the book for key points, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
+- **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book for students, like how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 - [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || *This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.*  
   
 ### 3.3 Academic Newspapers (Periodicals)
