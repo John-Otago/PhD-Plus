@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.3.1  
-Last update: 29 Nov 2021  
+Version 0.3.2  
+Last update: 5 Dec 2021  
 
 ## Table of Contents  
    
@@ -257,7 +257,7 @@ Read the books above when you start graduate school. The newspapers are trade pu
 ### 4 Career Preparation - *start from day one*
 
 #### 4.1 Overview
-It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply-and-demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
+It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
   
 Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.  
   
@@ -278,7 +278,7 @@ Overall, I ask all my PhD students to consider and prepare for a dual career tra
   
 Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.  
 
-The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two demonstrate what it is really like ‘out there’ and how difficult it can be, while offering practical advice.  
+The first book offers a good overview (matter-of-factly, as if most PhD graduates can find a career-track job in today’s academic market). The next two tell you what it's really like ‘out there’ and how difficult it can be, while offering practical advice.  
 
 All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.  
   
