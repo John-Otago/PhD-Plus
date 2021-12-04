@@ -263,7 +263,7 @@ Check out this list to understand the (mostly collapsed) academic job market: ht
   
 If you come from a typical middle-class family or from a culture that highly values education, you may 'naturally' believe that more education will lead to more opportunities--that's not necessarily true.  
   
-In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies for post-docs.  
+In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies to post-docs.  
   
 International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).  
   
