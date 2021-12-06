@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.3.2  
-Last update: 5 Dec 2021  
+Version 0.3.3  
+Last update: 7 Dec 2021  
 
 ## Table of Contents  
    
@@ -289,8 +289,10 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 - **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 - [**The Versatile PhD (web-based service)**](https://versatilephd.com/)
+- [**MyIDP**](https://myidp.sciencecareers.org/) (for STEM PhDs)
+- [**ImaginePhD**](https://www.imaginephd.com/) (for HASS PhDs)
 
-Again, all written and published in the US. Students in other countries should pick up the key points and apply them to the local context.  
+Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
