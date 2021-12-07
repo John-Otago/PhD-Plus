@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students & Advisors (and perhaps Early-Career Researchers)
   
 A J.W. Project  
-Version 0.3.3  
-Last update: 7 Dec 2021  
+Version 0.3.4  
+Last update: 8 Dec 2021  
 
 ## Table of Contents  
    
@@ -172,8 +172,8 @@ There's only one goal when you are in graduate school:
 - **Complete your PhD (or other graduate degrees) on time.**
 
 The goal is necessarily specific and 'down to earth'.  
-
-'On time' should be interpreted strategically depending on your field and career goal.
+  
+#### 'On time' should be interpreted strategically depending on your field and career goal.
 
 (a) If you want an industry job, and your PhD is in a field with a matching industry to work in, you should aim to finish your PhD as fast as possible.
 
@@ -181,10 +181,19 @@ Set your own deadline much earlier than the standard one. Strive to achieve it. 
 
 (b) If you want an academic job, and/or your PhD is in a field of purely intellectual knowledge without an applied industry to work in, you should utilise the maximum funded time of your PhD to build up your publication and network.  
 
-Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends.
+Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends. I learnt this the hard way by submitting my PhD earlier and giving up on one-year's funding, which turned out to be a strategic mistake.
 
 Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.  
+  
+#### This strategy serves a purpose. Think about the following two scenarios, and which one you’d like to end up in:
 
+- Always one step ahead (busy but relaxed)
+- Always one step behind (busy *and* stressed)
+
+You’d be happier during your PhD if you can keep a sense of relaxed control by being one step ahead (or more). You will be stressed if you are often behind or find yourself in a rush to *just* meet the deadline.
+
+Some books I recommend below (sections 3-7) can help you better understand and carry out this strategy to achieve this goal.
+  
 ### 2.3 Principles
 - **Communication**
 - **Strategy**
@@ -247,7 +256,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
   
   
-Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues in academia/higher education, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md).  
+Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues in academia/higher education, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
