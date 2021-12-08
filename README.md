@@ -17,7 +17,6 @@ Last update: 8 Dec 2021
   &emsp;&emsp;[1.2 Why Do You Want a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-why-do-you-want-a-phd)   
   &emsp;&emsp;[1.3 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-what-is-phd-training)  
   &emsp;&emsp;[1.4 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-the-philosophy-sort-of)  
-  &emsp;&emsp;[1.5 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#15-focus-areas)  
   
 &ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
   &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision)  
@@ -158,23 +157,17 @@ Nonetheless, good PhD training should help students develop transferable skills 
 
 I also believe that PhD is not for the faint-hearted (if it's easy, everyone would do it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
 
-You don't need to agree with me, but think about this before starting.
+You don't need to agree with me, but think about this before starting.  
+  
+I know I might have been glorifying Graduate School—it’s definitely not all rosy—but if you *really* want to do a PhD, I hope you can get the most out of it.
   
 ### 1.4 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
-Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, and risk-taking. It is hard work, and the graduate school offers a good opportunity for training.  
+Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, tinkering, and risk-taking. It is hard work, and the graduate school offers a good opportunity for training.  
 
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
-### 1.5 Focus Areas
-- **Skill development (hard × soft) for work and life**
-- **Strong core knowledge × interdisciplinary coverage**
-- **Structured training × individual discovery**
-- **Strategic thinking × dynamic balance**
-- **Sharp focus × broad periphery views**
-
-Details to be added later
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
