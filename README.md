@@ -29,32 +29,34 @@ Last update: 9 Dec 2021
   &emsp;&emsp;[3.2 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work-in-graduate-school-and-Academia)  
   &emsp;&emsp;[3.3 Understanding Higher Education](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-understanding-higher-education)  
 
-&ensp;&ensp;[4 Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-career-preparation---start-from-day-one)  
+&ensp;&ensp;[4. Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-career-preparation---start-from-day-one)  
   &emsp;&emsp;[4.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-overview)  
   &emsp;&emsp;[4.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-academic-careers)  
   &emsp;&emsp;[4.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-non-academic-careers) 
       
-&ensp;&ensp;[5 Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
+&ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
   &emsp;&emsp;[5.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-writing-skills)  
   &emsp;&emsp;[5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation-80000---100000-words)  
   &emsp;&emsp;[5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-journal-articles-for-everyone-including-phd-by-publication)  
   &emsp;&emsp;[5.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
   &emsp;&emsp;[5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing-for-graduate-students)  
   
-&ensp;&ensp;[6 Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
+&ensp;&ensp;[6. Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
   &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
   &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
   &emsp;&emsp;[6.3 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-your-habits)  
   &emsp;&emsp;[6.4 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-how-you-deal-with-emotions)  
   &emsp;&emsp;[6.5 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-use-digital-tools)  
       
-&ensp;&ensp;[7 Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
+&ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-strategic-thinking)  
   &emsp;&emsp;[7.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making)  
   &emsp;&emsp;[7.3 Effective Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-effective-execution)  
   &emsp;&emsp;[7.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-problem-solving)  
     
-&ensp;&ensp;[Other sections will be added later](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#other-sections-will-be-added-later)  
+&ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
+  
+&ensp;&ensp;[Appendix](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix)  
   
   ---
     
@@ -126,7 +128,7 @@ I’ve seen so many PhD graduates end up jobless after graduate school and have 
   
 As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of what it’s *really* like out there, and still hold naive views and wishful thinking until they are tested in real life—often followed by a rude awakening.
   
-As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (also see the Appendix). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (also see the [Appendix](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
   
 Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
   
@@ -274,7 +276,7 @@ Read the books above when you start graduate school. The newspapers are trade pu
   
   ---
   
-### 4 Career Preparation - *start from day one*
+### 4. Career Preparation - *start from day one*
 
 #### 4.1 Overview
 It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
@@ -320,7 +322,7 @@ Last note: networking is important for both academic and non-academic careers!
   
   ---
   
-### 5 Academic Writing & Publication - *start from day one*
+### 5. Academic Writing & Publication - *start from day one*
 
 #### 5.1 Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
@@ -374,7 +376,7 @@ Last note: networking is important for both academic and non-academic careers!
   ---
   
   
-## 6 Become Self-Owned
+## 6. Become Self-Owned
 
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
@@ -407,7 +409,7 @@ Books to be added later.
   ---
     
   
-## 7 Become Self-Owned (continued)
+## 7. Become Self-Owned (continued)
 
 ### 7.1 Strategic Thinking  
 I’m still trying but it’s very difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business administration. Few people talk about how it functions in everyday life.  
