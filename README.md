@@ -14,7 +14,7 @@ Last update: 8 Dec 2021
   
 &ensp;&ensp;[1. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#1-philosophy-of-phd-training)  
   &emsp;&emsp;[1.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#11-what-is-a-phd)  
-  &emsp;&emsp;[1.2 Why Do You Want a PhD?]()   
+  &emsp;&emsp;[1.2 Why Do You Want a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-why-do-you-want-a-phd)   
   &emsp;&emsp;[1.3 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-what-is-phd-training)  
   &emsp;&emsp;[1.4 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-the-philosophy-sort-of)  
   &emsp;&emsp;[1.5 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#15-focus-areas)  
