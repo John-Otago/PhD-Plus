@@ -126,7 +126,7 @@ I’ve seen so many PhD graduates end up jobless after graduate school and have 
   
 As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of what it’s *really* like out there, and still hold naive views and wishful thinking until they are tested in real life—often followed by a rude awakening.
   
-As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you with that. At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (also see the Appendix). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
   
 Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
   
@@ -448,8 +448,36 @@ Books to be added soon.
   
   ---
   
+  
+## Closing Remarks
 
-## Other sections will be added later
+#### Walk the Talk
+
+#### *Via Negativa*
+
+#### The End is the Beginning
+  
+  
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+    
+## Appendix
+
+#### Reasons to do/not to do a PhD (follow up to Section 1.2)
+In Section 1.2, I asked you to think about why you want a PhD. Here are a few common reasons (by no means exhaustive) and ‘counter-points’, so to speak, to help you consider your options and make your decision.
+
+(a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has already collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.
+
+(b) For international students, if you want a PhD as your ‘passport’ to global mobilities to be able to work internationally in any country with better opportunities, do you know that some major/powerful countries mainly employ local PhD graduates (both in academia and in the industry/other sectors)? If you know that, would you still do your PhD in a small or young or developing country that is less established academically and ranked lower in the global academic hierarchy, even though otherwise the country looks attractive?
+
+(c) Some people may pursue a research-related career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?
+
+(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one from another country (regardless of global ranking), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
+
+Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about cost-and-benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should think very carefully.
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
