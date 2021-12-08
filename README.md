@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.3.4  
-Last update: 8 Dec 2021  
+Version 0.3.5  
+Last update: 9 Dec 2021  
 
 ## Table of Contents  
    
@@ -120,15 +120,7 @@ If your supervisor hasn’t asked you why you choose graduate school, you should
   
 There are probably many other things that you should do or would enjoy doing, but why a PhD—a multiyear commitment and hard work with great risks and opportunity cost?
   
-(a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has already collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.
-  
-(b) For international students, if you want a PhD as your ‘passport’ to global mobilities to be able to work internationally in any country with better opportunities, do you know that some major/powerful countries mainly employ local PhD graduates (both in academia and in the industry/other sectors)? If you know that, would you still do your PhD in a small or young or developing country that is less established academically and ranked lower in the global academic hierarchy, even though otherwise the country looks attractive?
-  
-(c) Some people may pursue a research-related career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?
-  
-(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one from another country (regardless of global ranking), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
-  
-I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you shouldn’t make it carelessly or without being informed about the reality.
+I raise this question, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you shouldn’t make it carelessly or without being informed about the reality.
   
 I’ve seen so many PhD graduates end up jobless after graduate school and have to collect unemployment benefits, or can only find work in sales, retail, restaurants, supermarkets, or drive cabs (all real-life examples)—it’s not that these jobs are worthless or ‘below’ anyone, but that our PhD graduates are competing with high-school dropouts for these jobs that don’t need a college degree. International students may not even be allowed to stay in the country if they don’t have a job that closely matches their PhD once their visa runs out. Some degree holders may find themselves essentially unemployable or severely under-employed, especially if they did their PhD in a non-applied area, although this problem can occur to any PhD student in any discipline. 
   
