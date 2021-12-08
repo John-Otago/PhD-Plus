@@ -344,6 +344,7 @@ Last note: networking is important for both academic and non-academic careers!
 #### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
+- [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
   
 #### 5.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
