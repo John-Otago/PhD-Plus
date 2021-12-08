@@ -438,9 +438,11 @@ I’ve put together some books here on various aspects of ‘strategy’ and hop
 
 
 #### Strategy to deal with risks and uncertainties
-
-
-
+  
+  
+#### Strategy to deal with change
+  
+  
 ### 7.2 Decision-Making  
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
