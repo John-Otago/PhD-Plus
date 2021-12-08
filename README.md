@@ -417,7 +417,29 @@ Books to be added later.
 ## 7 Become Self-Owned (continued)
 
 ### 7.1 Strategic Thinking  
-  
+I’m still trying but it’s very difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business administration. Few people talk about how it functions in everyday life.  
+
+In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
+
+I truly believe that strategic thinking is an essential skill in today’s world to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be.  
+
+You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War), which has already been applied to many respects of everyday life. You can also check out Yale’s [Brady-Johnson Program in Grand Strategy](https://grandstrategy.yale.edu/) and relevant publications, although grand strategy (what they teach) is still different from everyday strategic thinking. There are many books talking about business strategies, too.  
+
+I’ve put together some books here on various aspects of ‘strategy’ and hope to grow the collection when I come across more resources.  
+
+#### Strategy to focus on the most important things and reduce noise/distraction
+
+
+#### Strategy to make use of (limited) resources
+
+
+#### Strategy to get from A to B in the most effective and efficient way
+
+
+#### Strategy to deal with risks and uncertainties
+
+
+
 ### 7.2 Decision-Making  
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
