@@ -42,11 +42,11 @@ Last update: 8 Dec 2021
   &emsp;&emsp;[5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing-for-graduate-students)  
   
 &ensp;&ensp;[6 Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
-  &emsp;&emsp;[6.1 Change how you think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
-  &emsp;&emsp;[6.2 Change how you work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
-  &emsp;&emsp;[6.3 Change your habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-your-habits)  
-  &emsp;&emsp;[6.4 Change how you deal with emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-how-you-deal-with-emotions)  
-  &emsp;&emsp;[6.5 Change how you use digital tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-use-digital-tools)  
+  &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
+  &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
+  &emsp;&emsp;[6.3 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-your-habits)  
+  &emsp;&emsp;[6.4 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-how-you-deal-with-emotions)  
+  &emsp;&emsp;[6.5 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7 Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-strategic-thinking)  
@@ -211,7 +211,7 @@ Again, if anything went wrong and you couldn't finish it earlier, you can still 
 
 You’d be happier during your PhD if you can keep a sense of relaxed control by being one step ahead (or more). You will be stressed if you are often behind or find yourself in a rush to *just* meet the deadline.
 
-Some books I recommend below (sections 3-7) can help you better understand and carry out this strategy to achieve this goal.
+Some books I recommend below (Sections 3-7) can help you better understand and carry out this strategy to achieve this goal.
   
 ### 2.3 Principles
 - **Communication**
@@ -269,13 +269,13 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 - [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || *This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.*  
   
-### 3.3 Academic Newspapers (Periodicals)
+### 3.3 Look Over Your Shoulder
 - [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
 - [**The Chronicle of Higher Education**](https://www.chronicle.com/) || *US-based, mainly local coverage*
 - [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
   
   
-Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues in academia/higher education, which can be helpful if you read them regularly, especially if you are seriously considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
+Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues and the 'big picture' in academia/higher education, which can be helpful if you read them regularly, especially if you are considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
@@ -383,12 +383,12 @@ Last note: networking is important for both academic and non-academic careers!
   
 ## 6 Become Self-Owned
 
-### 6.1 Change how you think
+### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
   
 More books to be added later.  
   
-### 6.2 Change how you work
+### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
@@ -396,17 +396,17 @@ More books to be added later.
 
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
-### 6.3 Change your habits  
+### 6.3 Change Your Habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C. Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
 - [Optional] **Atomic Habits** (J. Clear, 2018, Random House) || *This one is completely optional.*  
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
    
-### 6.4 Change how you deal with emotions
+### 6.4 Change How You Deal with Emotions
   
 Books to be added later.  
   
-### 6.5 Change how you use digital tools
+### 6.5 Change How You Use Digital Tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
