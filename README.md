@@ -361,7 +361,7 @@ Last note: networking is important for both academic and non-academic careers!
   
 **Think about this.**  
   
-**For non-native-speakers, read good papers/books and make your writing like the authors'. Pay attention to wording and phrasing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
+**For non-native-speakers, read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
   
 **Last tip:** 
 
