@@ -269,13 +269,13 @@ In reality, most people need to balance the two: work hard to produce, but alway
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
 - [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || *This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.*  
   
-### 3.3 Look Over Your Shoulder
+### 3.3 Understanding Higher Education
 - [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
 - [**The Chronicle of Higher Education**](https://www.chronicle.com/) || *US-based, mainly local coverage*
 - [**Inside Higher Ed**](https://www.insidehighered.com/) || *Online publication/website, US-based*
+- **Some relevant books are available [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#08-relevant-books)**
   
-  
-Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues and the 'big picture' in academia/higher education, which can be helpful if you read them regularly, especially if you are considering an academic career (but see Section 4 below). Or you can read my curated list [here]( https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
+Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues and the 'big picture' in academia/higher education, which can be helpful if you read them regularly, especially if you are considering an academic career (but see Section 4 below). Or you can read my curated list [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
