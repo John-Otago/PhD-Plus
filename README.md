@@ -14,9 +14,10 @@ Last update: 8 Dec 2021
   
 &ensp;&ensp;[1. Philosophy of PhD Training](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#1-philosophy-of-phd-training)  
   &emsp;&emsp;[1.1 What is a PhD?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#11-what-is-a-phd)  
-  &emsp;&emsp;[1.2 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#12-what-is-phd-training)  
-  &emsp;&emsp;[1.3 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-the-philosophy-sort-of)  
-  &emsp;&emsp;[1.4 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-focus-areas)  
+  &emsp;&emsp;[1.2 Why Do You Want a PhD?]()   
+  &emsp;&emsp;[1.3 What is PhD Training?](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#13-what-is-phd-training)  
+  &emsp;&emsp;[1.4 The Philosophy (sort of)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#14-the-philosophy-sort-of)  
+  &emsp;&emsp;[1.5 Focus Areas](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#15-focus-areas)  
   
 &ensp;&ensp;[2. Before You Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#2-before-you-start)  
   &emsp;&emsp;[2.1 The Vision](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#21-the-vision)  
@@ -113,7 +114,32 @@ I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked
 
 Keep pushing.  
   
-### 1.2 What is PhD Training?
+### 1.2 Why Do You Want a PhD?
+The reason above may not explain *your* motivation/rationale to pursue a PhD, nor it can fully account for various kinds of reasons that people choose to do a PhD.
+  
+If your supervisor hasn’t asked you why you choose graduate school, you should ask yourself that question before you start and have a *really* clear answer, rather than a vague impression that this is something you ‘should’ do or ‘like’ to do.
+  
+There are probably many other things that you should do or would enjoy doing, but why a PhD—a multiyear commitment and hard work with great risks and opportunity cost?
+  
+(a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has already collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.
+  
+(b) For international students, if you want a PhD as your ‘passport’ to global mobilities to be able to work internationally in any country with better opportunities, do you know that some major/powerful countries mainly employ local PhD graduates (both in academia and in the industry/other sectors)? If you know that, would you still do your PhD in a small or young or developing country that is less established academically and ranked lower in the global academic hierarchy, even though otherwise the country looks attractive?
+  
+(c) Some people may pursue a research-related career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?
+  
+(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one from another country (regardless of global ranking), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
+  
+I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you shouldn’t make it carelessly or without being informed about the reality.
+  
+I’ve seen so many PhD graduates end up jobless after graduate school and have to collect unemployment benefits, or can only find work in sales, retail, restaurants, supermarkets, or drive cabs (all real-life examples)—it’s not that these jobs are worthless or ‘below’ anyone, but that our PhD graduates are competing with high-school dropouts for these jobs that don’t need a college degree. International students may not even be allowed to stay in the country if they don’t have a job that closely matches their PhD once their visa runs out. Some degree holders may find themselves essentially unemployable or severely under-employed, especially if they did their PhD in a non-applied area, although this problem can occur to any PhD student in any discipline. 
+  
+As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of reality (what it’s *really* like out there) and still hold naive views and wishful thinking until they are tested in real life, often followed by a rude awakening.
+  
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you with that. At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
+  
+Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
+  
+### 1.3 What is PhD Training?
 Now, what is it like to go through PhD training?
   
 Consider this quote:
@@ -134,14 +160,14 @@ I also believe that PhD is not for the faint-hearted (if it's easy, everyone wou
 
 You don't need to agree with me, but think about this before starting.
   
-### 1.3 The Philosophy (sort of)
+### 1.4 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
 Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, and risk-taking. It is hard work, and the graduate school offers a good opportunity for training.  
 
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
-### 1.4 Focus Areas
+### 1.5 Focus Areas
 - **Skill development (hard × soft) for work and life**
 - **Strong core knowledge × interdisciplinary coverage**
 - **Structured training × individual discovery**
