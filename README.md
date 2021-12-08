@@ -27,7 +27,7 @@ Last update: 8 Dec 2021
 &ensp;&ensp;[3. Start Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-start-graduate-school)  
   &emsp;&emsp;[3.1 Get Ready for Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-get-ready-for-graduate-school)  
   &emsp;&emsp;[3.2 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work-in-graduate-school-and-Academia)  
-  &emsp;&emsp;[3.3 Academic Newspapers (Periodicals)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-academic-newspapers-periodicals)  
+  &emsp;&emsp;[3.3 Understanding Higher Education](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-understanding-higher-education)  
 
 &ensp;&ensp;[4 Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-career-preparation---start-from-day-one)  
   &emsp;&emsp;[4.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-overview)  
