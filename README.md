@@ -423,8 +423,9 @@ The first few books are must-read. The last one is optional.
 You should read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
 ### 6.3 Change How You Communicate
+- [Optional] **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
   
-Books to be added later.  
+- [Optional] **Crucial Conversations: Tools for Talking When Stakes are High**, 3rd ed. (J Grenny et al., 2021, McGraw Hill)
   
 ### 6.4 Change Your Habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*
