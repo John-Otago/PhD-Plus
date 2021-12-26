@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.1  
+Version 0.4.2  
 Last update: 26 Dec 2021  
 
 ## Table of Contents  
@@ -264,7 +264,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
 ### 3.2 Work in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
-- [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (L. A. Flores et al., 2020, Duke UP) || *This is written for career academics when you get your first academic job after graduate school. It can be useful for graduate students as well to get familiar with the field.*  
+- [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
   
 ### 3.3 Understanding Higher Education
 - [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
@@ -297,7 +297,7 @@ For those in the US, the Biden administration has committed to more research fun
 Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.  
   
 ### 4.2 Academic Careers 
-- **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
+- **The Academic Job Search Handbook, 5th ed.** (JM Vick et al., 2016, U of Pennsylvania Press)
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
   
@@ -310,8 +310,8 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 ### 4.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
-- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
-- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
+- **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione & KJ Baker, 2018, University Press of Kansas)
+- **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla & M Debelius, 2014, University of Chicago Press)
 - [**The Versatile PhD**](https://versatilephd.com/) (web-based service)
 - [**MyIDP**](https://myidp.sciencecareers.org/) (web service for STEM PhDs)
 - [**ImaginePhD**](https://www.imaginephd.com/) (web service for HASS PhDs)
@@ -401,7 +401,7 @@ More books to be added later.
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
-- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr et al., 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
+- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life. Also search for more recent research and publications on this topic.*
 
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
@@ -410,8 +410,8 @@ More books to be added later.
 Books to be added later.  
   
 ### 6.4 Change Your Habits  
-- **The Power of Habit: Why We Do What We Do in Life and Business** (C. Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
-- [Optional] **Atomic Habits** (J. Clear, 2018, Random House) || *This one is completely optional.*  
+- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
+- [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *This one is completely optional.*  
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
    
@@ -439,6 +439,9 @@ I truly believe that strategic thinking is an essential skill in today’s world
 You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War), which has already been applied to many respects of everyday life. You can also check out Yale’s [Brady-Johnson Program in Grand Strategy](https://grandstrategy.yale.edu/) and relevant publications, although grand strategy (what they teach) is still different from everyday strategic thinking. There are many books talking about business strategies, too.  
 
 I’ve put together some books here on various aspects of ‘strategy’ and hope to grow the collection when I come across more resources.  
+
+Keep in mind that sometimes the best strategy is a good night's sleep :)
+
 
 #### Strategy to focus on the most important things and reduce noise/distraction
 
