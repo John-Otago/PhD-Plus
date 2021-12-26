@@ -265,7 +265,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 ### 3.2 Work in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
   
-- [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
+- [Optional] **The Academic's Handbook, 4th ed.** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
   
 ### 3.3 Understanding Higher Education
 - [**Times Higher Education**](https://www.timeshighereducation.com/) || *UK-based with global coverage*
