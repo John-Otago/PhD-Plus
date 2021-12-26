@@ -363,31 +363,31 @@ Last note: networking is important for both academic and non-academic careers!
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
 ---
-**Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.**
-
-**Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work, it is still good to have some publication from your PhD.**
-
-**Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.**  
-
-**I agree with Howard S. Becker that, for native-speakers, the skills required to write well are already taught in entry-level English composition classes. As Becker remarks following C. Wright Mills in *Writing for Social Scientists* (2020, pp. 5-6):**  
-
+Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.  
+  
+Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work, it is still good to have some publication from your PhD.  
+  
+Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.  
+  
+I agree with Howard S. Becker that, for native-speakers, the skills required to write well are already taught in entry-level English composition classes. As Becker remarks following C. Wright Mills in *Writing for Social Scientists* (2020, pp. 5-6):  
+  
 >Sociologists habitually use twenty words where two will do.
-
-**Hence, for writing and revision:**  
+  
+Hence, for writing and revision:  
 >With my pencil poised over a word or clause, I asked, "Does this need to be here? If not, I'm taking it out." [...] I changed passive to active constructions, combined sentences, took long sentences apart—all the things [that] students might well have once learned to do in freshman composition. 
   
-**Result?**  
+Result?  
 >At the end of three hours, we had reduced four pages to three-quarters of a page without losing nuance or essential details.
   
-**Think about this.**  
+Think about this.  
   
-**For non-native-speakers, read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic materials.**  
+For non-native-speakers, read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic materials.  
   
-**Last tip:** 
-
-**Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.** 
-
-**Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news reports and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).**  
+Last tip:  
+  
+Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.  
+  
+Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news reports and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
