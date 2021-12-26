@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.2  
-Last update: 26 Dec 2021  
+Version 0.4.3  
+Last update: 27 Dec 2021  
 
 ## Table of Contents  
    
@@ -473,6 +473,11 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
 ### 7.3 Problem-Solving
 - [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
+  
+### 7.4 Risk-Taking
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as I recommended in section 6.1? Good. Now go and read the rest of the collection.*
+  
+Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
