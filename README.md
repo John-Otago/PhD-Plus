@@ -330,7 +330,7 @@ Again, all from the US. Students in other countries should pick up the key point
 
 Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. Some of the books above on non-academic careers have talked about how some PhD graduates have launched their consultancy or writing/editing services (especially for those in HASS), who count as owner-operators of small businesses (or sole-traders/proprietors).  
     
-The books in this section are basic intruductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
+The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
