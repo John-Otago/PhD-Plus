@@ -393,9 +393,11 @@ Last note: networking is important for both academic and non-academic careers!
   
 ## 6. Become Self-Owned
 ### 6.1 Change How You Think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
+- **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
+- [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
-More books to be added later.  
+**The first two books are must-read. The third one is completely optional.**
   
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
