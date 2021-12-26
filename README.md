@@ -343,7 +343,7 @@ Last note: networking is important for both academic and non-academic careers!
 ### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 5.3 if you prefer a highly structured guide).*
   
-- [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
+- [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
 ### 5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
