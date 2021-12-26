@@ -312,7 +312,7 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
-- [**The Versatile PhD (web-based service)**](https://versatilephd.com/)
+- [**The Versatile PhD**](https://versatilephd.com/) (web-based service)
 - [**MyIDP**](https://myidp.sciencecareers.org/) (web service for STEM PhDs)
 - [**ImaginePhD**](https://www.imaginephd.com/) (web service for HASS PhDs)
 
@@ -329,7 +329,7 @@ Again, all from the US. Students in other countries should pick up the key point
 
 Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. Some of the books above on non-academic careers have talked about how some PhD graduates have launched their consultancy or writing/editing services (especially for those in HASS), who count as owner-operators of small businesses (or sole-traders/proprietors).  
     
-The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
+The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are lots of relevant resources online. You need to learn from people with real-life business experiences, not researchers.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
