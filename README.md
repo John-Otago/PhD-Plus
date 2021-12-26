@@ -402,20 +402,20 @@ Last note: networking is important for both academic and non-academic careers!
 - **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *Read Chapters 1-2 and 6, and perhaps skim through 7-10.*
 - [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
-**The first few books are must-read. The last one is completely optional.**
+The first few books are must-read. The last one is optional.
   
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
   
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
   
-- **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *I've already recommended this book. It’s included here again because it has implications on how we work and is relevant to the two books on time/energy management below*.
+- **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *It’s included here again because it has implications on how we work and is relevant to the two books on time/energy management below*.
   
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
 
-**I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
+I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
 ### 6.3 Change How You Communicate
   
