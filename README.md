@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.3.5  
-Last update: 9 Dec 2021  
+Version 0.4.1  
+Last update: 26 Dec 2021  
 
 ## Table of Contents  
    
@@ -44,9 +44,10 @@ Last update: 9 Dec 2021
 &ensp;&ensp;[6. Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
   &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
   &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
-  &emsp;&emsp;[6.3 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-your-habits)  
-  &emsp;&emsp;[6.4 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-how-you-deal-with-emotions)  
-  &emsp;&emsp;[6.5 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-use-digital-tools)  
+  &emsp;&emsp;[6.3 Change How You Communicate]  
+  &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
+  &emsp;&emsp;[6.5 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-deal-with-emotions)  
+  &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-strategic-thinking)  
@@ -308,13 +309,25 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
-- **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)  
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 - [**The Versatile PhD (web-based service)**](https://versatilephd.com/)
 - [**MyIDP**](https://myidp.sciencecareers.org/) (for STEM PhDs)
 - [**ImaginePhD**](https://www.imaginephd.com/) (for HASS PhDs)
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
+  
+#### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
+- **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
+- [Optional] **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)
+- MIT open course (15.390) and MOOC (15.390x) on entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
+
+#### 4.5 Become an SME Owner-Operator 
+Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market.  
+  
+I’ve gone through some books on SME management but haven’t found any good ones. Some of the books above on non-academic careers have talked about how some PhD graduates have launched their consultancy or writing/editing services (esp. for those in HASS), which can be helpful.  
+  
+Anyway, practice is much more important than theory, whether you want to launch a startup or become a small business owner-operator. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
@@ -391,17 +404,21 @@ More books to be added later.
 
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
-### 6.3 Change Your Habits  
+### 6.3 Change How You Communicate
+  
+Books to be added later.  
+  
+### 6.4 Change Your Habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C. Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
 - [Optional] **Atomic Habits** (J. Clear, 2018, Random House) || *This one is completely optional.*  
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
    
-### 6.4 Change How You Deal with Emotions
+### 6.5 Change How You Deal with Emotions
   
 Books to be added later.  
   
-### 6.5 Change How You Use Digital Tools
+### 6.6 Change How You Use Digital Tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
