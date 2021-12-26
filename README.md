@@ -398,11 +398,8 @@ Last note: networking is important for both academic and non-academic careers!
 ## 6. Become Self-Owned
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
-  
 - **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
-  
 - **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *Read Chapters 1-2 and 6, and perhaps skim through 7-10.*
-  
 - [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
 **The first three books are must-read. The third one is completely optional.**
