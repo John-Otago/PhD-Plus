@@ -281,7 +281,7 @@ Read the books above when you start graduate school. The newspapers are trade pu
   
 ### 4. Career Preparation - *start from day one*
 
-#### 4.1 Overview
+### 4.1 Overview
 It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
   
 Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.  
@@ -296,7 +296,7 @@ For those in the US, the Biden administration has committed to more research fun
 
 Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.  
   
-#### 4.2 Academic Careers 
+### 4.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (Vick et al., 2016, U of Pennsylvania Press)
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
@@ -307,7 +307,7 @@ The first book offers a good overview (matter-of-factly, as if most PhD graduate
 
 All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.  
   
-#### 4.3 Non-Academic Careers
+### 4.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
@@ -318,13 +318,13 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
-#### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
+### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
 - **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
-#### 4.5 Become an SME Owner-Operator or Sole-Proprietor
+### 4.5 Become an SME Owner-Operator or Sole-Proprietor
 - [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 - [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 
@@ -340,23 +340,23 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5. Academic Writing & Publication - *start from day one*
 
-#### 5.1 Graduate School Writing Skills
+### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
-#### 5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
+### 5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
-#### 5.3 Journal Articles (for everyone including 'PhD by Publication')
+### 5.3 Journal Articles (for everyone including 'PhD by Publication')
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
-#### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
+### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
   
-#### 5.5 Blogs on Academic Writing for Graduate Students
+### 5.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
@@ -393,7 +393,6 @@ Last note: networking is important for both academic and non-academic careers!
   
   
 ## 6. Become Self-Owned
-
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Must-read. There are other books (e.g. _The Fifth Discipline_) on similar topics. I recommend this one.*  
   
@@ -487,7 +486,7 @@ Books to be added soon.
     
 ## Appendix
 
-#### Reasons to do/not to do a PhD (follow up to Section 1.2)
+### Reasons to do/not to do a PhD (follow up to Section 1.2)
 In Section 1.2, I asked you to think about why you want a PhD. Here are a few common reasons (by no means exhaustive) and ‘counter-points’, so to speak, to help you consider your options and make your decision.
 
 (a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has already collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.
