@@ -474,11 +474,11 @@ Keep in mind that sometimes the best strategy is a good night's sleep :)
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
 ### 7.3 Effective Execution  
-- **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals**, 2nd ed. (C McChesney et al., 2021, Simon & Schuster) || *Individuals and organisations can equally benefit from the methods described in this book.*
+- **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster) || *Individuals and organisations can equally benefit from the methods described in this book.*
   
 ### 7.4 Problem-Solving
 - [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
-- 
+- [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
