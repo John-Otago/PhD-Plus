@@ -313,15 +313,14 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione et al., 2018, University Press of Kansas)
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla et al., 2014, University of Chicago Press)
 - [**The Versatile PhD (web-based service)**](https://versatilephd.com/)
-- [**MyIDP**](https://myidp.sciencecareers.org/) (for STEM PhDs)
-- [**ImaginePhD**](https://www.imaginephd.com/) (for HASS PhDs)
+- [**MyIDP**](https://myidp.sciencecareers.org/) (web service for STEM PhDs)
+- [**ImaginePhD**](https://www.imaginephd.com/) (web service for HASS PhDs)
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 ### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
-- **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
-- [Optional] **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)
+- [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
