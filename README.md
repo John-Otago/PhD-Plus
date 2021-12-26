@@ -427,7 +427,7 @@ You should read these books. The goal is to help you get the most out of your gr
 - [Optional] **Crucial Conversations: Tools for Talking When Stakes are High**, 3rd ed. (J Grenny et al., 2021, McGraw Hill)
   
 ### 6.4 Change Your Habits  
-- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*
+- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
   
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *This one is completely optional.*  
 
