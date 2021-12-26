@@ -37,7 +37,7 @@ Last update: 26 Dec 2021
   &emsp;&emsp;[4.5 Become an SME Owner-Operator](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-become-an-sme-owner-operator)  
   
 &ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
-  &emsp;&emsp;[5.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-writing-skills)  
+  &emsp;&emsp;[5.1 Graduate School Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-graduate-school-writing-skills)  
   &emsp;&emsp;[5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation-80000---100000-words)  
   &emsp;&emsp;[5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-journal-articles-for-everyone-including-phd-by-publication)  
   &emsp;&emsp;[5.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
@@ -324,12 +324,13 @@ Again, all from the US. Students in other countries should pick up the key point
 - [Optional] **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)
 - MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
-#### 4.5 Become an SME Owner-Operator 
-Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market.  
-  
-I’ve gone through some books on SME management but haven’t found any good ones. Some of the books above on non-academic careers have talked about how some PhD graduates have launched their consultancy or writing/editing services (esp. for those in HASS), which can be helpful.  
-  
-Anyway, practice is much more important than theory, whether you want to launch a startup or become a small business owner-operator. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
+#### 4.5 Become an SME Owner-Operator or Sole-Proprietor
+- [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
+- [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
+
+Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. Some of the books above on non-academic careers have talked about how some PhD graduates have launched their consultancy or writing/editing services (especially for those in HASS), who count as owner-operators of small businesses (or sole-traders/proprietors).  
+    
+The books in this section are basic intruductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are also many websites/blogs, TV shows, and other resources on this topic that may be useful.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
