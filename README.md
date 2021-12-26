@@ -441,34 +441,23 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ## 7. Become Self-Owned (continued)
 
-### 7.1 Strategic Thinking  
-I’m still trying but it’s very difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business administration. Few people talk about how it functions in everyday life.  
+### 7.1 Strategy & Execution  
+- **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
+- **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
+- **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
+- [Optional] **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster)
+
+I would say that these books are all 'more or less useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
+
+It's particularly difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business administration. Few people talk about how it functions in everyday life.  
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
 I truly believe that strategic thinking is an essential skill in today’s world to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be.  
 
-You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War), which has already been applied to many respects of everyday life. You can also check out Yale’s [Brady-Johnson Program in Grand Strategy](https://grandstrategy.yale.edu/) and relevant publications, although grand strategy (what they teach) is still different from everyday strategic thinking. There are many books talking about business strategies, too.  
+You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War), which has already been applied to many respects of everyday life. You can also check out Yale’s [Brady-Johnson Program in Grand Strategy](https://grandstrategy.yale.edu/) and relevant publications, although grand strategy is still different from everyday strategic thinking. There are many books talking about business strategies, too.  
 
-I’ve put together some books here on various aspects of ‘strategy’ and hope to grow the collection when I come across more resources.  
-
-Keep in mind that sometimes the best strategy is a good night's sleep :)
-
-
-#### Strategy to focus on the most important things and reduce noise/distraction
-
-
-#### Strategy to make use of (limited) resources
-
-
-#### Strategy to get from A to B in the most effective and efficient way
-
-
-#### Strategy to deal with risks and uncertainties
-  
-  
-#### Strategy to deal with change
-  
+Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
 ### 7.2 Decision-Making  
 - **Decisive: How to Make Better Decisions** (C Heath & D Heath, 2013, Currency) || *Part I (Chapters 2-4) are particularly good.*
@@ -476,10 +465,7 @@ Keep in mind that sometimes the best strategy is a good night's sleep :)
 - [Optional] **Algorithms To Live By: The Computer Science of Human Decisions** (B Christian & T Griffiths, 2017, Picador)
 - [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
-### 7.3 Effective Execution  
-- **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster) || *Individuals and organisations can equally benefit from the methods described in this book.*
-  
-### 7.4 Problem-Solving
+### 7.3 Problem-Solving
 - [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
   
