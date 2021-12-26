@@ -321,7 +321,7 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 ### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
-- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency, of Crown Publishing, of Random House)
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
@@ -471,7 +471,10 @@ Keep in mind that sometimes the best strategy is a good night's sleep :)
   
   
 ### 7.2 Decision-Making  
-- **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
+- **Decisive: How to Make Better Decisions** (C Heath & D Heath, 2013, Currency) || *Part I (Chapters 2-4) are particularly good.*
+- [Optional] **Smart Choices: A Practical Guide to Making Better Decisions** (JS Hammond et al., [1999] 2015, Harvard Business Review Press)
+- [Optional] **Algorithms To Live By: The Computer Science of Human Decisions** (B Christian & T Griffiths, 2017, Picador)
+- [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
 ### 7.3 Effective Execution  
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster) || *Individuals and organisations can equally benefit from the methods described in this book.*
