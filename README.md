@@ -32,8 +32,10 @@ Last update: 26 Dec 2021
 &ensp;&ensp;[4. Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-career-preparation---start-from-day-one)  
   &emsp;&emsp;[4.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-overview)  
   &emsp;&emsp;[4.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-academic-careers)  
-  &emsp;&emsp;[4.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-non-academic-careers) 
-      
+  &emsp;&emsp;[4.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-non-academic-careers)  
+  &emsp;&emsp;[4.4 University Start-ups & Innovation-Driven Entrepreneurship](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#44-university-start-ups--innovation-driven-entrepreneurship)  
+  &emsp;&emsp;[4.5 Become an SME Owner-Operator](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-become-an-sme-owner-operator)  
+  
 &ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
   &emsp;&emsp;[5.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-writing-skills)  
   &emsp;&emsp;[5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation-80000---100000-words)  
@@ -44,7 +46,7 @@ Last update: 26 Dec 2021
 &ensp;&ensp;[6. Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
   &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
   &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
-  &emsp;&emsp;[6.3 Change How You Communicate]  
+  &emsp;&emsp;[6.3 Change How You Communicate](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-how-you-communicate)  
   &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
   &emsp;&emsp;[6.5 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-deal-with-emotions)  
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
@@ -320,7 +322,7 @@ Again, all from the US. Students in other countries should pick up the key point
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
 - **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** (M Stagars, 2015, Apress)
-- MIT open course (15.390) and MOOC (15.390x) on entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
+- MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
 #### 4.5 Become an SME Owner-Operator 
 Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market.  
@@ -337,7 +339,7 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5. Academic Writing & Publication - *start from day one*
 
-#### 5.1 Writing Skills
+#### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
