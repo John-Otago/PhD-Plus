@@ -52,10 +52,9 @@ Last update: 26 Dec 2021
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
-  &emsp;&emsp;[7.1 Strategic Thinking](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-strategic-thinking)  
+  &emsp;&emsp;[7.1 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-strategy--execution)  
   &emsp;&emsp;[7.2 Decision-Making](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making)  
-  &emsp;&emsp;[7.3 Effective Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-effective-execution)  
-  &emsp;&emsp;[7.4 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-problem-solving)  
+  &emsp;&emsp;[7.3 Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-problem-solving)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   
