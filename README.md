@@ -398,8 +398,13 @@ Last note: networking is important for both academic and non-academic careers!
 ## 6. Become Self-Owned
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
+  
 - **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
+  
 - **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *Read Chapters 1-2 and 6, and perhaps skim through 7-10.*
+  
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *This is a collection of five books. Read them all, or at least **Antifragile: Things That Gain from Disorder** (2012/2014). You don’t need to agree with the author on everything, but take in the key points.*
+  
 - [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
 The first few books are must-read. The last one is optional.
@@ -413,7 +418,7 @@ The first few books are must-read. The last one is optional.
   
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
   
-- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-a-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
 
 You should read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
