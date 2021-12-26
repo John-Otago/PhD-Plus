@@ -300,9 +300,7 @@ Overall, I ask all my PhD students to consider and prepare for a dual career tra
   
 ### 4.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (JM Vick et al., 2016, U of Pennsylvania Press)
-  
 - **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)
-  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
   
 Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.  
@@ -313,31 +311,22 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
   
 ### 4.3 Non-Academic Careers
 - **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)
-  
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)
-  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione & KJ Baker, 2018, University Press of Kansas)
-  
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla & M Debelius, 2014, University of Chicago Press)
-  
 - [**The Versatile PhD**](https://versatilephd.com/) (web-based service)
-  
 - [**MyIDP**](https://myidp.sciencecareers.org/) (web service for STEM PhDs)
-  
 - [**ImaginePhD**](https://www.imaginephd.com/) (web service for HASS PhDs)
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 ### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
-- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
-  
+- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency, of Crown Publishing, of Random House)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
-  
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
 - [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
-  
 - [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 
 Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. A few books above on non-academic careers have mentioned how some PhD graduates (esp. those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
@@ -367,14 +356,11 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
-  
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
-  
 - [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
   
 ### 5.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
-  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
 ---
