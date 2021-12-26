@@ -260,10 +260,12 @@ In reality, most people need to balance the two: work hard to produce, but alway
 
 ### 3.1 Get Ready for Graduate School
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
+  
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in other countries.*
   
 ### 3.2 Work in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
+  
 - [Optional] **The Academic's Handbook, 4th ed.: Revised and Expanded** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
   
 ### 3.3 Understanding Higher Education
@@ -298,7 +300,9 @@ Overall, I ask all my PhD students to consider and prepare for a dual career tra
   
 ### 4.2 Academic Careers 
 - **The Academic Job Search Handbook, 5th ed.** (JM Vick et al., 2016, U of Pennsylvania Press)
-- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)  
+  
+- **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** (K Kelsky, 2015, Crown)
+  
 - **Surviving Your Academic Job Hunt: Advice for Humanities PhDs, 2nd ed.** (K Hume, 2011, Palgrave)  
   
 Keep in mind that these books were written in the US, and you need to tailor the content to your own environment.  
@@ -308,23 +312,32 @@ The first book offers a good overview (matter-of-factly, as if most PhD graduate
 All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.  
   
 ### 4.3 Non-Academic Careers
-- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)  
-- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)  
+- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)
+  
+- **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)
+  
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione & KJ Baker, 2018, University Press of Kansas)
+  
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla & M Debelius, 2014, University of Chicago Press)
+  
 - [**The Versatile PhD**](https://versatilephd.com/) (web-based service)
+  
 - [**MyIDP**](https://myidp.sciencecareers.org/) (web service for STEM PhDs)
+  
 - [**ImaginePhD**](https://www.imaginephd.com/) (web service for HASS PhDs)
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 ### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency/Crown Publishing/Random House)
+  
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
+  
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
 - [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
+  
 - [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 
 Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. A few books above on non-academic careers have mentioned how some PhD graduates (esp. those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
@@ -341,10 +354,12 @@ Last note: networking is important for both academic and non-academic careers!
 
 ### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 3.5.3 if you prefer a highly structured guide).*
+  
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021/pre-order, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
   
 ### 5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
+  
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
 ### 5.3 Journal Articles (for everyone including 'PhD by Publication')
@@ -352,11 +367,14 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
+  
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
+  
 - [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
   
 ### 5.5 Blogs on Academic Writing for Graduate Students
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
+  
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
   
 ---
@@ -394,16 +412,25 @@ Last note: networking is important for both academic and non-academic careers!
 ## 6. Become Self-Owned
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
+  
 - **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
+  
+- **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *Read Chapters 1-2 and 6, and perhaps skim through 7-10.*
+  
 - [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
-**The first two books are must-read. The third one is completely optional.**
+**The first three books are must-read. The third one is completely optional.**
   
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
-- **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
+  
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
-- [Optional] **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
+  
+- **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *I've already recommended this book. It’s included here again because it has implications on how we work and is relevant to the two books on time/energy management below*.
+  
+- **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
+  
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is all about energy management (vis-a-vis time management); you may find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
 
 **I require all my PhD students to read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).**
   
@@ -412,14 +439,14 @@ Last note: networking is important for both academic and non-academic careers!
 Books to be added later.  
   
 ### 6.4 Change Your Habits  
-- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*  
+- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5). I don't think the rest is any good or indeed relevant.*
+  
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *This one is completely optional.*  
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
    
 ### 6.5 Change How You Deal with Emotions
-  
-Books to be added later.  
+- [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
 ### 6.6 Change How You Use Digital Tools
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
@@ -464,10 +491,11 @@ Keep in mind that sometimes the best strategy is a good night's sleep :)
 - **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
   
 ### 7.3 Effective Execution  
+- **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals**, 2nd ed. (C McChesney et al., 2021, Simon & Schuster) || *Individuals and organisations can equally benefit from the methods described in this book.*
   
 ### 7.4 Problem-Solving
-
-Books to be added soon.
+- [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
+- 
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
