@@ -106,6 +106,7 @@ I welcome feedback and input from students, advisors, and everyone else. This is
   ---
     
 ## 1. Philosophy of PhD Training
+  
 ### 1.1 What is a PhD?
 So, *qu'est-ce que le PhD* (what is the PhD)?
 
@@ -170,7 +171,7 @@ Graduate training is not the only way to achieve this goal, and this process ent
   ---
     
 ## 2. Before You Start
-
+  
 ### 2.1 The Vision
 The purpose of graduate research and the 'big picture':
 
@@ -256,7 +257,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
   ---  
   
 ## 3. Start Graduate School
-
+  
 ### 3.1 Get Ready for Graduate School
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
   
@@ -281,7 +282,7 @@ Read the books above when you start graduate school. The newspapers are trade pu
   ---
   
 ### 4. Career Preparation - *start from day one*
-
+  
 ### 4.1 Overview
 It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
   
@@ -339,7 +340,7 @@ Last note: networking is important for both academic and non-academic careers!
   ---
   
 ### 5. Academic Writing & Publication - *start from day one*
-
+  
 ### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 5.3 if you prefer a highly structured guide).*
   
@@ -395,6 +396,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
   
   
 ## 6. Become Self-Owned
+  
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
   
@@ -445,12 +447,17 @@ These books can help you cultivate good habits and break bad ones, especially wh
     
   
 ## 7. Become Self-Owned (continued)
+  
+### 7.1 Principles, Strategy, and Execution  
+  
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *A set of five books.*
 
-### 7.1 Strategy & Execution  
+You’ve read **Antifragile** as I recommended in section 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has made in these books.
+
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- [Optional] **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster)
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster)
 
 I would say that these books are all 'more or less useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
 
@@ -464,20 +471,19 @@ You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_
 
 Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
-### 7.2 Decision-Making  
+### 7.2 Decision-Making & Problem-Solving
+#### Decision-Making
 - **Decisive: How to Make Better Decisions** (C Heath & D Heath, 2013, Currency) || *Part I (Chapters 2-4) are particularly good.*
+- [Optional] **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio)
 - [Optional] **Smart Choices: A Practical Guide to Making Better Decisions** (JS Hammond et al., [1999] 2015, Harvard Business Review Press)
+- [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)
 - [Optional] **Algorithms To Live By: The Computer Science of Human Decisions** (B Christian & T Griffiths, 2017, Picador)
-- [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)  
-  
-### 7.3 Problem-Solving
+
+#### Problem-Solving
 - [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
-  
-### 7.4 Risk-Taking
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as I recommended in section 6.1? Good. Now go and read the rest of the collection.*
-  
-Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
+
+Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -485,7 +491,7 @@ Goal-setting, decision-making, problem-solving, and risk-taking are all importan
   
   
 ## Closing Remarks
-
+  
 #### Walk the Talk
 
 #### *Via Negativa*
