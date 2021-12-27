@@ -54,7 +54,7 @@ Last update: 27 Dec 2021
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles, Strategy, and Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles-strategy-and-execution)  
   &emsp;&emsp;[7.2 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
-  &emsp;&emsp;[7.3 to be added](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
+  &emsp;&emsp;[7.3 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   
@@ -484,6 +484,9 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
 
 Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
+  
+### 7.3 Blind Spots: The Overlooked & Undervalued   
+Books to be added later.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
