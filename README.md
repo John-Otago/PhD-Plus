@@ -458,7 +458,9 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book only partially useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
   
 - **The 7 Habits of Highly Effective People, 30th anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || I assume most people have read this old classic--please do read it if you haven't.
-
+  
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Random House) || Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.
+  
 ### 7.2 Strategy & Execution
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
