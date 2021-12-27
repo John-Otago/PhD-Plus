@@ -398,7 +398,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
 ## 6. Become Self-Owned
   
 ### 6.1 Change How You Think
-- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing)
+- **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Start from this one before you proceed to other books on systems thinking (e.g. **The Fifth Discipline**).*
   
 - **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
   
@@ -450,7 +450,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ### 7.1 Principles, Strategy, and Execution  
   
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *A set of five books.*
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *A set of five books, as introduced above.*
 
 You’ve read **Antifragile** as I recommended in section 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has made in these books.
 
