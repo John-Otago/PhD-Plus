@@ -54,7 +54,7 @@ Last update: 27 Dec 2021
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles, Strategy, and Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles-strategy-and-execution)  
   &emsp;&emsp;[7.2 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
-  &emsp;&emsp;[7.3 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
+  &emsp;&emsp;[7.3 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-blind-spots-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   
