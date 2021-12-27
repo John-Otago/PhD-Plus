@@ -453,7 +453,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *This title is followed by two other books by the author.*
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find only parts of the book useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
   
 - **The 7 Habits of Highly Effective People, 30th anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || I assume most people have read this old classic--please do read it if you haven't.
 
