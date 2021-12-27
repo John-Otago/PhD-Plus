@@ -448,16 +448,18 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ## 7. Become Self-Owned (continued)
   
-### 7.1 Principles, Strategy, and Execution  
+### 7.1 Principles  
   
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *A set of five books, as introduced above.*
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as required in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
+  
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *This title is followed by two other books by the author.*
+  
+- **The 7 Habits of Highly Effective People, 30th anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || I assume most people have read this book--please do read it if you haven't.
 
-You’ve read **Antifragile** as I recommended in section 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has made in these books.
-
+### 7.2 Strategy & Execution
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster)
 
 I would say that these books are all 'more or less useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
 
@@ -471,7 +473,7 @@ You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_
 
 Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
-### 7.2 Decision-Making & Problem-Solving
+### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
 - **Decisive: How to Make Better Decisions** (C Heath & D Heath, 2013, Currency) || *Part I (Chapters 2-4) are particularly good.*
 - [Optional] **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio)
@@ -485,7 +487,7 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
 
 Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
   
-### 7.3 Blind Spots: The Overlooked & Undervalued   
+### 7.4 Blind Spots: The Overlooked & Undervalued   
 Books to be added later.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
