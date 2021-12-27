@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.3  
-Last update: 27 Dec 2021  
+Version 0.4.5  
+Last update: 28 Dec 2021  
 
 ## Table of Contents  
    
@@ -427,7 +427,7 @@ You should read these books. The goal is to help you get the most out of your gr
 ### 6.3 Change How You Communicate
 - **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
   
-- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly the book is not well-written, but the method described therein can be helpful.*
+- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly I don't think the book is well-written, but the method described therein can be quite helpful.*
   
 These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
