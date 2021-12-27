@@ -162,7 +162,7 @@ I know I might have been glorifying Graduate School—it’s definitely not all 
 ### 1.4 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
-Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, tinkering, and risk-taking. It is hard work, and the graduate school offers a good opportunity for training.  
+Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, tinkering, and risk-taking. It is hard work, and the graduate school offers a good training opportunity.  
 
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
@@ -427,14 +427,16 @@ You should read these books. The goal is to help you get the most out of your gr
 ### 6.3 Change How You Communicate
 - **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
   
-- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *First published in the early 2000s, this book is now a classic that can be helpful.*
+- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly the book is not well-written, but the method described therein can be helpful.*
+  
+These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
 ### 6.4 Change Your Habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
   
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *This one is completely optional.*  
 
-These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' of any bad habit or to build a 'virtuous' one. It is a useful skill for both your PhD and your future life and career.
+These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
    
 ### 6.5 Change How You Deal with Emotions
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
@@ -453,7 +455,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find only parts of the book useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book only partially useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
   
 - **The 7 Habits of Highly Effective People, 30th anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || I assume most people have read this old classic--please do read it if you haven't.
 
