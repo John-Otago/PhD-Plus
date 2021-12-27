@@ -52,9 +52,10 @@ Last update: 27 Dec 2021
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
-  &emsp;&emsp;[7.1 Principles, Strategy, and Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles-strategy-and-execution)  
-  &emsp;&emsp;[7.2 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-decision-making--problem-solving)  
-  &emsp;&emsp;[7.3 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-blind-spots-the-overlooked--undervalued)  
+  &emsp;&emsp;[7.1 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles)  
+  &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
+  &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
+  &emsp;&emsp;[7.4 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-blind-spots-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   
