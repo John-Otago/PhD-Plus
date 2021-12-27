@@ -476,7 +476,7 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
-- **Decisive: How to Make Better Decisions** (C Heath & D Heath, 2013, Currency) || *Part I (Chapters 2-4) are particularly good.*
+- **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) are particularly good. If you only read one book about decision-making, this should be the one.*
 - [Optional] **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio)
 - [Optional] **Smart Choices: A Practical Guide to Making Better Decisions** (JS Hammond et al., [1999] 2015, Harvard Business Review Press)
 - [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)
@@ -521,9 +521,9 @@ In Section 1.2, I asked you to think about why you want a PhD. Here are a few co
 
 (c) Some people may pursue a research-related career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?
 
-(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one from another country (regardless of global ranking), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
+(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one (regardless of the global academic hierarchy), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
 
-Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about cost-and-benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should think very carefully.
+Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about cost-and-benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should take it very seriously. Read the books above in Sections 6-7 to help you make the right decision.
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
