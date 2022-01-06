@@ -37,7 +37,7 @@ Last update: 06 Jan 2022
   &emsp;&emsp;[4.5 Become an SME Owner-Operator or Sole-Proprietor](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-become-an-sme-owner-operator-or-sole-proprietor)  
   
 &ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
-  &emsp;&emsp;[5.1 Graduate School Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-graduate-school-writing-skills)  
+  &emsp;&emsp;[5.1 Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-writing-skills)  
   &emsp;&emsp;[5.2 The PhD Thesis/Dissertation](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation)  
   &emsp;&emsp;[5.3 Journal Articles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-journal-articles)  
   &emsp;&emsp;[5.4 Publish your PhD as a Book](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
@@ -52,7 +52,7 @@ Last update: 06 Jan 2022
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
-  &emsp;&emsp;[7.1 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles)  
+  &emsp;&emsp;[7.1 Fundamental Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-fundamental-principles)  
   &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
   &emsp;&emsp;[7.4 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-blind-spots-the-overlooked--undervalued)  
@@ -342,7 +342,7 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5. Academic Writing & Publication - *start from day one*
   
-### 5.1 Graduate School Writing Skills
+### 5.1 Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 5.3 if you prefer a highly structured guide).*
   
 - [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021, University of Chicago Press) || *An interesting little book, completely optional.*
@@ -453,7 +453,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ## 7. Become Self-Owned (continued)
   
-### 7.1 Principles  
+### 7.1 Fundamental Principles  
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
