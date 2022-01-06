@@ -330,7 +330,7 @@ Again, all from the US. Students in other countries should pick up the key point
 - [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 - [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
 
-Starting and running a small business or SME (small-or-medium-sized enterprise) is differing from launching an innovation-driven startup to carve out a non-existing market. A few books above on non-academic careers have mentioned how some PhD graduates (esp. those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
+Starting and running a small business or SME (small-or-medium-sized enterprise) is different from launching an innovation-driven startup to carve out a non-existing market. A few books above on non-academic careers have mentioned how some PhD graduates (esp. those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
   
 The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are lots of relevant resources online. You need to learn from people with real-life business experiences, not researchers.  
   
