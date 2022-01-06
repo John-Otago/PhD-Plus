@@ -24,9 +24,9 @@ Last update: 06 Jan 2022
   &emsp;&emsp;[2.3 Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#23-principles)  
   &emsp;&emsp;[2.4 Methods](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#24-methods)  
   
-&ensp;&ensp;[3. Start Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-start-graduate-school)  
-  &emsp;&emsp;[3.1 Get Ready for Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-get-ready-for-graduate-school)  
-  &emsp;&emsp;[3.2 Work in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-work-in-graduate-school-and-Academia)  
+&ensp;&ensp;[3. Starting Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#3-starting-graduate-school)  
+  &emsp;&emsp;[3.1 Getting Ready for Graduate School](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#31-getting-ready-for-graduate-school)  
+  &emsp;&emsp;[3.2 Working in Graduate School (and Academia)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#32-working-in-graduate-school-and-Academia)  
   &emsp;&emsp;[3.3 Understanding Higher Education](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#33-understanding-higher-education)  
 
 &ensp;&ensp;[4. Career Preparation - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#4-career-preparation---start-from-day-one)  
@@ -38,10 +38,10 @@ Last update: 06 Jan 2022
   
 &ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
   &emsp;&emsp;[5.1 Graduate School Writing Skills](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#51-graduate-school-writing-skills)  
-  &emsp;&emsp;[5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation-80000---100000-words)  
-  &emsp;&emsp;[5.3 Journal Articles (for everyone including 'PhD by Publication')](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-journal-articles-for-everyone-including-phd-by-publication)  
-  &emsp;&emsp;[5.4 Publish your PhD as a Book (humanities & humanistic social sciences)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
-  &emsp;&emsp;[5.5 Blogs on Academic Writing for Graduate Students](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing-for-graduate-students)  
+  &emsp;&emsp;[5.2 The PhD Thesis/Dissertation](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#52-the-phd-thesisdissertation)  
+  &emsp;&emsp;[5.3 Journal Articles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#53-journal-articles)  
+  &emsp;&emsp;[5.4 Publish your PhD as a Book](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#54-publish-your-phd-as-a-book-humanities--humanistic-social-sciences)   
+  &emsp;&emsp;[5.5 Blogs on Academic Writing](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing)  
   
 &ensp;&ensp;[6. Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
   &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
@@ -257,14 +257,14 @@ In reality, most people need to balance the two: work hard to produce, but alway
   
   ---  
   
-## 3. Start Graduate School
+## 3. Starting Graduate School
   
-### 3.1 Get Ready for Graduate School
+### 3.1 Getting Ready for Graduate School
 - **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
   
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in other countries.*
   
-### 3.2 Work in Graduate School (and Academia)
+### 3.2 Working in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
   
 - [Optional] **The Academic's Handbook, 4th ed.** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
@@ -345,14 +345,14 @@ Last note: networking is important for both academic and non-academic careers!
 ### 5.1 Graduate School Writing Skills
 - [Optional] **Writing for Social Scientists: How to Start and Finish Your Thesis, Book, or Article, 3rd ed.** (HS Becker, 2020, University of Chicago Press) || *It’s a nice read on ‘how to think about writing’, not a step-by-step guideline for students (see 5.3 if you prefer a highly structured guide).*
   
-- [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021, University of Chicago Press) || *I’m waiting for the release of Germano’s latest book.*
+- [Optional] **On Revision: The Only Writing that Counts** (W Germano, 2021, University of Chicago Press) || *An interesting little book, completely optional.*
   
-### 5.2 The PhD Thesis/Dissertation (80,000 - 100,000 words)
+### 5.2 The PhD Thesis/Dissertation
 - [Optional] **How to Write a Better Thesis, 3rd ed.** (D Evans et al., 2014, Springer). || *A nice little book with short chapters (easy to read). The thesis structure discussed in this book is suitable for social and behavioural sciences, but not common in the humanities and interpretive social sciences. The book also needs an update.*
   
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
-### 5.3 Journal Articles (for everyone including 'PhD by Publication')
+### 5.3 Journal Articles
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
@@ -360,9 +360,9 @@ Last note: networking is important for both academic and non-academic careers!
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
   
-### 5.5 Blogs on Academic Writing for Graduate Students
+### 5.5 Blogs on Academic Writing
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
-- [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/) 
+- [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/)
   
 ---
 Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.  
