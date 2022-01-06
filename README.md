@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.5  
-Last update: 28 Dec 2021  
+Version 0.4.6  
+Last update: 06 Jan 2022  
 
 ## Table of Contents  
    
@@ -457,18 +457,21 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book only partially useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
   
-- **The 7 Habits of Highly Effective People, 30th anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || Presumably most people have read this old classic--please do read it if you haven't.
+- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
   
-- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Random House) || Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
+  
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Random House) || *Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.*
   
 ### 7.2 Strategy & Execution
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
+- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I and Part II (the first seven chapters).*
 
 I would say that these books are all 'more or less useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
 
-It's particularly difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business administration. Few people talk about how it functions in everyday life.  
+It's particularly difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business management. Few people talk about how it functions in everyday life.  
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
@@ -480,8 +483,8 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
-- **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) are particularly good. If you only read one book about decision-making, this should be the one.*
-- [Optional] **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio)
+- **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) is particularly good. If you only read one book about decision-making, this should be the one.*
+- **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio) || *A nice summary of relevant tools that complements the first book.*
 - [Optional] **Smart Choices: A Practical Guide to Making Better Decisions** (JS Hammond et al., [1999] 2015, Harvard Business Review Press)
 - [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)
 - [Optional] **Algorithms To Live By: The Computer Science of Human Decisions** (B Christian & T Griffiths, 2017, Picador)
