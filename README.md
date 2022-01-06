@@ -365,17 +365,17 @@ Last note: networking is important for both academic and non-academic careers!
 - [Optional] [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/)
   
 ---
-Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guideline.  
+Everything here is optional. The best way to learn about writing and publication is to *read other people's work and see how they have done it, and start writing and getting your work published FROM DAY ONE if not earlier*. The books listed here can be helpful if you need some guidelines.  
   
-Keep a razor-sharp focus on research and publication during your PhD, which is essential for an academic career. Even you choose other areas and won't end up doing academic work, it is still good to have some publication from your PhD.  
+Keep a razor-sharp focus on research and publication if you want an academic career. Even if you won't end up doing academic work, it is still good to have publications during your PhD.  
   
-Also, this section hasn't covered English writing styles and grammar. Non-native-speakers may want to consult relevant books (e.g. *The Elements of Style*) and attend workshops on English writing skills.  
+Also, this section hasn't covered English writing styles and grammar. You may consult relevant books (e.g. *The Elements of Style*) and attend workshops on writing skills.  
   
-I agree with Howard S. Becker that, for native-speakers, the skills required to write well are already taught in entry-level English composition classes. As Becker remarks following C. Wright Mills in *Writing for Social Scientists* (2020, pp. 5-6):  
+I agree with Howard Becker that, for native-speakers, the skills required to write well are already taught in entry-level composition classes. Becker has shared the following example in *Writing for Social Scientists* (2020, pp. 5-6):  
   
 >Sociologists habitually use twenty words where two will do.
   
-Hence, for writing and revision:  
+To reduce wordiness:  
 >With my pencil poised over a word or clause, I asked, "Does this need to be here? If not, I'm taking it out." [...] I changed passive to active constructions, combined sentences, took long sentences apart—all the things [that] students might well have once learned to do in freshman composition. 
   
 Result?  
@@ -383,7 +383,7 @@ Result?
   
 Think about this.  
   
-For non-native-speakers, read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic materials.  
+Another rule of thumb: read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic literature.  
   
 Last tip:  
   
