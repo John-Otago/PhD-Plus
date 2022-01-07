@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.6  
-Last update: 06 Jan 2022  
+Version 0.4.7  
+Last update: 07 Jan 2022  
 
 ## Table of Contents  
    
@@ -507,11 +507,20 @@ Books to be added later.
   
 ## Closing Remarks
   
-#### Walk the Talk
+### Walk the Talk
+Congratulations that you have come this far and read through the whole project. I hope you have thought about the issues I raised here, read the books I suggested in Sections 3-7, and made connections between everything you have read, learnt, and thought about.  
+  
+Now what?  
 
-#### *Via Negativa*
+Well, you have to put everything into practice. An untested theory is merely a theory, and untested knowledge may not work in practice. There’s always a gap (or a creative tension) between theory and practice, and you have to connect them.  
+  
+You have to ‘walk the talk’, so to speak, to test what you have learnt: what works, what doesn’t, what needs to be tweaked, how you can improve them, and how you can make them work *for you*.  
+  
+In other words, you need to turn your theoretical knowledge into productive practice for continued learning and tinkering for self-growth. That’s the philosophy behind this whole project and the whole process of graduate training.  
+  
+### *Via Negativa*
 
-#### The End is the Beginning
+### The End is the Beginning
   
   
   
