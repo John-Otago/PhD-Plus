@@ -162,7 +162,7 @@ I know I might have been glorifying Graduate School—it’s definitely not all 
 ### 1.4 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
-Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, planning, doing, tinkering, and risk-taking. It is hard work, and the graduate school offers a good training opportunity.  
+Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, doing, tinkering, and risk-taking. It is hard work, and graduate school offers a good training opportunity.  
 
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
   
@@ -538,8 +538,17 @@ The most useful can be the most concise. The most essential can be the simplest 
 Keep that in mind.  
   
 ### The End is the Beginning
+The end of theory is the start of practice. The end of reading and learning is the start of doing. The end of building up is the start of building down and cutting off.  
   
+The end of this project is the start of how you understand, approach, prepare for, and make the most of your graduate training, and the end of graduate school is the start of your real-life adventures.  
   
+Let’s once again go back to the beginning and take another look at the philosophy behind PhD training:  
+  
+>The philosophy is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).
+  
+I hope this project is a good start towards that goal.  
+  
+Keep pushing.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
