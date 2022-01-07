@@ -60,7 +60,7 @@ Last update: 07 Jan 2022
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
   &emsp;&emsp;[*Via Negativa*](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#via-negativa)  
-  &emsp;&emsp;[The End is the Beginning](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-is-the-beginning)  
+  &emsp;&emsp;[The End is the Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-is-the-start)  
   
 &ensp;&ensp;[Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)  
 &ensp;&ensp;[Appendix B](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-b)  
@@ -545,7 +545,7 @@ The most useful can be the most concise. The most essential can be the simplest 
   
 Keep that in mind.  
   
-### The End is the Beginning
+### The End is the Start
 The end of theory is the start of practice (and vice versa). The end of reading and learning is the start of doing. The end of building up is the start of building down and cutting off.  
   
 The end of this project is the start of how you understand, approach, prepare for, and make the most of your graduate training, and the end of graduate school is the start of your real-life adventures.  
