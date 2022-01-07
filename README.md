@@ -506,7 +506,13 @@ Anyway, at the end of the day, keep in mind that sometimes the best strategy is 
 Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
   
 ### 7.4 The Overlooked & Undervalued   
-Books to be added later.  
+- Books to be added later.  
+  
+There are things that they won’t teach and you won’t learn in graduate school, and there are unorthodox approaches that conventional academics may frown upon.  
+  
+This kind of omission will create blind spots that you miss, especially those things that are important in real life but rarely discussed in the ivory tower.  
+  
+I will add a few books and relevant resources to this section.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
