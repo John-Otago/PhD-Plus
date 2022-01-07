@@ -535,13 +535,15 @@ To concentrate on the most important things, you have to ignore the less importa
   
 Sometimes the more you try to do, the less you actually accomplish. You should remove more instead of doing more. Lots of things are practically worthless.  
   
-You have to reduce and eliminate noises, distractions, falsehoods, past beliefs, and the nonessentials, so the most crucial and the most critical can emerge.  
+You have to reduce and eliminate noises, distractions, falsehoods, and the nonessentials, so the most crucial and the most critical can emerge.  
   
-Once you have *built up* your reservoir of knowledge, you’ll need to *build down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
+In terms of **learning**, once you have *built up* your reservoir of knowledge, you’ll need to *build down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
   
-*Less is more*. By doing less and only the most essential, you can keep a sharp focus, align your efforts with what matters most, and direct and concentrate your physical and mental energy and resources onto your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and most productive way to achieve what you aim to achieve.  
+In terms of **doing**, less is more. By doing less and only the most essential, you can keep a sharp focus, align your efforts with what matters most, and direct and concentrate your attention and energy onto your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and most productive way to achieve what you aim to achieve.  
   
 The most useful can be the most concise. The most essential can be the simplest of all.  
+  
+Be a hedgehog who knows and does one thing right; don’t be a fox who knows many things that don’t really work.  
   
 Keep that in mind.  
   
