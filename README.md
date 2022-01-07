@@ -546,7 +546,7 @@ The most useful can be the most concise. The most essential can be the simplest 
 Keep that in mind.  
   
 ### The End is the Beginning
-The end of theory is the start of practice. The end of reading and learning is the start of doing. The end of building up is the start of building down and cutting off.  
+The end of theory is the start of practice (and vice versa). The end of reading and learning is the start of doing. The end of building up is the start of building down and cutting off.  
   
 The end of this project is the start of how you understand, approach, prepare for, and make the most of your graduate training, and the end of graduate school is the start of your real-life adventures.  
   
