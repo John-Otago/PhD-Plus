@@ -604,7 +604,7 @@ You’ll pick up most of these terms when you read the books in Sections 3-7, sa
   
 Of course, these concepts are different, but for me they are more or less the same if we focus on the connections among these different terms.  
   
-You can see that my focus in this project is consistently on self-learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the values and limits of theoretical knowledge (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
+You can see that my focus in this project is consistently on self-learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the limits of knowledge and experience (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
   
 I hope I have been able to engage these different but connected approaches and principles to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to explore.  
   
