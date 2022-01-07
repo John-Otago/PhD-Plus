@@ -52,7 +52,7 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
-  &emsp;&emsp;[7.1 Fundamental Principles](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-fundamental-principles)  
+  &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
   &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
   &emsp;&emsp;[7.4 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-blind-spots-the-overlooked--undervalued)  
@@ -63,6 +63,8 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[The End is the Beginning](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-is-the-beginning)  
   
 &ensp;&ensp;[Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)  
+&ensp;&ensp;[Appendix B](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-b)  
+  
   
   ---
     
@@ -460,7 +462,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ## 7. Become Self-Owned (continued)
   
-### 7.1 Fundamental Principles  
+### 7.1 Principles & Disciplines  
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
