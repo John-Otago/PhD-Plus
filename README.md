@@ -479,7 +479,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I and Part II (the first seven chapters).*
+- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I & II (the first seven chapters).*
 
 I would say that most of these books are 'somewhat useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
 
@@ -487,9 +487,9 @@ It's particularly difficult to find a good book on generic strategic thinking. S
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
-I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be, in the most efficient and effective way. It's also crucial when you make major life decisions and choose your long-term goals.  
+I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from where you are to where you want to be in the most efficient and effective way. It's also crucial when you make major life decisions and choose your long-term goals.  
   
-Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
+Anyway, at the end of the day, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
