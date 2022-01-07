@@ -58,6 +58,9 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[7.4 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-blind-spots-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
+  &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
+  &emsp;&emsp;[*Via Negativa*](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#via-negativa)  
+  &emsp;&emsp;[The End is the Beginning](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-is-the-beginning)  
   
 &ensp;&ensp;[Appendix](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix)  
   
