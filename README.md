@@ -466,28 +466,29 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book only partially useful—read it anyway if you haven’t. This title is followed by two other books by the same author if you are interested.*
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book partially useful and not well-written, but read it anyway if you haven’t. It's followed by two other books by the same author if you are interested (he is a good thinker and practitioner, but not a good writer).*
   
 - **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
   
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.*
+  
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
-  
-- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Random House) || *Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.*
-  
+
 ### 7.2 Strategy & Execution
+- **Good to Great: Why Some Companies Make the Leap...And Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
 - [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I and Part II (the first seven chapters).*
 
-I would say that these books are all 'more or less useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
+I would say that most of these books are 'somewhat useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
 
 It's particularly difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business management. Few people talk about how it functions in everyday life.  
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
-I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be, in the most efficient and effective way.  
-
+I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be, in the most efficient and effective way. It's also crucial when you make major life decisions and choose your long-term goals.  
+  
 Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
 ### 7.3 Decision-Making & Problem-Solving
