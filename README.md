@@ -55,7 +55,7 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
   &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
-  &emsp;&emsp;[7.4 Blind Spots: The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-blind-spots-the-overlooked--undervalued)  
+  &emsp;&emsp;[7.4 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
@@ -486,9 +486,7 @@ It's particularly difficult to find a good book on generic strategic thinking. S
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
-I truly believe that strategic thinking is an essential skill in today’s world to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be.  
-
-You can always read [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War), which has already been applied to many respects of everyday life. You can also check out Yale’s [Brady-Johnson Program in Grand Strategy](https://grandstrategy.yale.edu/) and relevant publications, although grand strategy is still different from everyday strategic thinking. There are many books talking about business strategies, too.  
+I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from A to B, or from where you are to where you want to be, in the most efficient and effective way.  
 
 Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)  
   
@@ -506,7 +504,7 @@ Anyway, keep in mind that sometimes the best strategy is a good night's sleep :)
 
 Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
   
-### 7.4 Blind Spots: The Overlooked & Undervalued   
+### 7.4 The Overlooked & Undervalued   
 Books to be added later.  
   
   
