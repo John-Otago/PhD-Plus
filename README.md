@@ -409,7 +409,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
 ### 6.1 Change How You Think
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Start from this one before you proceed to other books on systems thinking (e.g. **The Fifth Discipline**).*
   
-- **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking)
+- **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking) || *Read the whole book.*
   
 - **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *Read Chapters 1-2 and 6, and perhaps skim through 7-10.*
   
