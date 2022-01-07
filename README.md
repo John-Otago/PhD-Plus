@@ -33,7 +33,7 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[4.1 Overview](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#41-overview)  
   &emsp;&emsp;[4.2 Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#42-academic-careers)  
   &emsp;&emsp;[4.3 Non-Academic Careers](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#43-non-academic-careers)  
-  &emsp;&emsp;[4.4 University Start-ups & Innovation-Driven Entrepreneurship](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#44-university-start-ups--innovation-driven-entrepreneurship)  
+  &emsp;&emsp;[4.4 University Startups & Innovation-Driven Entrepreneurship](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#44-university-startups--innovation-driven-entrepreneurship)  
   &emsp;&emsp;[4.5 Become an SME Owner-Operator or Sole-Proprietor](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#45-become-an-sme-owner-operator-or-sole-proprietor)  
   
 &ensp;&ensp;[5. Academic Writing & Publication - start from day one](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#5-academic-writing--publication---start-from-day-one)  
@@ -327,7 +327,7 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
-### 4.4 University Start-ups & Innovation-Driven Entrepreneurship
+### 4.4 University Startups & Innovation-Driven Entrepreneurship
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
