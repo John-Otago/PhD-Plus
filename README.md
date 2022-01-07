@@ -62,7 +62,7 @@ Last update: 07 Jan 2022
   &emsp;&emsp;[*Via Negativa*](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#via-negativa)  
   &emsp;&emsp;[The End is the Beginning](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-is-the-beginning)  
   
-&ensp;&ensp;[Appendix](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix)  
+&ensp;&ensp;[Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)  
   
   ---
     
@@ -135,7 +135,7 @@ I’ve seen so many PhD graduates end up jobless after graduate school and have 
   
 As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of what it’s *really* like out there, and still hold naive views and wishful thinking until they are tested in real life—often followed by a rude awakening.
   
-As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (also see the [Appendix](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (see also [Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
   
 Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
   
@@ -256,6 +256,7 @@ In reality, most people need to balance the two: work hard to produce, but alway
 (e) Flexibility, adaptability, and perseverance are the key.  
 (f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars to support work and life, expect and live with ups and downs, don't rely exclusively on that 'one shot' that may or may not work, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
   
+  
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---  
@@ -339,6 +340,7 @@ The books in this section offer basic introductions. Practice is much more impor
   
 Last note: networking is important for both academic and non-academic careers!  
   
+  
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
@@ -393,6 +395,7 @@ Last tip:
 Always talk to your supervisor about writing and publication; you need to publish *strategically*, especially if you are aiming for an academic career.  
   
 Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news reports and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).  
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -449,6 +452,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
+  
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
@@ -502,6 +506,7 @@ Goal-setting, decision-making, problem-solving, and risk-taking are all importan
   
 ### 7.4 Blind Spots: The Overlooked & Undervalued   
 Books to be added later.  
+  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
@@ -557,7 +562,7 @@ Keep pushing.
   
   ---
     
-## Appendix
+## Appendix A
 
 ### Reasons to do/not to do a PhD (follow up to Section 1.2)
 In Section 1.2, I asked you to think about why you want a PhD. Here are a few common reasons (by no means exhaustive) and ‘counter-points’, so to speak, to help you consider your options and make your decision.
@@ -576,4 +581,37 @@ Again, I raise these questions, not to be cynical or discourage you from graduat
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
-    
+  
+## Appendix B
+  
+### The Underlying Thinking
+  
+If you have read through this project and all the books that I recommended above, you’ll probably see the connections and the recurring patterns among those books and in my underlying approaches.  
+  
+I would highlight the following philosophies and principles behind my thinking:  
+  
+- Critical realism
+- Skeptical empiricism
+- Realistic optimism
+- Pragmatic idealism
+- Empirical creativity
+- Creative tension
+- Creative discipline
+- Humble confidence
+- Confident humility
+  
+You’ll pick up most of these terms when you read the books in Sections 3-7, save for ‘critical realism’, which comes from the philosophical foundation behind my own research.  
+  
+Of course, these concepts are different, but for me they are more or less the same if we focus on the connections among these different terms.  
+  
+You can see that my focus in this project is consistently on self-learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the values and limits of theoretical knowledge (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
+  
+I hope I have been able to engage these different but connected approaches and principles to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to explore.  
+  
+Thank you for bearing with me through this incredible journey.  
+  
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
