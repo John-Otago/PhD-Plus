@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.7  
-Last update: 07 Jan 2022  
+Version 0.4.8  
+Last update: 08 Jan 2022  
 
 ## Table of Contents  
    
@@ -131,13 +131,13 @@ If your supervisor hasn’t asked you why you choose graduate school, you should
   
 There are probably many other things that you should do or would enjoy doing, but why a PhD—a multiyear commitment and hard work with great risks and opportunity cost?
   
-I raise this question, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you shouldn’t make it carelessly or without being informed about the reality.
+I raise this question, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you should take it seriously for an informed decision that aligns with reality.  
   
 I’ve seen so many PhD graduates end up jobless after graduate school and have to collect unemployment benefits, or can only find work in sales, retail, restaurants, supermarkets, or drive cabs (all real-life examples)—it’s not that these jobs are ‘below’ anyone, but that our PhD graduates are competing with high school dropouts for these jobs that don’t need a college degree. International students may not even be allowed to stay in the country if they don’t have a job that matches their PhD once their visa runs out. Some degree-holders may find themselves essentially unemployable or severely under-employed, especially if they did their PhD in a non-applied area, although this problem can occur to any PhD student in any discipline. 
   
 As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of what it’s *really* like out there, and still hold naive views and wishful thinking until they are tested in real life—often followed by a rude awakening.
   
-As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (see also [Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you initially had in mind—that seems to be the case for many of today’s (under-prepared) PhDs.
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (see also [Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you anticipated, which seems to be the case for many (under-prepared) PhDs.
   
 Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
   
