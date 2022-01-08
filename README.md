@@ -418,7 +418,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
   
 - [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
   
-The first few books are must-read. The last one is optional.
+The first few books are must-reads. The last one is optional.
   
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
@@ -429,14 +429,14 @@ The first few books are must-read. The last one is optional.
   
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
   
-- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-a-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and in your academic life.*
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-à-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and academic life.*
 
-You should read these books. The goal is to help you get the most out of your graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
+You should read these books. The goal is to help you get the most of graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
 ### 6.3 Change How You Communicate
 - **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
   
-- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly I don't think the book is well-written, but the method described therein can be quite helpful.*
+- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly I don't think the book is well-written, but the method described here can be quite helpful.*
   
 These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
@@ -451,7 +451,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
 ### 6.6 Change How You Use Digital Tools
-- Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.io/). You can find lots of online tutorials (e.g. videos and blog posts) teaching you how to use these tools and how they differ from each other. Do your research and choose your favourite one :)
+- Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.io/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
   
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
