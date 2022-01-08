@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.8  
-Last update: 08 Jan 2022  
+Version 0.4.9  
+Last update: 09 Jan 2022  
 
 ## Table of Contents  
    
@@ -553,6 +553,8 @@ In terms of **doing**, less is more. By doing less and only the most crucial, yo
 The most useful can be the most concise. The most essential can be the simplest of all.  
   
 Be a hedgehog who knows and does one thing right; don’t be a fox who knows many things that don’t really work.  
+  
+At the end of the day, what you don’t know (the *anti-knowledge*) may be more important than what you know. The books you haven’t read (the *anti-library*) may be more important than those you have.  
   
 Keep that in mind.  
   
