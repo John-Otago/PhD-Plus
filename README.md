@@ -475,7 +475,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
   
-Principles and disciplines are foundations of personal mastery and freedom. They support how you think and what you do. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
+Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
   
 ### 7.2 Strategy & Execution
 - **Good to Great: Why Some Companies Make the Leap...And Others Don't** (J Collins, 2001, Harper Collins)
@@ -483,16 +483,14 @@ Principles and disciplines are foundations of personal mastery and freedom. They
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
 - [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I & II (the first seven chapters).*
-
-I would say that most of these books are 'somewhat useful' (rather than 'downright excellent'). You should read them and see how helpful they are.
-
-It's particularly difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business management. Few people talk about how it functions in everyday life.  
+  
+It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business management. Few people talk about how it functions in everyday life.  
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
-I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from where you are to where you want to be in the most efficient and effective way. It's also crucial when you make major life decisions and choose your long-term goals.  
+I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from where you are to where you want to be in the most effective and efficient way. It's crucial when you make major life decisions and long-term plans.  
   
-Anyway, at the end of the day, keep in mind that sometimes the best strategy is a good night's sleep :)  
+Anyway, at the end of the day, keep in mind that a good night's sleep is sometimes the best strategy :)  
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
@@ -505,15 +503,16 @@ Anyway, at the end of the day, keep in mind that sometimes the best strategy is 
 #### Problem-Solving
 - [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
+- Many other books above have also covered decision-making and problem-solving.
 
-Goal-setting, decision-making, problem-solving, and risk-taking are all important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice (real-life experience) is always more important than theoretical knowledge on paper.  
+Goal-setting, decision-making, problem-solving, and risk-taking are important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice is always more important than theoretical knowledge on paper.  
   
 ### 7.4 The Overlooked & Undervalued   
 - Books to be added later.  
   
 There are things that they won’t teach and you won’t learn in graduate school, and there are unorthodox approaches that conventional academics may frown upon.  
   
-This kind of omission will create blind spots that you miss, especially those things that are important in real life but rarely discussed in the ivory tower.  
+This kind of omission will create blind spots that you'll miss, especially those things that are important in real life but rarely discussed in the ivory tower.  
   
 I will add a few books and relevant resources to this section.  
   
