@@ -184,7 +184,7 @@ The purpose of graduate research and the 'big picture':
 - Make the world a better place
 
 The vision is necessarily 'lofty'. Dream big. Aim high.  
-Then work hard (and smart) every day to achieve it.  
+Then work hard (and smart) to achieve it.  
 
 ### 2.2 The Goal
 There's only one goal when you are in graduate school:
@@ -199,14 +199,14 @@ The goal is necessarily specific and 'down to earth'.
 
 Set your own deadline much earlier than the standard one. Strive to achieve it. If anything went wrong and you couldn't finish your PhD earlier, you can still finish it 'on time'. If you follow the standard timeline and something went wrong, you won’t get it on time.
 
-(b) If you want an academic job, and/or your PhD is in a field of purely intellectual knowledge without an applied industry to work in, you should utilise the maximum funded time of your PhD to build up your publication and network.  
+(b) If you want an academic job, or your PhD is in a field of purely intellectual inquiry without an applied industry to work in, you should utilise the maximum funded time of your PhD to build up your publication and network.  
 
-Still set your own deadline a bit earlier. If you can meet it, don't submit your PhD and give up on your funding earlier; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends. I learnt this the hard way by submitting my PhD earlier and giving up on one-year's funding, which turned out to be a strategic mistake.
+Still set your own deadline a bit earlier. If you can finish your PhD earlier, don't submit your PhD and give up on your funding; use the 'extra time' to get more publications, then submit your PhD 'on time' when the funding ends. I learnt this the hard way.
 
 Again, if anything went wrong and you couldn't finish it earlier, you can still finish it 'on time'. Be strategic.  
   
-#### This strategy serves a purpose. Think about the following two scenarios, and which one you’d like to end up in:
-
+#### This strategy serves a purpose. Think about the following two scenarios, and which one you’d like to be in:  
+  
 - Always one step ahead (busy but relaxed)
 - Always one step behind (busy *and* stressed)
 
@@ -230,7 +230,7 @@ Here's how you do it:
 - Adapt to changes and mistakes
 
 **Communication:**  
-If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind the schedule, tell your advisor to work out a strategy.  
+If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind the schedule, tell your advisor and work out a strategy.  
   
 **Strategy & Execution:**  
 (a) Focus on the things that will help you achieve your goal (complete the PhD on time) while developing useful skills.  
@@ -239,10 +239,11 @@ If you have a question, ask. If you're unsure about anything, check with your ad
   
 **Productivity:**  
 Productivity is essentially the ratio between the input and the output. Two ways to think about it:  
+  
 (a) More input, more output (work hard).  
 (b) Less input, more output (work smart).  
 
-The former means you are 'productive' in the sense that you are producing more research outputs, but 'more input' means you are investing lots of hours and resources to achieve it. This is necessary when you first start, need to catch up, change your area, pursue your PhD in a different country using a different language, or simply want to achieve more (more than required).  
+The former means you are 'productive' in the sense that you are producing more research outputs, but 'more input' means you are investing lots of time and resources to achieve it. This is necessary when you first start, need to catch up, change your area, pursue your PhD in a different country using a different language, or simply want to achieve more (more than required).  
 
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
