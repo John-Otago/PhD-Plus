@@ -290,13 +290,13 @@ Read the books above when you start graduate school. The newspapers are trade pu
 ### 4. Career Preparation - *start from day one*
   
 ### 4.1 Overview
-It comes as a sobering fact for some PhD students/graduates that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Plan ahead when you start graduate school, not when you finish.  
+It comes as a rude awakening for some PhD students that most of them will never get a career-track academic job (especially in HASS). That includes many good PhD graduates with a track record of publication and excellent teaching experience. The academic job market follows the simple rule of supply and demand (over-supply and weak/declining demand). No matter how good you are, there are simply too many candidates on the market. Ignoring this rule will cost you dearly. Make plans when you start graduate school, not when you finish.  
   
 Check out this list to understand the (mostly collapsed) academic job market: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market.  
   
 If you come from a typical middle-class family or from a culture that highly values education, you may 'naturally' believe that more education will lead to more opportunities--that's not necessarily true.  
   
-In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both very good and very lucky. The same rule applies to post-docs.  
+In a small country, even those who can land a career-track academic job often spend 2-5 years on the market (again, many good and more experienced candidates are waiting ahead of you). In a large country, you have to be both good and lucky. The same rule applies to post-docs.  
   
 International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).  
   
@@ -329,13 +329,15 @@ Again, all from the US. Students in other countries should pick up the key point
 ### 4.4 University Startups & Innovation-Driven Entrepreneurship
 - **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
-- [Optional] MIT open course (15.390) and MOOC (15.390x) on Innovation-Driven Entrepreneurship || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for the [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/)*
+- [Optional] MIT open course (15.390) and MOOC (15.390x) on **Innovation-Driven Entrepreneurship** || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for their [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/).*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
-- [Optional] **Small Business Management: Theory & Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
-- [Optional] **Workbook for Small Business Management: Theory and Practice**, 4th ed. (T Mazzarol & S Reboud, 2020, Springer)
+- [Optional] **Small Business Management: Theory & Practice, 4th ed.** (T Mazzarol & S Reboud, 2020, Springer)
+- [Optional] **Workbook for Small Business Management: Theory and Practice, 4th ed.** (T Mazzarol & S Reboud, 2020, Springer)
 
-Starting and running a small business or SME (small-or-medium-sized enterprise) is different from launching an innovation-driven startup to carve out a non-existing market. A few books above on non-academic careers have mentioned how some PhD graduates (esp. those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
+Starting and running a small business (SME: small-or-medium-sized enterprise) is different from launching an innovation-driven startup to carve out a non-existing market. 
+
+A few books on non-academic careers in 4.3 have mentioned how some PhD graduates (especially those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
   
 The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are lots of relevant resources online. You need to learn from people with real-life business experiences, not researchers.  
   
