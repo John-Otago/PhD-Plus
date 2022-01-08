@@ -490,7 +490,7 @@ In fact, many people already engage strategic thinking on a day-to-day basis, fr
 
 I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from where you are to where you want to be in the most effective and efficient way. It's crucial when you make major life decisions and long-term plans.  
   
-Anyway, at the end of the day, keep in mind that a good night's sleep is sometimes the best strategy :)  
+Anyway, at the end of the day, keep in mind that *a good night's sleep* is sometimes the best strategy :)  
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
