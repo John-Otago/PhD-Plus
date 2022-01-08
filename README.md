@@ -327,7 +327,7 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
 ### 4.4 University Startups & Innovation-Driven Entrepreneurship
-- **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
+- [Optional] **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on **Innovation-Driven Entrepreneurship** || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for their [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/).*
 
