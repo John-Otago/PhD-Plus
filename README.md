@@ -525,30 +525,30 @@ I will add a few books and relevant resources to this section.
 ## Closing Remarks
   
 ### Walk the Talk
-Congratulations that you have come this far and read through the whole project. I hope you have thought about the issues I raised here, read the books I suggested in Sections 3-7, and made connections between everything you have read, learnt, and thought about.  
+Congratulations that you have come this far and read through the whole project. I hope you have thought about the issues I have raised, read the books I suggested above, and made connections between everything you have read, learnt, and thought about.  
   
 Now what?  
   
-Well, you have to put everything into practice. An untested theory is merely a theory, and untested knowledge may not work in practice. There’s always a gap (or a creative tension) between theory and practice, and you have to connect them.  
+Well, you have to put everything to the test. An untested theory is merely a theory, and untested knowledge may not work in practice. There’s always a gap (or a creative tension) between theory and practice, and you have to connect them.  
   
-You have to ‘walk the talk’, so to speak, to test what you have learnt: what works, what doesn’t, what needs to be tweaked, how you can improve them, and how you can make them work *for you*.  
+You have to ‘walk the talk’, so to speak, to test what you have learnt: what works, what doesn’t, how you improve it, and how you make it work *for you*.  
   
-In other words, you need to turn your theoretical knowledge into productive practice for continued learning and tinkering towards personal mastery and self-growth. That’s the philosophy behind this whole project and the whole process of graduate training.  
+In other words, you need to turn your theoretical knowledge into productive practice for continued learning and tinkering towards personal mastery and self-governance. That’s the philosophy behind this whole project and graduate training.  
   
-Embrace reality. Face the truth. Confront the facts.  
+Face the truth. Confront the facts. Embrace reality.  
   
 ### *Via Negativa*
 Here, *via negativa* means learning and doing by subtraction, by strategically doing less but focusing more, and by detecting and extracting what is useful from what is not, the most essential from the less important, and the mission-critical from the trivial and the marginal.  
   
-To concentrate on the most important things, you have to ignore the less important ones. To seek truth and useful knowledge, you have to identify and eliminate falsehoods and theories that won’t stand real-life tests. To keep what works, you have to get rid of what doesn’t. To ask the right question and find the right problem, you have to remove the false and superficial ones.  
+To concentrate on the most important tasks, you have to ignore the less important ones. To seek truth and useful knowledge, you have to identify and eliminate falsehoods and theories that won’t stand real-life tests. To keep what works, you have to get rid of what doesn’t. To ask the right question and find the right problem, you have to remove the false and superficial ones.  
   
-Sometimes the more you try to do, the less you actually accomplish. You should remove more instead of doing more. Lots of things are practically worthless.  
+Sometimes the more you do, the less you actually accomplish. You should *remove* more instead of doing more. Lots of things are practically worthless.  
   
-You have to reduce and eliminate noises, distractions, falsehoods, and the nonessentials, so the most crucial and the most critical can emerge.  
+Only when you reduce and eliminate noises, distractions, falsehoods, and the nonessentials, will the most crucial and the most critical emerge.  
   
 In terms of **learning**, once you have *built up* your reservoir of knowledge, you’ll need to *build down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
   
-In terms of **doing**, less is more. By doing less and only the most essential, you can keep a sharp focus, align your efforts with what matters most, and direct and concentrate your attention and energy onto your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and most productive way to achieve what you aim to achieve.  
+In terms of **doing**, less is more. By doing less and only the most crucial, you can keep a sharp focus, align your efforts with what matters most, and direct your attention and energy to your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and productive way to achieve what you aim for.  
   
 The most useful can be the most concise. The most essential can be the simplest of all.  
   
