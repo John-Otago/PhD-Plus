@@ -533,7 +533,7 @@ Well, you have to put everything to the test. An untested theory is merely a the
   
 You have to ‘walk the talk’, so to speak, to test what you have learnt: what works, what doesn’t, how to improve it, and how to make it work *for you*.  
   
-In other words, you need to turn your theoretical knowledge into productive practice for continued learning and tinkering towards personal mastery and self-governance. That’s the philosophy behind this whole project and graduate training.  
+In other words, you need to turn your theoretical knowledge into productive practice for continued learning and tinkering towards personal mastery and self-governance. That’s the philosophy behind this whole project.  
   
 Face the truth. Confront the facts. Embrace reality.  
   
