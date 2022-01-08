@@ -389,7 +389,7 @@ To reduce wordiness:
 Result?  
 >At the end of three hours, we had reduced four pages to three-quarters of a page without losing nuance or essential details.
   
-Think about this.  
+Think about it.  
   
 Another rule of thumb: read good papers/books and consciously adopt good wording and phrasing in your own writing. Read broadly and don't limit your reading to your own field or only to academic literature.  
   
