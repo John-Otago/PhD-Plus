@@ -77,10 +77,10 @@ Ideally you should read through the list and the books before you start graduate
 
 Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research.  
   
-This project aims to develop and offer a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagining what graduate education can do and can be.  
+This project aims to develop and offer a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagine what graduate education can do and can be.  
   
 ### 0.2 Terminology
-I use 'graduate school' and 'graduate students' for consistency, or just 'PhD' as shorthand. For research supervision, I use 'advisor' and 'supervisor' interchangeably.
+I use 'graduate school' and 'graduate students' in this project, or just 'PhD' as shorthand. For research supervision, I use 'advisor' and 'supervisor' interchangeably.
 
 I use mixed terms from both the US and the UK/Commonwealth academic systems.
 
@@ -90,7 +90,7 @@ Plus, 'dissertation committee' is mainly a US thing, and so is the expression of
 
 For job search, the conventions, processes, and terminology also differ in the US, the UK/Australasia, continental Europe, and other countries and territories. 'Tenure' and 'tenure-track' are used in the US (and have been borrowed by many universities elsewhere), which is equivalent to 'permanent', 'continuing', or 'confirmation-path' in some other countries. I use 'career-track' as shorthand.
 
-Don't worry if these seem confusing. You'll get the hang of it as you progress towards your PhD (and future career if you work in academia).
+Don't worry if these terms seem confusing. You'll get the hang of them as you progress towards your PhD (and future career if you work in academia).
 
 ### 0.3 Areas/Disciplines
 This project is developed in HASS (Humanities and Social Sciences) but should also benefit students in STEM (Science, Technology, Engineering, and Mathematics) and other fields.
@@ -100,9 +100,9 @@ I draw insights from many areas and sectors, and this project is interdisciplina
 ### 0.4 Disclaimer
 This project is based on my personal philosophy and shaped by my experience. Your supervisors may have different views. Always check with them.
 
-This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. I also constantly re-think and re-evaluate my approaches to make changes regularly. The mental work as well as reading and writing already took me hundreds of hours before this project first went public. It will continue to take more time to build and maintain. 
+This is an ongoing project that will take years to develop. It is time-consuming as I need to select and read a large number of books and other resources to make recommendations and keep them up to date. I also constantly re-think and re-evaluate my approaches to make changes regularly. The mental work as well as reading and writing already took ~~hundreds~~ thousands of hours before this project first went public. It will take more time to update and maintain. 
   
-Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly (we have been kicking the can down the road for too long and missed many opportunities; see e.g. my collection of relevant discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#08-relevant-books)—there are many more books and commentaries published on this topic). The Covid-19 pandemic has signalled an epochal shift and let’s take the opportunity to drive changes and innovation.  
+Keep in mind that this project is to inspire new ways of thinking and explore new approaches to graduate training. I have my principles that you may not necessarily agree with, and the world keeps changing and the way we think and train students must change accordingly. We have been kicking the can down the road for too long and missed many opportunities (see e.g. my collection of relevant discussions [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#08-relevant-books)—there are many other books and commentaries published on this topic). The Covid-19 pandemic has signalled an epochal shift and let’s take the opportunity to drive changes and innovation.  
 
 I welcome feedback and input from students, advisors, and everyone else. This is a Project as a Service (PaaS) that I would like to keep in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) that can be constantly tested and updated.  
   
@@ -118,28 +118,26 @@ So, *qu'est-ce que le PhD* (what is the PhD)?
 
 Check out [The Illustrated Guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/) by [Matt Might](https://matt.might.net).
 
-There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Oud2tbtO2z8)). Here's the [blog post](https://matt.might.net/articles/my-sons-killer/). Here's a [longer video](https://www.youtube.com/watch?v=LTZoJLHofBE). The story is well-known in the research community.
+There's a story behind it (watch [this video](https://www.youtube.com/watch?v=Oud2tbtO2z8); here's the [blog post](https://matt.might.net/articles/my-sons-killer/); and here's a [longer video](https://www.youtube.com/watch?v=LTZoJLHofBE)). The story is well-known in the research community.
 
 I hope you get it. Whatever the reason you choose to do a PhD, I hope you picked up something from this incredible story.
 
 Keep pushing.  
   
 ### 1.2 Why Do You Want a PhD?
-The reason above may not explain *your* motivation/rationale to pursue a PhD, nor it can fully account for various kinds of reasons that people choose to do a PhD.
-  
-If your supervisor hasn’t asked you why you choose graduate school, you should ask yourself that question before you start and have a *really* clear answer, rather than a vague impression that this is something you ‘should’ do or ‘like’ to do.
+If your supervisor hasn’t asked you why you choose graduate school, you should ask yourself before you start and have a *really* clear answer, rather than a vague impression that this is something you ‘should’ do or ‘like’ to do.
   
 There are probably many other things that you should do or would enjoy doing, but why a PhD—a multiyear commitment and hard work with great risks and opportunity cost?
   
 I raise this question, not to be cynical or discourage you from graduate school, but to ask you to think *clearly* and *strategically* about why you want a PhD, where and when you should do your PhD, in which discipline(s), at what cost, and with what kind of possible outcomes. This is potentially a life-changing decision, for better or for worse, and you should take it seriously for an informed decision that aligns with reality.  
   
-I’ve seen so many PhD graduates end up jobless after graduate school and have to collect unemployment benefits, or can only find work in sales, retail, restaurants, supermarkets, or drive cabs (all real-life examples)—it’s not that these jobs are ‘below’ anyone, but that our PhD graduates are competing with high school dropouts for these jobs that don’t need a college degree. International students may not even be allowed to stay in the country if they don’t have a job that matches their PhD once their visa runs out. Some degree-holders may find themselves essentially unemployable or severely under-employed, especially if they did their PhD in a non-applied area, although this problem can occur to any PhD student in any discipline. 
+I’ve seen so many PhD graduates end up jobless after graduate school and have to collect unemployment benefits, or only find work in sales, retail, restaurants, supermarkets, or drive cabs (all real-life examples)—it’s not that these jobs are ‘below’ anyone, but that our PhD graduates are competing with high school dropouts for these jobs that don’t need a college degree. International students may not even be allowed to stay in the country if they don’t have a job that matches their PhD once their visa runs out. Some degree-holders may find themselves essentially unemployable or severely under-employed, especially if they did their PhD in a non-applied area, although this problem can occur to any PhD in any discipline. 
   
-As I show below in the rest of this project, PhD training, if done right, offers great benefits for life—it’s just that many PhD students (me included) come to graduate school without a clear understanding of what it’s *really* like out there, and still hold naive views and wishful thinking until they are tested in real life—often followed by a rude awakening.
+As I show in this project, PhD training, if done right, offers great benefits—but you need to be prepared and forget your naive views and wishful thinking that don't align with reality.
   
-As a bare minimum, think about the trade-off between the cost and the potential benefit, and calculate possible risks and outcomes, ideally before you start graduate school. Some of the resources below will help you (see also [Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you anticipated, which seems to be the case for many (under-prepared) PhDs.
+As a bare minimum, think about the trade-off between the cost and the potential benefit, and possible risks and outcomes, before you start graduate school. Some of the resources below will help you (see also [Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)). At least, you should be able to clearly answer the question ‘why do you want to do a PhD’ and have a Plan B (and keep working towards it) in case your PhD doesn’t work out or doesn’t lead to the outcome you anticipated, which seems to be the case for many (under-prepared) PhDs.
   
-Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
+Keep in mind that ‘enjoying it’ (a hobby) or ‘good at it’ (a skill) alone shouldn’t justify doing research at graduate school as your full-time job (a career) or what you do with your life (a future). You should take other more practical issues into account, like *whether you should pursue something else that you will also ace and enjoy*, *whether you can support yourself after graduate school without a job*, and *what if your PhD only leads to a career that doesn’t need graduate degrees*. That’s a necessary process before you make this major and life-changing investment called a PhD.
   
 ### 1.3 What is PhD Training?
 Now, what is it like to go through PhD training?
@@ -162,14 +160,14 @@ I also believe that PhD is not for the faint-hearted (if it's easy, everyone wou
 
 You don't need to agree with me, but think about this before starting.  
   
-I know I might have been glorifying Graduate School—it’s definitely not all rosy—but if you *really* want to do a PhD, I hope you can get the most out of it.
+I know I might have been glorifying graduate school—it’s definitely not all rosy—but if you *really* want to do a PhD, I hope you can get the most out of it.
   
 ### 1.4 The Philosophy (sort of)
 The philosophy of PhD training is to help students develop the mindset and the skillset to become informed and effective lifelong learners and doers who are self-learning and self-teaching (autodidactic), self-motivated and self-starting (anti-akratic), and, above all, self-governed and self-owned (autonomous, independent, and free).  
   
 Freedom is the ultimate goal. Freedom is never free—it can only be achieved through careful thinking, doing, tinkering, and risk-taking. It is hard work, and graduate school offers a good training opportunity.  
 
-Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for while you are in graduate school.  
+Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
