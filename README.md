@@ -576,17 +576,19 @@ Keep pushing.
 ## Appendix A
 
 ### Reasons to do/not to do a PhD (follow up to Section 1.2)
-In Section 1.2, I asked you to think about why you want a PhD. Here are a few common reasons (by no means exhaustive) and ‘counter-points’, so to speak, to help you consider your options and make your decision.
-
-(a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has already collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.
-
-(b) For international students, if you want a PhD as your ‘passport’ to global mobilities to be able to work internationally in any country with better opportunities, do you know that some major/powerful countries mainly employ local PhD graduates (both in academia and in the industry/other sectors)? If you know that, would you still do your PhD in a small or young or developing country that is less established academically and ranked lower in the global academic hierarchy, even though otherwise the country looks attractive?
-
-(c) Some people may pursue a research-related career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?
-
-(d) If your goal is merely to gain credentials and build up your profile, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one (regardless of the global academic hierarchy), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to gain credentials with far less cost and risks.
-
-Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about cost-and-benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should take it very seriously. Read the books above in Sections 6-7 to help you make the right decision.
+In Section 1.2, I asked you to think about why you want a PhD. Here are a few common reasons (by no means exhaustive) and ‘counter-points’, so to speak, to help you consider your options and make your decision.  
+  
+(a) Many people may want an academic career, for which a PhD from a good university is often a prerequisite. But would you still do it if you know that the academic job market (in many Western countries) is in steady decline since the 1970s/1980s and has mostly collapsed? Most PhD graduates won’t land a career-track academic job (see Section 4), even though you are really good and work incredibly hard. Those who land career-track academic jobs may still spend years on the market, particularly in small countries where the academic market is tiny with too many PhDs competing for a few positions. Large countries are only marginally better.  
+  
+(b) For international students, if you want a PhD as your ‘passport’ to global mobilities to be able to work internationally in any country with better opportunities, do you know that some major/powerful countries mainly employ local PhD graduates (both in academia and in the industry/other sectors)? If you know that, would you still do your PhD in a small or young or developing country that is less established academically and ranked lower in the global academic hierarchy, even though otherwise the country looks attractive?  
+  
+(c) Some people may pursue a research career in the industry or the public/non-profit sector, for which a PhD is an asset or an entry ticket. But if that’s the goal, would you choose to do a PhD in an area that offers purely cultural and intellectual value, but doesn’t train you for anything directly applicable, productive, or practical?  
+  
+(d) If your goal is merely to gain credentials, then it probably doesn’t matter in which area/discipline you do your PhD (a purely cultural/intellectual area may be even better than an applied/practical one), and a local PhD is probably better than a foreign one (regardless of the global academic hierarchy), although you still need to choose a top university and an elite programme. However, in this case, the question is why you want to do a PhD—there are other (better) ways to build up your profile with far less cost and risks.  
+  
+(e) 'Intellectual pursuits are important for me'. Yes, then you can do it as a hobby/interest in your own time. Institutionalised academic research may not be the best way towards intellectual freedom--it may even be the opposite--and true intellectual freedom doesn't necessarily start (nor will it stop) with graduate training.  
+  
+Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about the cost and benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should take it very seriously. Read the books above to help you make the right decision.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
@@ -597,7 +599,7 @@ Again, I raise these questions, not to be cynical or discourage you from graduat
   
 ### The Underlying Thinking
   
-If you have read through this project and all the books that I recommended above, you’ll probably see the connections and the recurring patterns among those books and in my underlying approaches.  
+If you have read through this project and all the books that I recommended, you’ll probably see the connections and the recurring patterns among those books and in my underlying approaches.  
   
 I would highlight the following philosophies and principles behind my thinking:  
   
@@ -615,9 +617,9 @@ You’ll pick up most of these terms when you read the books in Sections 3-7, sa
   
 Of course, these concepts are different, but for me they are more or less the same if we focus on the connections among these different terms.  
   
-You can see that my focus in this project is consistently on self-learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the limits of knowledge and experience (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
+You can see that my focus is consistently on learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the limits of knowledge and experience (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
   
-I hope I have been able to engage these different but connected approaches and principles to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to explore.  
+I hope I have been able to engage these different but connected approaches to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to *act*.  
   
 Thank you for bearing with me through this incredible journey.  
   
