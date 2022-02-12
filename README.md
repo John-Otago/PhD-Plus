@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.9  
-Last update: 09 Jan 2022  
+Version 0.4.10  
+Last update: 12 Feb 2022  
 
 ## Table of Contents  
    
@@ -156,7 +156,7 @@ I consider this an ideal outcome and what we should aim for in PhD training. You
 
 Nonetheless, good PhD training should help students develop transferable skills for their future work and life with long-term benefits. If done right, it should prepare the students for whatever comes next.
 
-I also believe that PhD is not for the faint-hearted (if it's easy, everyone would do it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
+I also believe that the PhD is not for the faint-hearted (if it's easy, everyone would do it). You need to be ready for this, and there's no goofing around. If you choose the graduate school because you don't know what to do after college, I'd suggest two options: do something else with a better financial return, or figure out what you want during your PhD (it doesn’t need to be an academic career).
 
 You don't need to agree with me, but think about this before starting.  
   
