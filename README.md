@@ -64,6 +64,7 @@ Last update: 15 Feb 2022
   
 &ensp;&ensp;[Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)  
 &ensp;&ensp;[Appendix B](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-b)  
+&ensp;&ensp;[Appendix C](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-c)  
   
   
   ---
