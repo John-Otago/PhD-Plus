@@ -645,7 +645,7 @@ Some applicants assume that having a Master’s or Honours degree will automatic
 
 I received a large number of applications in the first year at my current university, and I was rather surprised that the vast majority didn’t even meet the minimum entry requirements published on the university website, and most applicants didn’t follow the instructions on our website to send in the required documents.  
 
-If your application indicates that you lack basic research skills to find and follow the instructions, then your chance of getting a favourable review of your application is rather slim. I spent hours after hours in the first year to reply to those applicants and chase up documents, and now I just use an auto-reply to point them to the website where the instructions are published. There are just too many people who won't bother to look.  
+If your application indicates that you lack basic research skills to find and follow the instructions, then your chance of getting a favourable review of your application is rather slim. I spent hours after hours in the first year to reply to those applicants and chase up documents, and now I just use an auto-reply to point them to the website where the instructions are published. There are just too many people who don't bother to look.  
 
 Once again, reality has taught me a lesson. I don’t want to be harsh, but you should **do your research** before you apply for an advanced research degree like a PhD!  
 
