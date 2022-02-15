@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.10  
-Last update: 12 Feb 2022  
+Version 0.4.11  
+Last update: 15 Feb 2022  
 
 ## Table of Contents  
    
@@ -624,6 +624,31 @@ You can see that my focus is consistently on learning and self-growth to change 
 I hope I have been able to engage these different but connected approaches to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to *act*.  
   
 Thank you for bearing with me through this incredible journey.  
+  
+  
+[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
+## Appendix C
+
+### A word about PhD application
+
+I never thought I would need to talk about this, but reality has once again proved me wrong:  
+
+Each country, university, school, or department will have different PhD entry requirements and different application processes that you need to follow.  
+
+To show that you are a good researcher, the first step you should take is to research the **PhD entry requirements** and the **application process** of the university and the department that you want to get into. It’s also helpful to search online for generic information about PhD applications so you’ll have a fairly good understanding of the process and the common expectation (e.g. what documents you need to prepare) before you apply.  
+
+Some applicants assume that having a Master’s or Honours degree will automatically make them eligible for a PhD programme. That is not necessarily true. Many universities have a certain criterion regarding your previous grades. Also, keep in mind that your letter grades (B+ or A- etc.) may mean different things in different countries.  
+
+I received a large number of applications in the first year at my current university, and I was rather surprised that the vast majority didn’t even meet the minimum entry requirements published on the university website, and most applicants didn’t follow the instructions on our website to send in the required documents.  
+
+If your application indicates that you lack basic research skills to find and follow the instructions, then your chance of getting a favourable review of your application is rather slim. I spent hours after hours in the first year to reply to those applicants and chase up documents, and now I just use an auto-reply to point them to the website where the instructions are published. There are just too many people who won't bother to look.  
+
+Once again, reality has taught me a lesson. I don’t want to be harsh, but you should **do your research** before you apply for an advanced research degree like a PhD!  
+
+I hope that's a fair comment, and I always welcome (and feel excited about) good applications!  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
