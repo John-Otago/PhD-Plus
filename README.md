@@ -362,7 +362,8 @@ Last note: networking is important for both academic and non-academic careers!
 - [Optional] **Helping Doctoral Students Write: Pedagogies for Supervision, 2nd ed.** (B Kamler & P Thomson, 2014, Routledge). || *The book is intended for supervisors but students can also benefit from reading it. It is suitable for those in the arts and humanities.*
   
 ### 5.3 Journal Articles
-- [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
+- [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*  
+  
 - [Optional] **The Savvy Academic: Publishing in the Social and Health Sciences** (SJ Schwartz, 2022, Oxford UP). || *New book, I haven't got the chance to read it.*  
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
