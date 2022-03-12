@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.11  
-Last update: 15 Feb 2022  
+Version 0.4.12  
+Last update: 12 Mar 2022  
 
 ## Table of Contents  
    
@@ -363,11 +363,12 @@ Last note: networking is important for both academic and non-academic careers!
   
 ### 5.3 Journal Articles
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*
+- [Optional] **The Savvy Academic: Publishing in the Social and Health Sciences** (SJ Schwartz, 2022, Oxford UP). || *New book, I haven't got the chance to read it.*  
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
 - [Optional] **From Dissertation to Book, 2nd ed.** (W Germano, 2016, University of Chicago Press).
-- [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP)
+- [Optional] **The Book Proposal Book: A Guide for Scholarly Authors** (L Portwood-Stacer, 2021, Princeton UP).
   
 ### 5.5 Blogs on Academic Writing
 - [Optional] [The Thesis Whisperer](https://thesiswhisperer.com/)  
