@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.12  
-Last update: 12 Mar 2022  
+Version 0.4.13  
+Last update: 24 Apr 2022  
 
 ## Table of Contents  
    
@@ -635,23 +635,21 @@ Thank you for bearing with me through this incredible journey.
   
 ## Appendix C
 
-### A word about PhD application
+### How to learn hard things and produce results
 
-I never thought I would need to talk about this, but reality has once again proved me wrong:  
+Doing and finishing a PhD is hard. There are strategies and tactics you can use, and the resources above have already covered a lot of ground from the ‘20-mile march’ to ‘deep work’.
 
-Each country, university, school, or department will have different PhD entry requirements and different application processes that you need to follow.  
+Here are some additional resources that may be useful.
 
-To show that you are a good researcher, the first step you should take is to research the **PhD entry requirements** and the **application process** of the university and the department that you want to get into. It’s also helpful to search online for generic information about PhD applications so you’ll have a fairly good understanding of the process and the common expectation (e.g. what documents you need to prepare) before you apply.  
+(a) How to keep going with no end in sight, that you can’t predict whether you would succeed or how long it will take, like doing a PhD?
 
-Some applicants assume that having a Master’s or Honours degree will automatically make them eligible for a PhD programme. That is not necessarily true. Many universities have a certain criterion regarding your previous grades. Also, keep in mind that your letter grades (B+ or A- etc.) may mean different things in different countries.  
+See [this part of Ryan O'Donnell’s video](https://youtu.be/YFUIPg8P2sY?t=140) (you can stop at 6’15”).
 
-I received a large number of applications in the first year at my current university, and I was rather surprised that the vast majority didn’t even meet the minimum entry requirements published on the university website, and most applicants didn’t follow the instructions on our website to send in the required documents.  
+Ignore the context if you are not in Math or CS, but take the message. This is a nice way to talk about the ‘1% rule’, which is akin to the 20-mile march principle.
 
-If your application indicates that you lack basic research skills to find and follow the instructions, then your chance of getting a favourable review of your application is rather slim. I spent hours after hours in the first year to reply to those applicants and chase up documents, and now I just use an auto-reply to point them to the website where the instructions are published. There are just too many people who don't bother to look.  
+(b) Some [techniques to learn hard things](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/) from Daniel Higginbotham. Again, ignore the context, and focus on the message that can be used in other areas.
 
-Once again, reality has taught me a lesson. I don’t want to be harsh, but you should **do your research** before you apply for an advanced research degree like a PhD!  
-
-I hope that's a fair comment, and I always welcome (and feel excited about) good applications!  
+Other resources will be added on an ad-hoc basis.
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
