@@ -646,9 +646,17 @@ See [this part of Ryan O'Donnell’s video](https://youtu.be/YFUIPg8P2sY?t=140) 
 
 Ignore the context if you are not in Math or CS, but take the message. This is a nice way to talk about the ‘1% rule’, which is akin to the 20-mile march principle.
 
-(b) Some [techniques to learn hard things](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/) from Daniel Higginbotham. Again, ignore the context, and focus on the message that can be used in other areas.
+(b) Some [techniques to learn hard things](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/) from Daniel Higginbotham.  
 
-Other resources will be added on an ad-hoc basis.
+Again, ignore the context, and focus on the message that can be used in other areas.  
+
+(c) A [short note on self-teaching strategies](https://functionalcs.github.io/curriculum/#Studying%20Strategies) (not sure who wrote this).  
+
+A word of caution: if you are getting into a completely different field with very little prior knowledge, then the amount of 'research' you need to do will be humongous if you follow this method, and will grow exponentially as you progress.  
+
+It may still work (I've done it a couple of times), but if you are 100% committed to a new field that you are trying to get into, then it's probably better to follow a more sequential method to lay the foundation and progress more systematically.  
+
+There are always pros and cons in each approach that you'll need to balance to make it work for you.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
