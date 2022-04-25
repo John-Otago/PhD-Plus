@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.13  
-Last update: 24 Apr 2022  
+Version 0.4.14  
+Last update: 25 Apr 2022  
 
 ## Table of Contents  
    
@@ -333,14 +333,13 @@ Again, all from the US. Students in other countries should pick up the key point
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on **Innovation-Driven Entrepreneurship** || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for their [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/).*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
-- [Optional] **Small Business Management: Theory & Practice, 4th ed.** (T Mazzarol & S Reboud, 2020, Springer)
-- [Optional] **Workbook for Small Business Management: Theory and Practice, 4th ed.** (T Mazzarol & S Reboud, 2020, Springer)
+- [No book recommended in this section.]
 
 Starting and running a small business (SME: small-or-medium-sized enterprise) is different from launching an innovation-driven startup to carve out a non-existing market. 
 
-A few books on non-academic careers in 4.3 have mentioned how some PhD graduates (especially those in HASS) have launched their consultancy or writing/editing services, who count as owner-operators of small businesses (or sole-traders/proprietors).  
+You'll see in the books on non-academic careers that some PhD graduates (especially in HASS) have launched their consultancy or writing/editing services, and essentially become owner-operators of small businesses (or sole-traders/proprietors).  
   
-The books in this section offer basic introductions. Practice is much more important than theory, whether you want to launch a startup or become a small business owner-manager. Your local small business council or association may be able to help, and there are lots of relevant resources online. You need to learn from people with real-life business experiences, not researchers.  
+Whether to run a startup or a small business, practice is much more important than theory. Your local small business council or association may be able to help, and there are lots of relevant resources online. You need to learn from people with real-life business experiences, not academics who write books for other academics. If you do read books, choose those written by experienced business people.  
   
 Last note: networking is important for both academic and non-academic careers!  
   
