@@ -466,7 +466,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
 ## 7. Become Self-Owned (continued)
   
 ### 7.1 Principles & Disciplines  
-  
+ 
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
   
 - **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book partially useful and not well-written, but read it anyway. It's followed by two more books by the same author if you are interested (he is a good thinker and practitioner, but not a good writer).*
@@ -480,17 +480,22 @@ These books can help you cultivate good habits and break bad ones, especially wh
 Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
   
 ### 7.2 Strategy & Execution
-- **Good to Great: Why Some Companies Make the Leap...And Others Don't** (J Collins, 2001, Harper Collins)
+#### Strategy
+- **How to Think Strategically: Sharpen Your Mind, Develop Your Competency, Contribute to Success** (G Githens, 2019/2020, Maven House)
+- [Optional] **Learning to Think Strategically, 4th ed.** (J Sloan, 2019, Routledge) || *Completely optional. The key message is very simple. Not a good return on time invested.*
+- **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
+
+#### Execution
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** that I recommended above. Or perhaps read only Part I & II (the first seven chapters).*
+- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** above. Or perhaps read only Part I & II (first seven chapters).
   
-It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs and national security, and business management. Few people talk about how it functions in everyday life.  
+It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs, and business administration. Few people talk about how it functions in everyday life.  
 
 In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
 
-I truly believe that strategic thinking is an essential skill to help people think, plan, and realise their goals and potential. Strategy is what gets you from where you are to where you want to be in the most effective and efficient way. It's crucial when you make major life decisions and long-term plans.  
+I truly believe that strategic thinking is essential to help people think, plan, and realise their goals and potential. Strategy is what gets you from here to where you want to be in the most efficient way. It's crucial when you make decisions and long-term plans.  
   
 Anyway, at the end of the day, keep in mind that *a good night's sleep* is sometimes the best strategy :)  
   
@@ -503,8 +508,8 @@ Anyway, at the end of the day, keep in mind that *a good night's sleep* is somet
 - [Optional] **Algorithms To Live By: The Computer Science of Human Decisions** (B Christian & T Griffiths, 2017, Picador)
 
 #### Problem-Solving
-- [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)
 - [Optional] **Nudge: The Final Edition** (RH Thaler & CR Sunstein, 2021, Penguin Books) || *Read it if you haven’t heard about ‘nudge’.*
+- [Optional] **Change: Principles of Problem Formation and Problem Resolution** (P Watzlawick et al., [1974] 2011, W. W. Norton & Company)  || *Completely optional.*
 - Many other books above have also covered decision-making and problem-solving.
 
 Goal-setting, decision-making, problem-solving, and risk-taking are important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice is always more important than theoretical knowledge on paper.  
