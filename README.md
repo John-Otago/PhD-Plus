@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.14  
-Last update: 25 Apr 2022  
+Version 0.4.15  
+Last update: 01 May 2022  
 
 ## Table of Contents  
    
@@ -481,8 +481,8 @@ Principles and disciplines are foundations of personal mastery and freedom. They
   
 ### 7.2 Strategy & Execution
 #### Strategy
+- **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books)
 - **How to Think Strategically: Sharpen Your Mind, Develop Your Competency, Contribute to Success** (G Githens, 2019/2020, Maven House)
-- [Optional] **Learning to Think Strategically, 4th ed.** (J Sloan, 2019, Routledge) || *Completely optional. The key message is very simple. Not a good return on time invested.*
 - **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
 
