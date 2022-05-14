@@ -489,15 +489,15 @@ Principles and disciplines are foundations of personal mastery and freedom. They
 #### Execution
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems** above. Or perhaps read only Part I & II (first seven chapters).
+- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems**. Or perhaps read only Part I & II (first seven chapters).
   
-It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign affairs, and business administration. Few people talk about how it functions in everyday life.  
+It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign policy, and business administration. Few people talk about how it functions in everyday life.  
 
-In fact, many people already engage strategic thinking on a day-to-day basis, from planning to decision-making, although most of them are not conscious that what they do is ‘strategy’.  
+In fact, many people already engage strategic thinking on a day-to-day basis from planning to decision-making, although most people are not conscious that what they do is ‘strategy’.  
 
 I truly believe that strategic thinking is essential to help people think, plan, and realise their goals and potential. Strategy is what gets you from here to where you want to be in the most efficient way. It's crucial when you make decisions and long-term plans.  
   
-Anyway, sometimes the best strategy is simply *a good night's sleep* :)  
+Anyway, at the end of the day, *a good night's sleep* may be the best strategy of all time :)  
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
