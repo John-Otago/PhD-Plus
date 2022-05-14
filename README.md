@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.15  
-Last update: 01 May 2022  
+Version 0.4.16  
+Last update: 15 May 2022  
 
 ## Table of Contents  
    
@@ -467,9 +467,9 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ### 7.1 Principles & Disciplines  
  
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as recommended in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about the points he has raised.*
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*
   
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book partially useful and not well-written, but read it anyway. It's followed by two more books by the same author if you are interested (he is a good thinker and practitioner, but not a good writer).*
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*
   
 - **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
   
@@ -481,7 +481,7 @@ Principles and disciplines are foundations of personal mastery and freedom. They
   
 ### 7.2 Strategy & Execution
 #### Strategy
-- **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books)
+- **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books) || *The first three chapters are exceptional; the rest is optional (but recommended).*
 - **How to Think Strategically: Sharpen Your Mind, Develop Your Competency, Contribute to Success** (G Githens, 2019/2020, Maven House)
 - **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
@@ -497,7 +497,7 @@ In fact, many people already engage strategic thinking on a day-to-day basis, fr
 
 I truly believe that strategic thinking is essential to help people think, plan, and realise their goals and potential. Strategy is what gets you from here to where you want to be in the most efficient way. It's crucial when you make decisions and long-term plans.  
   
-Anyway, at the end of the day, keep in mind that *a good night's sleep* is sometimes the best strategy :)  
+Anyway, sometimes the best strategy is simply *a good night's sleep* :)  
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
@@ -659,9 +659,13 @@ Again, ignore the context, and focus on the message that can be used in other ar
 
 A word of caution: if you are getting into a completely different field with very little prior knowledge, then the amount of 'research' you need to do will be humongous if you follow this method, and will grow exponentially as you progress.  
 
-It may still work (I've done it a couple of times), but if you are 100% committed to a new field that you are trying to get into, then it's probably better to follow a more sequential method to lay the foundation and progress more systematically.  
+It may still work (I've done it a couple of times), but if you are 100% committed to a new field that you are trying to get into, then it's probably better to follow a more sequential method to lay the foundation and progress more systematically, whether you start from bottom-up or top-down (see section (d) below).  
 
 There are always pros and cons in each approach that you'll need to balance to make it work for you.  
+
+(d) Some [very good reflections on education](https://www.fast.ai/2016/10/08/teaching-philosophy/) (from the pitfall of the conventional philosophy to more effective self-teaching, doing a PhD, and progressing further).
+
+Worth reading.  
   
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
