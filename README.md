@@ -2,7 +2,7 @@
   
 A J.W. Project  
 Version 0.4.16  
-Last update: 23 May 2022  
+Last update: 16 June 2022  
 
 ## Table of Contents  
    
@@ -445,9 +445,9 @@ These books can help improve your communication skills in everyday life and in y
 ### 6.4 Change Your Habits  
 - **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
   
-- [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *This one is completely optional.*  
+- [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional. The first book is better (I revisited my notes six months later and still reached the same conclusion).*  
 
-These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
+These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
    
 ### 6.5 Change How You Deal with Emotions
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
