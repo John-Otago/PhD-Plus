@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.16  
-Last update: 16 June 2022  
+Version 0.4.17  
+Last update: 10 July 2022  
 
 ## Table of Contents  
    
@@ -425,7 +425,7 @@ The first few books are must-reads. The last one is optional.
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
   
-- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. There are also many online resources devoted to GTD.*
+- **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. The author has two other books, Ready for Everything and Making It All Work, and parts of them may be helpful.*
   
 - **Scarcity: Why Having Too Little Means So Much** (S Mullainathan & E Shafir, 2013, Times Books) || *It’s included here again because it has implications on how we work and is relevant to the two books on time/energy management below*.
   
