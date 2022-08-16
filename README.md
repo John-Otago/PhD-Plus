@@ -335,7 +335,7 @@ Again, all from the US. Students in other countries should pick up the key point
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
 - [No book recommended in this section.]
 
-Starting and running a small business (SME: small-or-medium-sized enterprise) is different from launching an innovation-driven startup to carve out a non-existing market. 
+Starting and running a small business (SME: small-or-medium-sized enterprise) is different from launching an innovation-driven startup. 
 
 You'll see in the books on non-academic careers that some PhD graduates (especially in HASS) have launched their consultancy or writing/editing services, and essentially become owner-operators of small businesses (or sole-traders/proprietors).  
   
