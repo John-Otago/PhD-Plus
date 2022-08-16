@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J.W. Project  
-Version 0.4.17  
-Last update: 10 July 2022  
+Version 0.4.18  
+Last update: 17 August 2022  
 
 ## Table of Contents  
    
@@ -48,7 +48,7 @@ Last update: 10 July 2022
   &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
   &emsp;&emsp;[6.3 Change How You Communicate](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-how-you-communicate)  
   &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
-  &emsp;&emsp;[6.5 Change How You Deal with Emotions](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-deal-with-emotions)  
+  &emsp;&emsp;[6.5 Change How You Deal with Stress and Anxiety](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-deal-with-stress-and-anxiety)  
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
@@ -449,7 +449,9 @@ These books can help improve your communication skills in everyday life and in y
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
    
-### 6.5 Change How You Deal with Emotions
+### 6.5 Change How You Deal with Stress and Anxiety
+- **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || A very insightful and helpful book. Highly recommended.
+
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
 ### 6.6 Change How You Use Digital Tools
