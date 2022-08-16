@@ -469,7 +469,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ### 7.1 Principles & Disciplines  
  
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as mentioned in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*
   
 - **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*
   
