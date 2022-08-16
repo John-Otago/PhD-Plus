@@ -558,6 +558,8 @@ Only when you reduce and eliminate noises, distractions, falsehoods, and the non
 In terms of **learning**, once you have *built up* your reservoir of knowledge, you’ll need to *build down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
   
 In terms of **doing**, less is more. By doing less and only the most crucial, you can keep a sharp focus, align your efforts with what matters most, and direct your attention and energy to your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and productive way to achieve what you aim for.  
+
+In other words, you need to align your resources, efforts, and capabilities with your intentions and aspirations. Respect constraints.  
   
 The most useful can be the most concise. The most essential can be the simplest of all.  
   
