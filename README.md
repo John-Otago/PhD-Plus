@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
-A J.W. Project  
-Version 0.4.18  
-Last update: 17 August 2022  
+A J. W. Project  
+Version 0.4.19  
+Last update: 12 September 2022  
 
 ## Table of Contents  
    
@@ -418,9 +418,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
   
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *This is a collection of five books. Read them all, or at least **Antifragile: Things That Gain from Disorder** (2012/2014). You don’t need to agree with the author on everything, but take in the key points.*
   
-- [Optional] **Thinking, Fast and Slow** (D Kahneman, 2011, Farrar, Straus & Giroux) || *If you read this book, be aware that many studies cited in the text cannot serve as scientific evidence for the author’s arguments (see [here]( https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/))*
-  
-The first few books are must-reads. The last one is optional.
+Read them all.  
   
 ### 6.2 Change How You Work
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
@@ -431,8 +429,10 @@ The first few books are must-reads. The last one is optional.
   
 - **When: The Scientific Secrets of Perfect Timing** (DH Pink, 2018, Riverhead Books of Penguin Random House) || *Read Part One (the first two chapters); the rest is optional.*
   
-- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-à-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and academic life.*
-
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-à-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and academic life.*  
+  
+- **Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done** (J Davis, 2015/2017, HarperOne) || *I find the first strategy quite useful, and perhaps the next two. The rest are very common and you probably have picked them up elsewhere.*  
+  
 You should read these books. The goal is to help you get the most of graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
 ### 6.3 Change How You Communicate
