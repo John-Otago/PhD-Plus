@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.19  
-Last update: 12 September 2022  
+Version 0.4.20  
+Last update: 09 October 2022  
 
 ## Table of Contents  
    
