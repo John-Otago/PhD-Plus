@@ -483,7 +483,7 @@ Principles and disciplines are foundations of personal mastery and freedom. They
   
 ### 7.2 Strategy & Execution
 #### Strategy
-- **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books) || *The first three chapters are exceptional; the rest is optional (but recommended).*
+- **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books) || *Read the whole thing.*
 - **How to Think Strategically: Sharpen Your Mind, Develop Your Competency, Contribute to Success** (G Githens, 2019/2020, Maven House)
 - **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
