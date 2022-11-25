@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.20  
-Last update: 09 October 2022  
+Version 0.4.21  
+Last update: 26 November 2022  
 
 ## Table of Contents  
    
@@ -503,7 +503,7 @@ Anyway, at the end of the day, *a good night's sleep* may be the best strategy o
   
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
-- **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) is particularly good. If you only read one book about decision-making, this should be the one.*
+- **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) is particularly good. If you only read one book on decision-making, this should be the one.*
 - **How to Decide: Simple Tools for Making Better Choices** (A Duke, 2020, Portfolio) || *A nice summary of relevant tools that complements the book above. You may also consult her earlier book **Thinking in Bets** (2018/2019, perhaps only the first chapter).*
 - [Optional] **Smart Choices: A Practical Guide to Making Better Decisions** (JS Hammond et al., [1999] 2015, Harvard Business Review Press)
 - [Optional] **Noise: A Flaw in Human Judgment** (D Kahneman et al., 2021, Little, Brown Spark)
