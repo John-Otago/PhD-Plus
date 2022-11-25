@@ -48,14 +48,15 @@ Last update: 26 November 2022
   &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
   &emsp;&emsp;[6.3 Change How You Communicate](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-how-you-communicate)  
   &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
-  &emsp;&emsp;[6.5 Change How You Deal with Stress and Anxiety](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-deal-with-stress-and-anxiety)  
+  &emsp;&emsp;[6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience)  
   &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
   &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
-  &emsp;&emsp;[7.4 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-the-overlooked--undervalued)  
+  &emsp;&emsp;[7.4 Sustained Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-productivity)  
+  &emsp;&emsp;[7.5 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#75-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
@@ -449,9 +450,11 @@ These books can help improve your communication skills in everyday life and in y
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
    
-### 6.5 Change How You Deal with Stress and Anxiety
-- **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || A very insightful and helpful book. Highly recommended.
-
+### 6.5 Change How You Build Resilience
+- **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
+  
+- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Exceptional. Read the whole thing.*    
+  
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
 ### 6.6 Change How You Use Digital Tools
@@ -515,8 +518,14 @@ Anyway, at the end of the day, *a good night's sleep* may be the best strategy o
 - Many other books above have also covered decision-making and problem-solving.
 
 Goal-setting, decision-making, problem-solving, and risk-taking are important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice is always more important than theoretical knowledge on paper.  
+   
+### 7.4 Sustained Productivity
+- **Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success** (B Stulberg & S Magness, 2017, Rodale) || *Read Section 1.*  
+- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *I have recommended this book above. Everyone should read it.*  
+
+This section is a follow-up to 6.2 Change How Your Work and 6.5 Change How You Build Resilience. **Productivity** is super important for both individuals (personal growth and life-long learning) and our society (development and prosperity). The key is **sustainability** – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
   
-### 7.4 The Overlooked & Undervalued   
+### 7.5 The Overlooked & Undervalued   
 - Books to be added later.  
   
 There are things that they won’t teach and you won’t learn in graduate school, and there are unorthodox approaches that conventional academics may frown upon.  
