@@ -478,7 +478,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
   
-- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Same here: read it if you haven't. Also feel free to consult other books by Jim Collins.*
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Same here: read it if you haven't. Also consult other books by Jim Collins.*
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
   
