@@ -455,7 +455,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
 ### 6.5 Change How You Build Resilience
 - **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
   
-- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Exceptional. Read the whole thing.*    
+- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Exceptional. Read the whole thing. See also Section 7.4 below.*  
   
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
