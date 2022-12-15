@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.21  
-Last update: 26 November 2022  
+Version 0.4.22  
+Last update: 15 December 2022  
 
 ## Table of Contents  
    
@@ -55,7 +55,7 @@ Last update: 26 November 2022
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
   &emsp;&emsp;[7.2 Strategy & Execution](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#72-strategy--execution)  
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
-  &emsp;&emsp;[7.4 Sustained Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-productivity)  
+  &emsp;&emsp;[7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity)  
   &emsp;&emsp;[7.5 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#75-the-overlooked--undervalued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
@@ -73,11 +73,13 @@ Last update: 26 November 2022
 ## Introduction
 
 ### 0.1 Purpose
-This project is to help students prepare for their PhD/Graduate School. Supervisors may also find it useful.
+This project is to help students prepare for their PhD/Graduate School. Supervisors (and potentially anyone who desires continued personal growth) may also find it useful.
   
-Ideally you should read through the list and the books before you start graduate school, although students at any stage of their graduate training (and perhaps early-career researchers) can benefit from this project.
+Ideally, you should read through the list and the books before you start graduate school, although people at any stage of their graduate training and academic career can benefit from this project.
 
 Many students (including me years ago) came to graduate school underprepared, and supervisors are often deprived of time and may not be able to offer more holistic training and personal development beyond research.  
+  
+Institutionally, there’s often very limited targeted training and skill development for students before their exposure to the stress in graduate school (and later in their academic career, if they can find a job). It’s like sending soldiers to the battlefield without training.  
   
 This project aims to develop and offer a more systematic understanding of graduate studies and more holistic training of graduate students—hence reimagine what graduate education can do and can be.  
   
@@ -472,9 +474,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ### 7.1 Principles & Disciplines  
  
-- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as mentioned in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*
-  
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*
+- **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as mentioned in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*  
   
 - **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
   
@@ -482,7 +482,10 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
   
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*    
+  
 Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
+  
   
 ### 7.2 Strategy & Execution
 #### Strategy
@@ -504,6 +507,7 @@ I truly believe that strategic thinking is essential to help people think, plan,
   
 Anyway, at the end of the day, *a good night's sleep* may be the best strategy of all :)  
   
+  
 ### 7.3 Decision-Making & Problem-Solving
 #### Decision-Making
 - **Decisive: How to Make Better Choices in Life and Work** (UK version: **Decisive: How to Make Better Decisions**) (C Heath & D Heath, 2013, Currency) || *Highly recommended. Part I (Chapters 2-4) is particularly good. If you only read one book on decision-making, this should be the one.*
@@ -519,11 +523,14 @@ Anyway, at the end of the day, *a good night's sleep* may be the best strategy o
 
 Goal-setting, decision-making, problem-solving, and risk-taking are important and integral to our work and life. Read widely on these topics so you'll see the connections, but keep in mind that practice is always more important than theoretical knowledge on paper.  
    
-### 7.4 Sustained Productivity
+   
+### 7.4 Sustained Passion, Performance, and Productivity
 - **Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success** (B Stulberg & S Magness, 2017, Rodale) || *Read Section 1.*  
-- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *I have recommended this book above. Everyone should read it.*  
+- **The Passion Paradox: A Guide to Going All In, Finding Success, and Discovering the Benefits of an Unbalanced Life** (B Stulberg & S Magness, 2019, Rodale) || Read the whole thing. This book gives very insightful and practical advice on how to develop a growth mindset, which is super important in life and work towards freedom and self-mastery.  
+- **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Already recommended above. This is one of the most important books on the list that ties a lot of things together. Everyone should read it.*  
 
-This section is a follow-up to 6.2 Change How Your Work and 6.5 Change How You Build Resilience. **Productivity** is super important for both individuals (personal growth and life-long learning) and our society (development and prosperity). The key is **sustainability** – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
+This section is a follow-up to 6.2 Change How Your Work and 6.5 Change How You Build Resilience. **Productivity** is super important for both individuals (personal growth and life-long learning) and society (development and prosperity), and so are sustained passion and performance. **Sustainability** is the key – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
+  
   
 ### 7.5 The Overlooked & Undervalued   
 - Books to be added later.  
