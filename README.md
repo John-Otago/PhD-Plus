@@ -369,7 +369,7 @@ Last note: networking is important for both academic and non-academic careers!
 ### 5.3 Journal Articles
 - [Optional] **Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, 2nd ed.** (WL Belcher, 2019, University of Chicago Press). || *It's a large and heavy book (literally), helpful for beginners who prefer highly structured step-by-step instructions.*  
   
-- [Optional] **The Savvy Academic: Publishing in the Social and Health Sciences** (SJ Schwartz, 2022, Oxford UP). || *New book, I haven't got the chance to read it.*  
+- [Optional] **The Savvy Academic: Publishing in the Social and Health Sciences** (SJ Schwartz, 2022, Oxford UP). || *Can be useful for those in social and behavioural sciences.*  
   
 ### 5.4 Publish your PhD as a Book (humanities & humanistic social sciences)
 - [Optional] **Getting It Published: A Guide for Scholars and Anyone Else Serious about Serious Books, 3rd ed.** (W Germano, 2016, University of Chicago Press).
