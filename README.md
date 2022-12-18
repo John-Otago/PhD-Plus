@@ -263,6 +263,7 @@ Above all, make your productivity sustainable - see Section 7.4 below.
 (e) Flexibility, adaptability, and perseverance are the key.  
 (f) Build and improve resilience: build redundancy into the system, make back-up plans, don't put all the eggs in one basket, build multiple pillars to support work and life, expect and live with ups and downs, don't rely exclusively on that 'one shot' that may or may not work, keep an open mind and a good peripheral vision, and don't get caught up in a tunnelled vision that obscures the big picture.  
   
+Sections 6-7 will be helpful.  
   
 [**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
