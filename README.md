@@ -323,7 +323,7 @@ The first book offers a good overview (matter-of-factly, as if most PhD graduate
 All three books need an update, perhaps in a few years after Covid-19 as the pandemic may have a lasting impact on the market. I do recommend that you read all these books at the *beginning* of graduate school, and revisit them (perhaps updated editions) when you are ready to look for jobs in academia.  
   
 ### 4.3 Non-Academic Careers
-- **Leaving Academia: A Practical Guide (Skills for Scholars series)** (CL Caterine, 2020, Princeton UP)
+- **Leaving Academia: A Practical Guide (*Skills for Scholars* series)** (CL Caterine, 2020, Princeton UP)
 - **Going Alt-Ac: A Guide to Alternative Academic Careers** (KE Linder et al., 2020, Stylus Publishing)
 - **Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** (eds. J Fruscione & KJ Baker, 2018, University Press of Kansas)
 - **So What Are You Going to Do with That? Finding Careers Outside Academia, 3rd ed.** (S Basalla & M Debelius, 2014, University of Chicago Press)
