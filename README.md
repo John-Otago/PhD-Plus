@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.22  
-Last update: 15 December 2022  
+Version 0.4.23  
+Last update: 19 December 2022  
 
 ## Table of Contents  
    
@@ -476,13 +476,13 @@ These books can help you cultivate good habits and break bad ones, especially wh
  
 - **Incerto** (NN Taleb, 2019/2021, Random House) || *You’ve read **Antifragile** as mentioned in 6.1? Good. Now go and read the rest of the collection. Again, you don't need to agree with the author on everything, but think about what he said.*  
   
-- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic--please do read it if you haven't.*
+- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*  
   
-- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Same here: read it if you haven't. Also consult other books by Jim Collins.*
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Read it if you haven't. Also consult other books by Jim Collins.*
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
   
-- **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*    
+- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic. It's not the best book out there, but please do read it if you haven't.*  
   
 Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
   
