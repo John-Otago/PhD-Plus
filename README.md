@@ -222,7 +222,7 @@ Some books I recommend below (Sections 3-7) can help you better understand and c
 - **Communication**
 - **Strategy**
 - **Execution**
-- **Productivity**
+- **Sustained Productivity**
 - **Resilience**
 
 ### 2.4 Methods
@@ -234,7 +234,7 @@ Here's how you do it:
 - Adapt to changes and mistakes
 
 **Communication:**  
-If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind the schedule, tell your advisor and work out a strategy.  
+If you have a question, ask. If you're unsure about anything, check with your advisor. If you are falling behind, tell your advisor and work out a strategy.  
   
 **Strategy & Execution:**  
 (a) Focus on the things that will help you achieve your goal (complete the PhD on time) while developing useful skills.  
@@ -252,6 +252,8 @@ The former means you are 'productive' in the sense that you are producing more r
 The latter is to improve your productivity--in the long run, that's the only thing that matters. Less input and more output should always be the goal but may be difficult to achieve. It needs constant learning, upskilling, reflecting, testing, and polishing to improve, and it's a never-ending process.  
 
 In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. 
+  
+Above all, make your productivity sustainable - see Section 7.4 below.  
   
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
