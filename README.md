@@ -481,11 +481,9 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Principles: Life & Work** (R Dalio, 2017, Simon & Schuster) || *You may find this book a bit too long and only partially useful, but read it anyway. It's followed by two more books by the same author if you are interested.*  
   
-- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Read it if you haven't. Also consult other books by Jim Collins.*
+- **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Read it if you haven't. Also consult other books by Jim Collins.*  
   
-- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
-  
-- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic. It's not the best book out there, but please do read it if you haven't.*  
+- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic. It's not the best book out there, but do read it if you haven't.*  
   
 Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
   
@@ -526,6 +524,7 @@ Goal-setting, decision-making, problem-solving, and risk-taking are important an
    
    
 ### 7.4 Sustained Passion, Performance, and Productivity
+- **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *I’ve already recommended this book. It covers both practical issues and important underlying principles to help us organise our life and work.*  
 - **Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success** (B Stulberg & S Magness, 2017, Rodale) || *Read Section 1.*  
 - **The Passion Paradox: A Guide to Going All In, Finding Success, and Discovering the Benefits of an Unbalanced Life** (B Stulberg & S Magness, 2019, Rodale) || Read the whole thing. This book gives very insightful and practical advice on how to develop a growth mindset, which is super important in life and work towards freedom and self-mastery.  
 - **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Already recommended above. This is one of the most important books on the list that ties a lot of things together. Everyone should read it.*  
