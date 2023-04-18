@@ -464,7 +464,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *May be helpful.*
   
-- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T. Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic, but may still be helpful (e.g. Chapters 2 &3).*
+- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic overall, but may still be helpful (e.g. Chapters 2 & 3).*
   
 ### 6.6 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
