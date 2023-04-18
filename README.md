@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.24  
-Last update: 02 February 2023  
+Version 0.4.25  
+Last update: 18 April 2023  
 
 ## Table of Contents  
    
@@ -463,6 +463,8 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
   
 - [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *May be helpful.*
+  
+- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T. Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic, but may still be helpful (e.g. Chapters 2 &3).*
   
 ### 6.6 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
