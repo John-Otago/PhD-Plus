@@ -498,9 +498,9 @@ Principles and disciplines are foundations of personal mastery and freedom. They
 #### Strategy
 - **On Grand Strategy** (JL Gaddis, 2018/2019, Penguin Books) || *Read the whole thing.*
 - **How to Think Strategically: Sharpen Your Mind, Develop Your Competency, Contribute to Success** (G Githens, 2019/2020, Maven House)
-- **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
 - **Essentialism: The Disciplined Pursuit of Less** (G McKeown, 2014/2020, Currency/Crown)
-
+- **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
+  
 #### Execution
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
@@ -512,7 +512,7 @@ In fact, many people already engage strategic thinking on a day-to-day basis fro
 
 I truly believe that strategic thinking is essential to help people think, plan, and realise their goals and potential. Strategy is what gets you from here to where you want to be in the most efficient way. It's crucial when you make decisions and long-term plans.  
   
-Anyway, at the end of the day, *a good night's sleep* may be the best strategy of all :)  
+Anyway, at the end of the day, *a good night's sleep* is often the best strategy :)  
   
   
 ### 7.3 Decision-Making & Problem-Solving
