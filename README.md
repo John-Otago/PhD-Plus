@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.4.26  
-Last update: 27 April 2023  
+Version 0.5.1  
+Last update: 16 June 2023  
 
 ## Table of Contents  
    
@@ -462,11 +462,11 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- [Optional] **Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life** (S David, 2016, Avery, of Penguin Random House) || *I find Chapter 6 enlightening; you can consult other chapters if you find them useful.*
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to a more spiritual level. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come into your life at a time when you indeed need them. Give them a go.*  
   
-- [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *May be helpful.*
+- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic overall, but may still be helpful (e.g. Chapters 2 & 3).*  
   
-- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic overall, but may still be helpful (e.g. Chapters 2 & 3).*
+- [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *May be helpful.*  
   
 ### 6.6 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
