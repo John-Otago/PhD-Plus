@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.1  
-Last update: 16 June 2023  
+Version 0.5.2  
+Last update: 05 July 2023  
 
 ## Table of Contents  
    
@@ -49,7 +49,8 @@ Last update: 16 June 2023
   &emsp;&emsp;[6.3 Change How You Communicate](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-how-you-communicate)  
   &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
   &emsp;&emsp;[6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience)  
-  &emsp;&emsp;[6.6 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-use-digital-tools)  
+  &emsp;&emsp;[6.6 Change How You Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-design-your-work--life)  
+  &emsp;&emsp;[6.7 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-change-how-you-use-digital-tools)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
@@ -462,13 +463,17 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to a more spiritual level. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come into your life at a time when you indeed need them. Give them a go.*  
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come to your life at a time when you need them. Give them a go.*  
   
+- [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *Maybe helpful.*  
+  
+### 6.6 Change How You Design Your Work & Life
+  
+- **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful. There's a follow-up book called Designing Your New Work Life (2021) as well.* 
+    
 - [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic overall, but may still be helpful (e.g. Chapters 2 & 3).*  
   
-- [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *May be helpful.*  
-  
-### 6.6 Change How You Use Digital Tools
+### 6.7 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
   
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
