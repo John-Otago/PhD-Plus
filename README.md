@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.2  
-Last update: 05 July 2023  
+Version 0.5.3  
+Last update: 28 July 2023  
 
 ## Table of Contents  
    
@@ -460,6 +460,8 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
   
 - **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Exceptional. Read the whole thing. See also Section 7.4 below.*  
+  
+- **The Happiness Trap: How to Stop Struggling and Start Living, 2nd ed.** (R Harris, 2022, Shambhala Publications) || *There’s also a concise, comic-book version called **The Happiness Trap Pocketbook: An Illustrated Guide on How to Stop Struggling and Start Living** (US title: **The Illustrated Happiness Trap**), which may be a better starting point before you go through the whole book.*  
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
