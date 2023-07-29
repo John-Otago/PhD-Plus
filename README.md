@@ -112,7 +112,7 @@ Keep in mind that this project is to inspire new ways of thinking and explore ne
 I welcome feedback and input from students, advisors, and everyone else. This is a Project as a Service (PaaS) that I would like to keep in [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) that can be constantly tested and updated.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
