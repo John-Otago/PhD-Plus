@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.3  
+Version 0.5.4  
 Last update: 29 July 2023  
 
 ## Table of Contents  
@@ -175,7 +175,7 @@ Freedom is the ultimate goal. Freedom is never free—it can only be achieved th
 Graduate training is not the only way to achieve this goal, and this process entails lifelong development beyond formal education. Nonetheless, it is a desirable outcome to aim for.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -266,7 +266,7 @@ Above all, make your productivity sustainable - see Section 7.4 below.
   
 Sections 6-7 will be helpful.  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---  
   
@@ -291,7 +291,7 @@ Sections 6-7 will be helpful.
 Read the books above when you start graduate school. The newspapers are trade publications to help you understand the current issues and the 'big picture' of higher education, which can be helpful if you are considering an academic career (but see Section 4 below). Or you can read my curated list [here](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md) to keep up with relevant news reports, although my focus may be different from yours.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -351,7 +351,7 @@ Whether to run a startup or a small business, practice is much more important th
 Last note: networking is important for both academic and non-academic careers!  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -409,7 +409,7 @@ Always talk to your supervisor about writing and publication; you need to publis
 Selecting journals and publishers is VERY important but rarely discussed openly and publicly, especially in HASS. Check another project of mine [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well as my collection of [relevant news reports and discussions](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication).  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -481,7 +481,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
 - [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -555,7 +555,7 @@ This kind of omission will create blind spots that you'll miss, especially those
 I will add a few books and relevant resources to this section.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -611,7 +611,7 @@ I hope this project is a good start towards that goal.
   
 Keep pushing.  
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
     
@@ -633,7 +633,7 @@ In Section 1.2, I asked you to think about why you want a PhD. Here are a few co
 Again, I raise these questions, not to be cynical or discourage you from graduate school, but to ask you to think clearly and strategically about the cost and benefit as well as potential risks and possible outcomes. Once again, this can be a life-changing decision, and you should take it very seriously. Read the books above to help you make the right decision.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -666,7 +666,7 @@ I hope I have been able to engage these different but connected approaches to pr
 Thank you for bearing with me through this incredible journey.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
@@ -701,7 +701,7 @@ There are always pros and cons in each approach that you'll need to balance to m
 Worth reading.  
   
   
-[**Back to Table of Contents**](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
   
   ---
   
