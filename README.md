@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.4  
-Last update: 29 July 2023  
+Version 0.5.5  
+Last update: 01 September 2023  
 
 ## Table of Contents  
    
@@ -438,7 +438,7 @@ Read them all.
   
 - **The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal** (J Loehr & T Schwartz, 2003, Free Press) || *This book is about energy management (vis-à-vis time management); you'll find it useful if you frequently deal with heavy workloads and long hours, which may be typical during your PhD and academic life.*  
   
-- **Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done** (J Davis, 2015/2017, HarperOne) || *I find the first strategy quite useful, and perhaps the next two. The rest are very common and you probably have picked them up elsewhere.*  
+- [Optional] **Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done** (J Davis, 2015/2017, HarperOne) || *I find the first strategy quite useful, and perhaps the next two. The rest are very common and you probably have picked them up elsewhere.*  
   
 You should read these books. The goal is to help you get the most of graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
@@ -496,7 +496,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 - **Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All** (J Collins & MT Hansen, 2011, Harper Collins) || *Read it if you haven't. Also consult other books by Jim Collins.*  
   
-- **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic. It's not the best book out there, but do read it if you haven't.*  
+- [Optional] **The 7 Habits of Highly Effective People, 30th-anniversary edition.** (SR Covey, [1989] 2020, Free Press, of Simon & Schuster) || *Presumably most people have read this old classic. It's not the best book out there, but do read it if you haven't.*  
   
 Principles and disciplines are foundations of personal mastery and freedom. They support how you think and act. They keep you going in good times and bad. They guide you through difficulties and uncertainties. This section is the prerequisite for what comes below.  
   
