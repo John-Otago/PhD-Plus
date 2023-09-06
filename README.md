@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.5  
-Last update: 01 September 2023  
+Version 0.5.6  
+Last update: 06 Sep 2023  
 
 ## Table of Contents  
    
@@ -334,6 +334,8 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
+See also the books in section [6.6 Change How You Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-design-your-work--life) before you start (or change) your career.  
+  
 ### 4.4 University Startups & Innovation-Driven Entrepreneurship
 - [Optional] **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
@@ -450,12 +452,14 @@ You should read these books. The goal is to help you get the most of graduate sc
 These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
 ### 6.4 Change Your Habits  
-- **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
+- [Optional] **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
   
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional. The first book is better (I revisited my notes six months later and still reached the same conclusion).*  
 
-These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.
-   
+These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.  
+  
+Note: also check out the books in section [6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience) and section [7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity). Focusing on the overall patterns of how you think and how you behave may work better than targeting specific habits one by one.  
+  
 ### 6.5 Change How You Build Resilience
 - **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
   
@@ -471,9 +475,11 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 ### 6.6 Change How You Design Your Work & Life
   
-- **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful. There's a follow-up book called Designing Your New Work Life (2021) as well.* 
+- **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you start/change your career.*
+  
+- [Optional] **Designing Your New Work Life: How to Thrive and Change and Find Happiness - and a New Freedom - at Work** (B Burnett & D Evans, 2023, Vintage) || *A follow-up to their last book, but isn’t as good (they tried to cover too much and it’s a bit all over the place). Some chapters may still be useful, though.*
     
-- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *Perhaps a bit too basic overall, but may still be helpful (e.g. Chapters 2 & 3).*  
+- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, but give it a go and see it for yourself (I do like Chapters 2 & 3).*  
   
 ### 6.7 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
