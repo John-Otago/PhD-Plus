@@ -475,7 +475,7 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 ### 6.6 Change How You Design Your Work & Life
   
-- **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you start/change your career.*
+- **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you are going to start/change your career.*
   
 - [Optional] **Designing Your New Work Life: How to Thrive and Change and Find Happiness - and a New Freedom - at Work** (B Burnett & D Evans, 2023, Vintage) || *A follow-up to their last book, but isn’t as good (they tried to cover too much and it’s a bit all over the place). Some chapters may still be useful, though.*
     
