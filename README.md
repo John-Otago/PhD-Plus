@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.6  
-Last update: 06 Sep 2023  
+Version 0.5.7  
+Last update: 11 Sep 2023  
 
 ## Table of Contents  
    
@@ -280,6 +280,8 @@ Sections 6-7 will be helpful.
 ### 3.2 Working in Graduate School (and Academia)
 - **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (JM Calarco, 2020, Princeton UP) || *A useful book on e.g. how to build a team of mentors as you shouldn’t rely on one person (your supervisor) for all your mentoring needs (Chapter 2), academic jargon in the US (Chap 3), basic types and ‘politics’ of publication (8), presentations and conferences (9-10), and the job market (11).*
   
+- **Planning Your PhD: All the Tools and Advice You Need to Finish Your PhD in Three Years** (H Kearns & M Gardiner, 2013, ThinkWell) || *They have published a whole set of books for PhD students, mostly workbooks to help you with different aspects of doing (and finishing) a PhD, especially if you are in Australia or New Zealand.*
+  
 - [Optional] **The Academic's Handbook, 4th ed.** (LA Flores & JH Olcott, 2020, Duke UP) || *This is written for career academics who have landed an academic job after graduate school. It may be useful for graduate students.*  
   
 ### 3.3 Understanding Higher Education
@@ -469,7 +471,7 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come to your life at a time when you need them. Give them a go.*  
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come to your life at a time when you need them. Give them a go. If you like them, continue to his other books like **Stillness Speaks** (2003) etc.*  
   
 - [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *Maybe helpful.*  
   
