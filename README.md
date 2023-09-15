@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.7  
-Last update: 11 Sep 2023  
+Version 0.5.8  
+Last update: 16 Sep 2023  
 
 ## Table of Contents  
    
@@ -471,9 +471,7 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. You may or may not be concerned with spirituality, but these books can be enlightening and insightful, and they may come to your life at a time when you need them. Give them a go. If you like them, continue to his other books like **Stillness Speaks** (2003) etc.*  
-  
-- [Optional] **The Worry Solution: Using Your Healing Mind to Turn Stress and Anxiety into Better Health and Happiness** (M Rossman, 2010, Harmony) || *Maybe helpful.*  
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. Give them a go - these books can be quite enlightening and insightful. If you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*  
   
 ### 6.6 Change How You Design Your Work & Life
   
