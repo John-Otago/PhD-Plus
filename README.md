@@ -469,7 +469,7 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **The Happiness Trap: How to Stop Struggling and Start Living, 2nd ed.** (R Harris, 2022, Shambhala Publications) || *There’s also a concise, comic-book version called **The Happiness Trap Pocketbook: An Illustrated Guide on How to Stop Struggling and Start Living** (US title: **The Illustrated Happiness Trap**), which may be a better starting point before you go through the full version.*  
   
-- **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: *Buddha’s Brain*, *Hardwiring Happiness*, *Resilient*, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
+- **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
 - **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. Give them a go - these books can be quite enlightening and insightful. If you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*  
   
