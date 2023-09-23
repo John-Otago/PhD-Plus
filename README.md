@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.8  
-Last update: 16 Sep 2023  
+Version 0.5.9  
+Last update: 24 Sep 2023  
 
 ## Table of Contents  
    
@@ -454,9 +454,9 @@ You should read these books. The goal is to help you get the most of graduate sc
 These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
 ### 6.4 Change Your Habits  
-- [Optional] **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Part One (Chapters 1-3) and the first half of Part Two (Chapters 4-5).*
+- [Optional] **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Chapters 1-5.*
   
-- [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional. The first book is better (I revisited my notes six months later and still reached the same conclusion).*  
+- [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional.*  
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.  
   
@@ -477,7 +477,7 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you are going to start/change your career.*
   
-- [Optional] **Designing Your New Work Life: How to Thrive and Change and Find Happiness - and a New Freedom - at Work** (B Burnett & D Evans, 2023, Vintage) || *A follow-up to their last book, but isn’t as good (they tried to cover too much and it’s a bit all over the place). Some chapters may still be useful, though.*
+- [Optional] **Designing Your New Work Life: How to Thrive and Change and Find Happiness - and a New Freedom - at Work** (B Burnett & D Evans, 2023, Vintage) || *A follow-up to their last book. Some chapters may be useful.*
     
 - [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, but give it a go and see it for yourself (I do like Chapters 2 & 3).*  
   
@@ -515,6 +515,7 @@ Principles and disciplines are foundations of personal mastery and freedom. They
 - **Good to Great: Why Some Companies Make the Leap...and Others Don't** (J Collins, 2001, Harper Collins)
   
 #### Execution
+- **The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results** (G Keller & J Papasan, 2013, Bard Press) || *Read Chapters 1-2, 4, 10, and (perhaps) 13-18.*
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
 - [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems**. Or perhaps read only Part I & II (first seven chapters).
