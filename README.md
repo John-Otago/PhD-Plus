@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.9  
-Last update: 24 Sep 2023  
+Version 0.5.10  
+Last update: 21 Oct 2023  
 
 ## Table of Contents  
    
@@ -479,7 +479,9 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - [Optional] **Designing Your New Work Life: How to Thrive and Change and Find Happiness - and a New Freedom - at Work** (B Burnett & D Evans, 2023, Vintage) || *A follow-up to their last book. Some chapters may be useful.*
     
-- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, but give it a go and see it for yourself (I do like Chapters 2 & 3).*  
+- [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, although I do like Chapters 2-3.*  
+  
+- [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
   
 ### 6.7 Change How You Use Digital Tools
 - Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
