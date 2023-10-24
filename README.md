@@ -471,7 +471,9 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. Give them a go - these books can be quite enlightening and insightful. If you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*  
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. Give them a go - these books can be quite enlightening and insightful. If you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*
+  
+This is perhaps the most important section of this project. Read all the books listed here.  
   
 ### 6.6 Change How You Design Your Work & Life
   
@@ -482,8 +484,6 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
 - [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, although I do like Chapters 2-3.*  
   
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
-  
-This is perhaps the most important section of this project. Read all the books listed here.  
   
 ### 6.7 When Things Go Wrong
 - **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** (not the pocketbook version) – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
