@@ -444,7 +444,7 @@ Read them all.
   
 - [Optional] **Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done** (J Davis, 2015/2017, HarperOne) || *I find the first strategy quite useful, and perhaps the next two. The rest are very common and you probably have picked them up elsewhere.*  
   
-Implement the principles and methods in these books, and perhaps develop your own system based on these, to help you get the most out of graduate school - and your future life and career.  
+Implement the principles and methods described in these books, and perhaps develop your own system based on these, to get the most out of graduate school and your future life and career.  
   
 ### 6.3 Talk Better
 - [Optional] **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
