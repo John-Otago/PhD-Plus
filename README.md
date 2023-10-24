@@ -336,7 +336,7 @@ All three books need an update, perhaps in a few years after Covid-19 as the pan
 
 Again, all from the US. Students in other countries should pick up the key points and apply them to the local context.  
   
-See also the books in section [6.6 Change How You Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-design-your-work--life) before you start (or change) your career.  
+See also the books in section [6.6 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-design-your-work--life) before you start (or change) your career.  
   
 ### 4.4 University Startups & Innovation-Driven Entrepreneurship
 - [Optional] **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
@@ -460,7 +460,7 @@ These books can help improve your communication skills in everyday life and in y
 
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.  
   
-Note: also check out the books in section [6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience) and section [7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity). Focusing on the overall patterns of how you think and how you behave may work better than targeting specific habits one by one.  
+Note: also check out the books in section [6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient) and section [7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity). Focusing on the overall patterns of how you think and how you behave may work better than targeting specific habits one by one.  
   
 ### 6.5 Become Resilient
 - **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
@@ -553,7 +553,7 @@ Goal-setting, decision-making, problem-solving, and risk-taking are important an
 - **The Passion Paradox: A Guide to Going All In, Finding Success, and Discovering the Benefits of an Unbalanced Life** (B Stulberg & S Magness, 2019, Rodale) || Read the whole thing. This book gives very insightful and practical advice on how to develop a growth mindset, which is super important in life and work towards freedom and self-mastery.  
 - **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Already recommended above. This is one of the most important books on the list that ties a lot of things together. Everyone should read it.*  
 
-This section is a follow-up to [6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work) and [6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience). **Productivity** is super important for both individuals (personal growth and life-long learning) and society (development and prosperity), and so are sustained passion and performance. **Sustainability** is the key – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
+This section is a follow-up to [6.2 Work Smart](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-work-smart) and [6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient). **Productivity** is super important for both individuals (personal growth and life-long learning) and society (development and prosperity), and so are sustained passion and performance. **Sustainability** is the key – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
   
   
 ### 7.5 The Overlooked & Undervalued   
