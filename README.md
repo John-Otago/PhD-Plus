@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.5.10  
-Last update: 21 Oct 2023  
+Version 0.6.1  
+Last update: 25 Oct 2023  
 
 ## Table of Contents  
    
@@ -50,7 +50,7 @@ Last update: 21 Oct 2023
   &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
   &emsp;&emsp;[6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience)  
   &emsp;&emsp;[6.6 Change How You Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-design-your-work--life)  
-  &emsp;&emsp;[6.7 Change How You Use Digital Tools](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-change-how-you-use-digital-tools)  
+  &emsp;&emsp;[6.7 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-when-things-go-wrong)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
@@ -483,10 +483,10 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
   
-### 6.7 Change How You Use Digital Tools
-- Note-taking: try the new generation of note-taking tools that have emerged since 2020: [Roam Research](https://roamresearch.com/), [Obsidian](https://obsidian.md/), or [RemNote](https://www.remnote.com/). You can find lots of online tutorials (e.g. videos and blog posts) on how to use them. Do your research and choose your favourite one :)
+### 6.7 When Things Go Wrong
+- **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** (not the pocketbook version) – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
   
-- [Optional] **The Joy of Search: A Google Insider's Guide to Going Beyond the Basics** (DM Russell, 2019, MIT Press) || *It's useful for secondary research like fact-checking and basic info gathering; Chapters 6 and 10 are particularly good.*
+I firmly believe that every curriculum or training programme should teach students how to deal with life when things get hard – really hard. Things do and will go wrong, or not turn out as you expected, and you’ll need to find your way forward.  
   
   
 [Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
