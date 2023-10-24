@@ -44,12 +44,12 @@ Last update: 25 Oct 2023
   &emsp;&emsp;[5.5 Blogs on Academic Writing](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#55-blogs-on-academic-writing)  
   
 &ensp;&ensp;[6. Become Self-Owned](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#6-become-self-owned)  
-  &emsp;&emsp;[6.1 Change How You Think](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-change-how-you-think)  
-  &emsp;&emsp;[6.2 Change How You Work](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-change-how-you-work)  
-  &emsp;&emsp;[6.3 Change How You Communicate](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-change-how-you-communicate)  
-  &emsp;&emsp;[6.4 Change Your Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-change-your-habits)  
-  &emsp;&emsp;[6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience)  
-  &emsp;&emsp;[6.6 Change How You Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-change-how-you-design-your-work--life)  
+  &emsp;&emsp;[6.1 Think Different](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#61-think-different)  
+  &emsp;&emsp;[6.2 Work Smart](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-work-smart)  
+  &emsp;&emsp;[6.3 Talk Better](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-talk-better)  
+  &emsp;&emsp;[6.4 Build Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-build-habits)  
+  &emsp;&emsp;[6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient)  
+  &emsp;&emsp;[6.6 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-design-your-work--life)  
   &emsp;&emsp;[6.7 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-when-things-go-wrong)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
@@ -420,7 +420,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
   
 ## 6. Become Self-Owned
   
-### 6.1 Change How You Think
+### 6.1 Think Different
 - **Thinking in Systems: A Primer** (written by DH Meadows, edited by D Wright, 2008, Chelsea Green Publishing) || *Start from this one before you proceed to other books on systems thinking (e.g. **The Fifth Discipline**).*
   
 - **Think Again: The Power of Knowing What You Don't Know** (A Grant, 2021, Viking) || *Read the whole book.*
@@ -431,7 +431,7 @@ Selecting journals and publishers is VERY important but rarely discussed openly 
   
 Read them all.  
   
-### 6.2 Change How You Work
+### 6.2 Work Smart
 - **Deep Work: Rules for Focused Success in a Distracted World** (C Newport, 2016, Grand Central Publishing of Hachette Book Group) || *Also consult his later book *Digital Minimalism* (2019) if you find yourself distracted by social media.*
   
 - **Getting Things Done (GTD)®: The Art of Stress-free Productivity, updated edition** (D Allen, 2015, Penguin Book) || *GTD is a great method. The book is rich and dense; take your time to go through it and try implementing the method. You may purchase a copy and consult it from time to time. The author has two other books, **Ready for Everything** and **Making It All Work**, and parts of them may be helpful.*
@@ -446,14 +446,14 @@ Read them all.
   
 You should read these books. The goal is to help you get the most of graduate school for a productive and fulfilling life and career, if you can implement the principles and methods described in these books (and perhaps develop your own system based on these).
   
-### 6.3 Change How You Communicate
-- **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
+### 6.3 Talk Better
+- [Optional] **How to Get Your Point Across in 30 Seconds or Less** (MO Frank, 1986/1990, Simon & Schuster) || *It’s an old book that may still be useful if you can find a copy.*
   
-- **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly I don't think the book is well-written, but the method described here can be quite helpful.*
+- [Optional] **Crucial Conversations: Tools for Talking When Stakes are High, 3rd ed.** (J Grenny et al., 2021, McGraw Hill) || *Frankly I don't think the book is well-written, but the method described here can be quite helpful.*
   
 These books can help improve your communication skills in everyday life and in your career. You may also consult other titles and resources on this topic.  
   
-### 6.4 Change Your Habits  
+### 6.4 Build Habits
 - [Optional] **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Chapters 1-5.*
   
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional.*  
@@ -462,7 +462,7 @@ These books can help you cultivate good habits and break bad ones, especially wh
   
 Note: also check out the books in section [6.5 Change How You Build Resilience](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-change-how-you-build-resilience) and section [7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity). Focusing on the overall patterns of how you think and how you behave may work better than targeting specific habits one by one.  
   
-### 6.5 Change How You Build Resilience
+### 6.5 Become Resilient
 - **Your Survival Instinct Is Killing You: Retrain Your Brain to Conquer Fear and Build Resilience** (M Schoen with K Loberg, 2014, Plume) || *A very insightful book. Highly recommended.*
   
 - **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Exceptional. Read the whole thing. See also Section 7.4 below.*  
@@ -471,11 +471,11 @@ Note: also check out the books in section [6.5 Change How You Build Resilience](
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual. Give them a go - these books can be quite enlightening and insightful. If you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful'). Give them a go - if you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*
   
 This is perhaps the most important section of this project. Read all the books listed here.  
   
-### 6.6 Change How You Design Your Work & Life
+### 6.6 Design Your Work & Life
   
 - **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you are going to start/change your career.*
   
@@ -486,7 +486,7 @@ This is perhaps the most important section of this project. Read all the books l
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
   
 ### 6.7 When Things Go Wrong
-- **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** (not the pocketbook version) – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
+- **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
   
 I firmly believe that every curriculum or training programme should teach students how to deal with life when things get hard – really hard. Things do and will go wrong, or not turn out as you expected, and you’ll need to find your way forward.  
   
