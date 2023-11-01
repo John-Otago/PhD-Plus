@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 A J. W. Project  
-Version 0.6.1  
-Last update: 25 Oct 2023  
+Version 0.6.2  
+Last update: 02 Nov 2023 (out of cycle)  
 
 ## Table of Contents  
    
@@ -341,6 +341,8 @@ See also the books in section [6.6 Design Your Work & Life](https://github.com/J
 ### 4.4 University Startups & Innovation-Driven Entrepreneurship
 - [Optional] **The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses** (E Ries, 2011, Currency)
 - [Optional] **Research to Revenue: A Practical Guide to University Start-Ups** (D Rose & C Patterson, 2016, University of North Carolina Press)
+- [Optional] **Unicorn Tears: Why Startups Fail and How to Avoid It** (J Pride, 2018, Wiley)
+- [Optional] **The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time** (J McKelvey, 2020, Portfolio)
 - [Optional] MIT open course (15.390) and MOOC (15.390x) on **Innovation-Driven Entrepreneurship** || *You can find it on [EdX]( https://entrepreneurship.mit.edu/online-learning/), YouTube ([here]( https://www.youtube.com/channel/UCalob7RKVi8MsKjMmpiyZzw) and [here]( https://www.youtube.com/MITBootcamps)), or [MIT OpenCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-390-new-enterprises-spring-2013/). You can also sign up for their [bootcamp](https://bootcamps.mit.edu/bootcamps/innovation-leadership/).*
 
 ### 4.5 Become an SME Owner-Operator or Sole-Proprietor
@@ -522,7 +524,8 @@ Principles and disciplines are foundations of personal mastery and freedom. They
 - **The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results** (G Keller & J Papasan, 2013, Bard Press) || *Read Chapters 1-2, 4, 10, and (perhaps) 13-18.*
 - **Effortless: Make it Easier to Do What Matters Most** (G McKeown, 2021, Currency/Virgin Books)
 - **The 4 Disciplines of Execution: Achieving Your Wildly Important Goals, 2nd ed.** (C McChesney et al., 2021, Simon & Schuster)
-- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems**. Or perhaps read only Part I & II (first seven chapters).
+- [Optional] **The Fifth Discipline: The Art & Practice of the Learning Organization** (PM Senge, [1990] 2006, Doubleday) || *Completely optional if you have read **Thinking in Systems**. Or perhaps read only Part I & II (first seven chapters).*
+- [Optional] **Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire** (D Martell, 2023, Portfolio) || *May be useful (in the future).*
   
 It's difficult to find a good book on generic strategic thinking. Strategy is mostly discussed in the military, foreign policy, and business administration. Few people talk about how it functions in everyday life.  
 
