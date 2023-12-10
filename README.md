@@ -1,8 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
-A J. W. Project  
-Version 0.6.2  
-Last update: 02 Nov 2023 (out of cycle)  
+By J. W.  
+Last update: 11 Dec 2023  
 
 ## Table of Contents  
    
@@ -471,11 +470,13 @@ Note: also check out the books in section [6.5 Become Resilient](https://github.
   
 - **The Happiness Trap: How to Stop Struggling and Start Living, 2nd ed.** (R Harris, 2022, Shambhala Publications) || *There’s also a concise, comic-book version called **The Happiness Trap Pocketbook: An Illustrated Guide on How to Stop Struggling and Start Living** (US title: **The Illustrated Happiness Trap**), which may be a better starting point than the full version.*  
   
-- **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions among his books, and I often feel he tries to cover too much, but these books can be helpful. *Neuro Dharma* is my favourite so far (most enlightening).*  
+- **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions in these books, and he often tries to cover too much, but give it a go.*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful'). Give them a go - if you like them, continue to Tolle's other books like **Stillness Speaks** (2003) etc.*
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful'). If you like these books, continue to Tolle's other titles like **Stillness Speaks** (2003) etc.*
   
-This is perhaps the most important section of this project. Read all the books listed here.  
+- [Optional] **The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance** (1974/2024) || *Might be helpful.*  
+  
+This is one of the most important sections of this project. Read these books.  
   
 ### 6.6 Design Your Work & Life
   
