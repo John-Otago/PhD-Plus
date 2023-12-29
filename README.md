@@ -491,10 +491,10 @@ This is one of the most important sections of this project. Read these books.
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
 
 ### 6.7 Be Mindful
-‘Mindfulness’ has become quite popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, from Thích Nhất Hạnh (who popularized the term ‘mindfulness’ and mindful meditation) to Eckhart Tolle (recommended above) and many more. Lots of them are essentially secular Buddhism, which offers a potential pathway if you want to deepen your mindful practices.  
+‘Mindfulness’ has become quite popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, from Thích Nhất Hạnh (who popularized the term ‘mindfulness’ and mindful meditation) to Eckhart Tolle (recommended above) and many more. Lots of these are essentially secular Buddhism, which offers a potential pathway if you want to deepen your mindful practices.  
   
 ### 6.8 When Things Go Wrong
-- **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
+- **The Reality Slap: How to Survive and Thrive When Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
   
 I firmly believe that every curriculum or training programme should teach students how to deal with life when things get hard – really hard. Things do and will go wrong, or not turn out as you expected, and you’ll need to find your way forward.  
   
