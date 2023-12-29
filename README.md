@@ -1,7 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: 11 Dec 2023  
+Last update: 30 Dec 2023  
+(currently on hold – need time to focus on other projects)  
 
 ## Table of Contents  
    
@@ -49,7 +50,8 @@ Last update: 11 Dec 2023
   &emsp;&emsp;[6.4 Build Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-build-habits)  
   &emsp;&emsp;[6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient)  
   &emsp;&emsp;[6.6 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-design-your-work--life)  
-  &emsp;&emsp;[6.7 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-when-things-go-wrong)  
+  &emsp;&emsp;[6.7 Be Mindful](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-be-mindful)  
+  &emsp;&emsp;[6.8 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#68-when-things-go-wrong)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
   &emsp;&emsp;[7.1 Principles & Disciplines](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#71-principles--disciplines)  
@@ -487,8 +489,11 @@ This is one of the most important sections of this project. Read these books.
 - [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, although I do like Chapters 2-3.*  
   
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
+
+### 6.7 Be Mindful
+‘Mindfulness’ has become quite popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, from Thích Nhất Hạnh (who popularized the term ‘mindfulness’ and mindful meditation) to Eckhart Tolle (recommended above) and many more. Lots of them are essentially secular Buddhism, which offers a potential pathway if you want to deepen your mindful practices.  
   
-### 6.7 When Things Go Wrong
+### 6.8 When Things Go Wrong
 - **The Reality Slap: How to Survive and Thrive when Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
   
 I firmly believe that every curriculum or training programme should teach students how to deal with life when things get hard – really hard. Things do and will go wrong, or not turn out as you expected, and you’ll need to find your way forward.  
