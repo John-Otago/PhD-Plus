@@ -708,7 +708,7 @@ Ignore the context if you are not in Math or CS, but take the message. This is a
 
 Again, ignore the context, and focus on the message that can be used in other areas.  
 
-(c) [~~Short notes on self-teaching strategies~~](https://functionalcs.github.io/curriculum/#Studying%20Strategies) (not sure who wrote this - the original post has been changed, see alternative links [here](https://oinam.github.io/CS-curriculum/#orgca1f373) and [here](https://oinam.github.io/CS-curriculum/#org1b04950)).  
+(c) A [~~short note on self-teaching strategies~~](https://functionalcs.github.io/curriculum/#Studying%20Strategies) (not sure who wrote this - the original post has been changed, see an alternative link [here](https://oinam.github.io/CS-curriculum/#orgca1f373) and a follow-up quote [here](https://oinam.github.io/CS-curriculum/#org1b04950)).  
 
 A word of caution: if you are getting into a completely different field with very little prior knowledge, then the amount of 'research' you need to do will be humongous if you follow this method, and will grow exponentially as you progress.  
 
