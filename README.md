@@ -1,8 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: 24 Jan 2024  
-(currently on hold – need time to focus on other projects)  
+Last update: O1 Oct 2024  
+(project on hold)  
 
 ## Table of Contents  
    
@@ -274,7 +274,7 @@ Sections 6-7 will be helpful.
 ## 3. Starting Graduate School
   
 ### 3.1 Getting Ready for Graduate School
-- **The Craft of Research, 4th ed.** (WC Booth et al., 2016, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
+- **The Craft of Research, 5th ed.** (WC Booth et al., 2024, University of Chicago Press) || *An excellent introduction to the art and craft of research.*
   
 - **How To Get A PhD: A Handbook for Students and Their Supervisors, 6th ed.** (EM Phillips & DS Pugh, 2015, Open UP) || *This is the so-called 'PhD bible' in the UK and helpful for students in other countries.*
   
