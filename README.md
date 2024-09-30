@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: O1 Oct 2024  
+Last update: 01 Oct 2024  
 (project on hold)  
 
 ## Table of Contents  
