@@ -1,9 +1,8 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: 01 Oct 2024  
-(project on hold)  
-
+Last update: 10 Feb 2025  
+  
 ## Table of Contents  
    
 &ensp;&ensp;[Introduction](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#introduction)  
@@ -255,7 +254,7 @@ The latter is to improve your productivity--in the long run, that's the only thi
 
 In reality, most people need to balance the two: work hard to produce, but always look for ways to work smart to reduce the input while maintaining or even increasing the output. 
   
-Above all, make your productivity sustainable - see Section 7.4 below.  
+Above all, make your productivity sustainable, and aim for the right type of productivity - see Section 7.4 below.  
   
 **Resilience:**  
 (a) Develop your ability to adapt to changes, losses, and adversities.  
@@ -561,8 +560,9 @@ Goal-setting, decision-making, problem-solving, and risk-taking are important an
 - **Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success** (B Stulberg & S Magness, 2017, Rodale) || *Read Section 1.*  
 - **The Passion Paradox: A Guide to Going All In, Finding Success, and Discovering the Benefits of an Unbalanced Life** (B Stulberg & S Magness, 2019, Rodale) || Read the whole thing. This book gives very insightful and practical advice on how to develop a growth mindset, which is super important in life and work towards freedom and self-mastery.  
 - **Do Hard Things: Why We Get Resilience Wrong and the Surprising Science of Real Toughness** (S Magness, 2022, HarperOne) || *Already recommended above. This is one of the most important books on the list that ties a lot of things together. Everyone should read it.*  
-
-This section is a follow-up to [6.2 Work Smart](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-work-smart) and [6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient). **Productivity** is super important for both individuals (personal growth and life-long learning) and society (development and prosperity), and so are sustained passion and performance. **Sustainability** is the key – unsustainable productivity is not truly productive in the long run. Read all the books in this section.  
+- [Optional] **Slow Productivity: The Lost Art of Accomplishment without Burnout** (C Newport, 2024, Portfolio) || *This one may help.*  
+  
+This section is a follow-up to [6.2 Work Smart](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#62-work-smart) and [6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient). **Productivity** is super important for both individuals (personal growth and life-long learning) and society (development and prosperity), and so are sustained passion and performance. **Sustainability** is the key – unsustainable productivity is not truly productive in the long run. Aim for the right type of productivity if you can.  
   
   
 ### 7.5 The Overlooked & Undervalued   
