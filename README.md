@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: 10 Feb 2025  
+Last update: 19 May 2025  
   
 ## Table of Contents  
    
@@ -310,7 +310,7 @@ In a small country, even those who can land a career-track academic job often sp
   
 International students should also think about in which country they are going to do their PhD: a doctorate in a leading country at the top of the academic hierarchy may earn you the entry ticket to global mobility and allow you to consider jobs in most countries you are willing to work in; the reverse is unlikely to be true (i.e. a PhD earned in a country with less academic prowess may confine your career to the local market, as the bigger players often prefer their own graduates trained in their own systems).  
   
-For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.  
+~~For those in the US, the Biden administration has committed to more research funding especially in STEM, which may have a flow-on effect in HASS. It is still unclear whether this will lead to another 'research boom' similar to that during the Cold War when the US invested heavily in science and technology that boosted funding for universities. It is also unclear whether this will change the academic job market.~~  
 
 Overall, I ask all my PhD students to consider and prepare for a dual career track (academic and non-academic) from Day One.  
   
