@@ -693,11 +693,11 @@ I would highlight the following philosophies and principles behind my thinking:
   
 You’ll pick up most of these terms when you read the books in Sections 3-7, save for ‘critical realism’, which comes from the philosophical foundation behind my own research.  
   
-Of course, these concepts are different, but for me they are more or less the same if we focus on the connections among these different terms.  
+Of course, these concepts are different, but for me they are more or less the same if we focus on the connections rather than the differences.  
   
 You can see that my focus is consistently on learning and self-growth to change the way we think and act (to build humble confidence or confident humility), the importance of reality (realistic optimism, pragmatic idealism, or empirical creativity), the limits of knowledge and experience (critical realism and skeptical empiricism), and the ultimate goal towards personal mastery, freedom, and independence through principles and disciplines (creative tension and creative discipline).  
   
-I hope I have been able to engage these different but connected approaches to present the current project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to *act*.  
+I hope I have been able to engage these different but connected approaches in this project. Once again, you don’t need to agree with me on anything discussed here; it’s good enough if this project makes you *think* and start to *act*.  
   
 Thank you for bearing with me through this incredible journey.  
   
