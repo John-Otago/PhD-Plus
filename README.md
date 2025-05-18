@@ -620,7 +620,7 @@ Sometimes the more you do, the less you actually accomplish. You should *remove*
   
 Only when you reduce and eliminate noises, distractions, falsehoods, and the nonessentials, will the most crucial and the most critical emerge.  
   
-In terms of **learning**, once you have *built up* your reservoir of knowledge, you’ll need to *build down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
+In terms of **learning**, once you have *built up* your reservoir of knowledge, you’ll need to *cut down* and trim off excessive and obsolete knowledge that doesn’t work or no longer aligns with reality. Only keep what is true and what works for you, so you can reduce the vast reservoir of knowledge to concentrated essences.  
   
 In terms of **doing**, less is more. By doing less and only the most crucial, you can keep a sharp focus, align your efforts with what matters most, and direct your attention and energy to your wildly important goal. ‘Doing less’ while ‘focusing more’ is the most effective and productive way to achieve what you aim for.  
 
@@ -634,8 +634,8 @@ At the end of the day, what you don’t know (the *anti-knowledge*) may be more 
   
 Keep that in mind.  
   
-### The End is the Start
-The end of theory is the start of practice (and vice versa). The end of reading and learning is the start of doing. The end of building up is the start of building down and cutting off.  
+### The End of the Beginning
+The end of theory is the start of practice (and vice versa). The end of reading and learning is the start of doing. The end of building up is the start of cutting down and trimming off.  
   
 The end of this project is the start of how you understand, approach, prepare for, and make the most of your graduate training, and the end of graduate school is the start of your real-life adventures.  
   
