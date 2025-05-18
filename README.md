@@ -580,6 +580,22 @@ I will add a few books and relevant resources to this section.
   ---
   
   
+## 8. To Become (Truly?) Free
+  
+If you remember what I talked about at the start, **freedom** is the ultimate goal of graduate training (and personal development in general). But what is freedom? This is always a slippery concept, and its definition and understanding differ significantly from culture to culture, time to time, and person to person.  
+
+In ancient Greek philosophies like Stoicism, freedom is understood as a mental orientation rather than legal, civil, or political rights and structures, or a form of ultimate self-mastery and self-ownership. In Eastern religions like Zen Buddhism, ‘freedom’ may not be explicitly defined, but is often understood as ‘free’ from all suffering, including suffering caused by others (external factors) and ourselves (our mind).  
+
+I have included two books here – both are excellent, but both are optional. My experience and many others’ experiences seem to indicate that true freedom perhaps lies beyond our thinking mind, and hence anything that works at the level of philosophy or psychology can only be the means (approximating freedom) but never the end (freedom itself).  
+
+These books can be good entry points, but as I mentioned in Section 6.7, anything beyond philosophy or psychology would perhaps edge into the spiritual realm, which is beyond the scope of this project. I’ll have to leave the last and perhaps the most important part of the journey to you – only you can find your own path for yourself.  
+  
+  
+[Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
+  
+  ---
+  
+  
 ## Closing Remarks
   
 ### Walk the Talk
