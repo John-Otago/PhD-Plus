@@ -62,7 +62,7 @@ Last update: 19 May 2025
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
   &emsp;&emsp;[*Via Negativa*](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#via-negativa)  
-  &emsp;&emsp;[The End is the Start](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-of-the-beginning)  
+  &emsp;&emsp;[The End of the Beginning](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#the-end-of-the-beginning)  
   
 &ensp;&ensp;[Appendix A](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-a)  
 &ensp;&ensp;[Appendix B](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#appendix-b)  
