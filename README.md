@@ -59,7 +59,7 @@ Last update: 19 May 2025
   &emsp;&emsp;[7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity)  
   &emsp;&emsp;[7.5 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#75-the-overlooked--undervalued)  
 
-&ensp;&ensp;[8. Become (Truly?) Free](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
+&ensp;&ensp;[8. Become (Truly?) Free](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#8-become-truly-free)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
