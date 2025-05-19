@@ -48,8 +48,8 @@ Last update: 19 May 2025
   &emsp;&emsp;[6.3 Talk Better](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-talk-better)  
   &emsp;&emsp;[6.4 Build Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-build-habits)  
   &emsp;&emsp;[6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient)  
-  &emsp;&emsp;[6.6 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-design-your-work--life)  
-  &emsp;&emsp;[6.7 Be Mindful](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-be-mindful)  
+  &emsp;&emsp;[6.6 Be Mindful](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-be-mindful)  
+  &emsp;&emsp;[6.7 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-design-your-work--life)  
   &emsp;&emsp;[6.8 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#68-when-things-go-wrong)  
       
 &ensp;&ensp;[7. Become Self-Owned (continued)](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
@@ -481,7 +481,10 @@ Note: also check out the books in section [6.5 Become Resilient](https://github.
   
 This is one of the most important sections of this project. Read these books.  
   
-### 6.6 Design Your Work & Life
+### 6.6 Be Mindful
+‘Mindfulness’ has become ever popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, and many of what you can find today are essentially secular Buddhism (or other secularised or 'psychologised' spiritual practices). Mindful practices may offer some mental health benefits, and you can use them as a pathway to go deeper into the spiritual domain, although spiritual practices are perhaps beyond the scope of this project.  
+  
+### 6.7 Design Your Work & Life
   
 - **Designing Your Life: How to Build a Well-Lived, Joyful Life** (B Burnett & D Evans, 2016, Knopf) || *Can be helpful, especially when you are going to start/change your career.*
   
@@ -490,9 +493,6 @@ This is one of the most important sections of this project. Read these books.
 - [Optional] **Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment** (T Ben-Shahar, 2007, McGraw Hill) || *A bit basic, although I do like Chapters 2-3.*  
   
 - [Optional] **From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life** (Arthur C. Brooks, 2022/2023, Portfolio/Penguin) || *Same here: quite basic and I’m a bit hesitant to include this book, but perhaps read Chapters 1-2.*  
-
-### 6.7 Be Mindful
-‘Mindfulness’ has become ever popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, and many of what you can find today are essentially secular Buddhism (or other secularised or 'psychologised' spiritual practices). Mindful practices may offer some mental health benefits, and you can use them as a pathway to go deeper into the spiritual domain, although spiritual practices are perhaps beyond the scope of this project.  
   
 ### 6.8 When Things Go Wrong
 - **The Reality Slap: How to Survive and Thrive When Life Hits Hard, 2nd ed.** (R Harris, 2021, Robinson) || *Optional if you have read the complete version of **The Happiness Trap, 2nd edition** – there are lots of overlaps between them. This may not be the best book out there on this topic, but it is at least a solid starting point.*  
@@ -594,7 +594,7 @@ In ancient Greek philosophies like Stoicism, freedom is understood as a mental o
 
 I have included two books here – one written by a slave in ancient Greece and Rome, and another a prisoner in the concentration camp. Both books are excellent, but my and many others’ experiences seem to indicate that true freedom perhaps lies beyond our thinking mind, and hence anything that works at the level of philosophy or psychology can only be the means (approximating freedom) but never the end (freedom itself).  
 
-These books can be good entry points, but as I mentioned in Section 6.7, anything beyond philosophy or psychology would perhaps edge into the spiritual realm, which is beyond the scope of this project. I’ll have to leave the last and perhaps most important part of the journey to you – only you can find your own path for yourself.  
+These books can be good entry points, but as I mentioned in Section 6.6, anything beyond philosophy or psychology would perhaps edge into the spiritual realm, which is beyond the scope of this project. I’ll have to leave the last and perhaps most important part of the journey to you – only you can find your own path for yourself.  
   
   
 [Back to Table of Contents](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#table-of-contents)  
