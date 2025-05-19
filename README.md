@@ -58,6 +58,8 @@ Last update: 19 May 2025
   &emsp;&emsp;[7.3 Decision-Making & Problem-Solving](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#73-decision-making--problem-solving)  
   &emsp;&emsp;[7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity)  
   &emsp;&emsp;[7.5 The Overlooked & Undervalued](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#75-the-overlooked--undervalued)  
+
+&ensp;&ensp;[8. Become (Truly?) Free](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#7-become-self-owned-continued)  
     
 &ensp;&ensp;[Closing Remarks](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#closing-remarks)  
   &emsp;&emsp;[Walk the Talk](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#walk-the-talk)  
@@ -580,7 +582,7 @@ I will add a few books and relevant resources to this section.
   ---
   
   
-## 8. To Become (Truly?) Free
+## 8. Become (Truly?) Free
   
 - [Optional] **How to Be Free: An Ancient Guide to the Stoic Life** (Epictetus, edited and translated by A A Long, 2018, Princeton UP).
   
