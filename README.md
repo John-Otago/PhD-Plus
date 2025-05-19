@@ -459,7 +459,7 @@ These books can help improve your communication skills in everyday life and in y
 - [Optional] **The Power of Habit: Why We Do What We Do in Life and Business** (C Duhigg, 2012/2014, Random House) || *Read Chapters 1-5.*
   
 - [Optional] **Atomic Habits** (J Clear, 2018, Random House) || *Completely optional.*  
-
+  
 These books can help you cultivate good habits and break bad ones, especially when you find yourself struggling to break a 'vicious cycle' or to build a 'virtuous' habit. It is a useful skill for both your PhD and your future life and career.  
   
 Note: also check out the books in section [6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient) and section [7.4 Sustained Passion, Performance, and Productivity](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#74-sustained-passion-performance-and-productivity). Focusing on the overall patterns of how you think and how you behave may work better than targeting specific habits one by one.  
@@ -582,11 +582,15 @@ I will add a few books and relevant resources to this section.
   
 ## 8. To Become (Truly?) Free
   
+- [Optional] **How to Be Free: An Ancient Guide to the Stoic Life** (Epictetus, edited and translated by A A Long, 2018, Princeton UP).
+  
+- [Optional] **Man's Search for Meaning** (V E Frankl, 1959 [2023], Beacon Press).
+  
 If you remember what I talked about at the start, **freedom** is the ultimate goal of graduate training (and personal development in general). But what is freedom? This is always a slippery concept, and its definition and understanding differ significantly from culture to culture, time to time, and person to person.  
 
 In ancient Greek philosophies like Stoicism, freedom is understood as a mental orientation rather than legal, civil, or political rights and structures, or a form of ultimate self-mastery and self-ownership. In Eastern religions like Zen Buddhism, ‘freedom’ may not be explicitly defined, but is often understood as ‘free’ from all suffering, including suffering caused by others (external factors) and ourselves (our mind).  
 
-I have included two books here – both are excellent, but both are optional. My experience and many others’ experiences seem to indicate that true freedom perhaps lies beyond our thinking mind, and hence anything that works at the level of philosophy or psychology can only be the means (approximating freedom) but never the end (freedom itself).  
+I have included two books here – one written by a slave in ancient Greece and Rome, and another a prisoner in the concentration camp. Both books are excellent, but my and many others’ experiences seem to indicate that true freedom perhaps lies beyond our thinking mind, and hence anything that works at the level of philosophy or psychology can only be the means (approximating freedom) but never the end (freedom itself).  
 
 These books can be good entry points, but as I mentioned in Section 6.7, anything beyond philosophy or psychology would perhaps edge into the spiritual realm, which is beyond the scope of this project. I’ll have to leave the last and perhaps the most important part of the journey to you – only you can find your own path for yourself.  
   
