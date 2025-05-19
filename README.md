@@ -475,14 +475,19 @@ Note: also check out the books in section [6.5 Become Resilient](https://github.
   
 - **Neurodharma: New Science, Ancient Wisdom, and Seven Practices of the Highest Happiness** (R Hanson, 2020/2021, Harmony) || *Rick Hanson has many books: **Buddha’s Brain**, **Hardwiring Happiness**, **Resilient**, and more. There are some repetitions in these books, and he often tries to cover too much, but give it a go.*  
   
-- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful'). If you like these books, continue to Tolle's other titles like **Stillness Speaks** (2003) etc.*
-  
 - [Optional] **The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance** (1974/2024) || *Might be helpful.*  
   
 This is one of the most important sections of this project. Read these books.  
   
 ### 6.6 Be Mindful
-‘Mindfulness’ has become ever popular in the West, although mindful practices have long existed in many Eastern cultural and spiritual traditions. There’s a lot you can read in this area, and many of what you can find today are essentially secular Buddhism (or other secularised or 'psychologised' spiritual practices). Mindful practices may offer some mental health benefits, and you can use them as a pathway to go deeper into the spiritual domain, although spiritual practices are perhaps beyond the scope of this project.  
+  
+- **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful').*
+
+‘Mindfulness’ has become ever popular in the West, although mindful practices have long existed in Eastern cultural and spiritual traditions. There’s a lot you can read, many of which are essentially secular Buddhism (or other secularised or 'psychologised' spiritual practices).  
+  
+Mindful practices may offer some mental health benefits, and can be a pathway into the spiritual domain, although spiritual practices are perhaps beyond the scope of this project (unless where they are already channelled through neuroscience, psychology, or mindful practices).  
+  
+Either way, true freedom perhaps lies beyond the mind, and being 'mindful' (or 'mindless') is perhaps only a means rather than the end. I will return to this point in Section 8 at the end of this project.  
   
 ### 6.7 Design Your Work & Life
   
