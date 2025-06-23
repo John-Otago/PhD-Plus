@@ -1,7 +1,7 @@
 # PhD+ | Resources & Advice for Graduate Students
   
 By J. W.  
-Last update: 19 May 2025  
+Last update: 24 June 2025  
   
 ## Table of Contents  
    
@@ -479,7 +479,7 @@ Note: also check out the books in section [6.5 Become Resilient](https://github.
   
 This is one of the most important sections of this project. Read these books.  
   
-### 6.6 Be Mindful
+### 6.6 Be (and Beyond) Mindful
   
 - **The Power of Now: A Guide to Spiritual Enlightenment** (1995/1997) and **A New Earth: Awakening to Your Life’s Purpose** (2005, both by E Tolle) || *We are moving from psychological resilience to something more spiritual (or 'mindful').*
 
