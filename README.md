@@ -48,7 +48,7 @@ Last update: 24 June 2025
   &emsp;&emsp;[6.3 Talk Better](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#63-talk-better)  
   &emsp;&emsp;[6.4 Build Habits](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#64-build-habits)  
   &emsp;&emsp;[6.5 Become Resilient](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#65-become-resilient)  
-  &emsp;&emsp;[6.6 Be Mindful](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-be-mindful)  
+  &emsp;&emsp;[6.6 Be (and Beyond) Mindful](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#66-be-and-beyond-mindful)  
   &emsp;&emsp;[6.7 Design Your Work & Life](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#67-design-your-work--life)  
   &emsp;&emsp;[6.8 When Things Go Wrong](https://github.com/John-Otago/PhD-Plus/blob/main/README.md#68-when-things-go-wrong)  
       
